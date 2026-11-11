@@ -1,0 +1,288 @@
+[
+  {
+    "session": "M1S1",
+    "slide": 2,
+    "title": "Question Order in a Published Survey",
+    "type": "evidence",
+    "sources": [
+      "https://www.pewresearch.org/writing-survey-questions/"
+    ],
+    "image": null,
+    "caption": "Pew Research Center, December 2008 U.S. poll."
+  },
+  {
+    "session": "M1S1",
+    "slide": 5,
+    "title": "A Fair Comparison in the Survey Tool",
+    "type": "screenshot",
+    "sources": [
+      "https://www.qualtrics.com/support/survey-platform/survey-module/block-options/question-randomization/"
+    ],
+    "image": {
+      "file": "qualtrics_options.png",
+      "crop": {
+        "left": 0.17,
+        "top": 0.25,
+        "right": 0.17,
+        "bottom": 0.28
+      },
+      "alt": "Official Qualtrics dialog shows no randomization, all-question randomization, a subset option, and advanced randomization. The advanced option is highlighted in the source."
+    },
+    "caption": "Qualtrics documentation: question randomization."
+  },
+  {
+    "session": "M1S1",
+    "slide": 8,
+    "title": "Predictions for a New Procedure",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed predictions. Both models match the earlier results."
+  },
+  {
+    "session": "M1S2",
+    "slide": 2,
+    "title": "Inputs to a Recommendation",
+    "type": "screenshot",
+    "sources": [
+      "https://newsroom.spotify.com/2023-02-08/exclude-from-your-taste-profile-will-make-your-personalized-recommendations-even-better/"
+    ],
+    "image": {
+      "file": "spotify2023.jpg",
+      "crop": {
+        "left": 0.51,
+        "top": 0.43,
+        "right": 0.24,
+        "bottom": 0.43
+      },
+      "alt": "Spotify’s official nursery-rhyme playlist menu includes Exclude from your taste profile. The source highlights that control."
+    },
+    "caption": "Spotify launch example, February 2023."
+  },
+  {
+    "session": "M1S2",
+    "slide": 3,
+    "title": "Evidence and the Proposed Test",
+    "type": "evidence_table",
+    "sources": [
+      "https://newsroom.spotify.com/2023-02-08/exclude-from-your-taste-profile-will-make-your-personalized-recommendations-even-better/"
+    ],
+    "image": null,
+    "caption": "Worked source ledger for the Spotify example."
+  },
+  {
+    "session": "M1S2",
+    "slide": 6,
+    "title": "Volume for a Complete Audit",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Six conditions per persona. Counts exclude retries and pilot work."
+  },
+  {
+    "session": "M2S1",
+    "slide": 4,
+    "title": "Agreement and the A-Yes Rate",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Calculated from the imposed answer-pair table on the previous slide."
+  },
+  {
+    "session": "M2S1",
+    "slide": 7,
+    "title": "Resampling Complete Personas",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Toy example: draw personas 02, 02, 03 from three complete blocks."
+  },
+  {
+    "session": "M2S2",
+    "slide": 2,
+    "title": "A Battery for the Service Decision",
+    "type": "evidence_table",
+    "sources": [],
+    "image": null,
+    "caption": "Fictional planning example. Supply the same service facts in every arm."
+  },
+  {
+    "session": "M2S2",
+    "slide": 4,
+    "title": "The Final Question Has a Fixed Position",
+    "type": "screenshot",
+    "sources": [
+      "https://www.qualtrics.com/support/survey-platform/survey-module/block-options/question-randomization/"
+    ],
+    "image": {
+      "file": "qualtrics_advanced.png",
+      "crop": {
+        "left": 0.24,
+        "top": 0.02,
+        "right": 0.24,
+        "bottom": 0.66
+      },
+      "alt": "The upper portion of the official advanced-randomization dialog contrasts fixed display order with randomize questions. The displayed example text belongs to Qualtrics, not the course battery."
+    },
+    "caption": "Qualtrics documentation: advanced randomization."
+  },
+  {
+    "session": "M2S2",
+    "slide": 5,
+    "title": "The Record of What Each Person Saw",
+    "type": "screenshot",
+    "sources": [
+      "https://www.qualtrics.com/support/survey-platform/survey-module/block-options/question-randomization/"
+    ],
+    "image": {
+      "file": "qualtrics_export.png",
+      "crop": {
+        "left": 0.225,
+        "top": 0.35,
+        "right": 0.225,
+        "bottom": 0.43
+      },
+      "alt": "An official Qualtrics export dialog has the option Export viewing order data for randomized surveys checked and outlined."
+    },
+    "caption": "Qualtrics documentation: viewing-order export."
+  },
+  {
+    "session": "M2S2",
+    "slide": 6,
+    "title": "Precision and the Collection Plan",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Planning illustration: two independent arms, each with yes probability 0.50."
+  },
+  {
+    "session": "M3S1",
+    "slide": 2,
+    "title": "An Interface Suggests the Next Action",
+    "type": "screenshot",
+    "sources": [
+      "https://stripe.com/radar/transaction-fraud"
+    ],
+    "image": {
+      "file": "stripe_strategy.png",
+      "crop": {
+        "left": 0.695,
+        "top": 0.3,
+        "right": 0.055,
+        "bottom": 0.43
+      },
+      "alt": "The focused view of the official Stripe demo displays an Adaptive 3DS recommendation with a Start experiment control. 3DS adds customer authentication. Its revenue number is demo content."
+    },
+    "caption": "Stripe public interface demonstration, captured November 2026."
+  },
+  {
+    "session": "M3S1",
+    "slide": 5,
+    "title": "Equal Block Rates, Different Errors",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed outcomes: 30 fraudulent and 70 legitimate attempts in each procedure."
+  },
+  {
+    "session": "M3S1",
+    "slide": 6,
+    "title": "Listening and the Taste Profile",
+    "type": "screenshot",
+    "sources": [
+      "https://newsroom.spotify.com/2025-10-01/exclude-tracks-taste-profile/"
+    ],
+    "image": {
+      "file": "spotify2025.png",
+      "crop": {
+        "left": 0.535,
+        "top": 0.35,
+        "right": 0.2,
+        "bottom": 0.345
+      },
+      "alt": "Spotify’s official track menu shows Hide in this playlist separately from Exclude track from your taste profile. The latter is highlighted in the original image."
+    },
+    "caption": "Spotify track-exclusion announcement, October 2025."
+  },
+  {
+    "session": "M3S2",
+    "slide": 3,
+    "title": "A Missing Condition in the Collection",
+    "type": "evidence_table",
+    "sources": [],
+    "image": null,
+    "caption": "Toy excerpt: two of the six conditions; one repetition per persona."
+  },
+  {
+    "session": "M3S2",
+    "slide": 4,
+    "title": "Estimates Across Repeated Samples",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "5,000 simulations: 100 independent responses per arm; true rates 0.60 and 0.50."
+  },
+  {
+    "session": "M3S2",
+    "slide": 5,
+    "title": "The Rare Subgroup Limits Precision",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed counts: 100 assessed records divided by the first answer."
+  },
+  {
+    "session": "M4S1",
+    "slide": 3,
+    "title": "A Figure for the Client Decision",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Illustrative audit: 128/200 versus 102/200 valid responses."
+  },
+  {
+    "session": "M4S1",
+    "slide": 4,
+    "title": "A Recommendation Depends on Costs",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed loss: A = 70 + 5c; B = 40 + 15c."
+  },
+  {
+    "session": "M4S1",
+    "slide": 5,
+    "title": "Averages and Subgroup Patterns",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed rates: 100 observations per profile in each order."
+  },
+  {
+    "session": "M4S2",
+    "slide": 3,
+    "title": "Three Audit Summaries",
+    "type": "intervals",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed estimates and 95% intervals, in percentage points. Different settings."
+  },
+  {
+    "session": "M4S2",
+    "slide": 4,
+    "title": "Costs of Two Review Procedures",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed costs: total $2,800 versus $2,700 per 1,000 decisions."
+  },
+  {
+    "session": "M4S2",
+    "slide": 5,
+    "title": "A New Test of the Strongest Alternative",
+    "type": "evidence",
+    "sources": [],
+    "image": null,
+    "caption": "Imposed rival predictions; no outcomes from the proposed delay test."
+  }
+]

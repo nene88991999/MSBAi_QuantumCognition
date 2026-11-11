@@ -21,14 +21,39 @@
         "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
       },
       {
-        "title": "The Detection Assumption",
+        "title": "Question Order in a Published Survey",
         "lines": [
-          "What does a detection explanation assume?",
-          "What might the act of answering change?",
-          "Write one example before discussing it."
+          "What changed before the country question?"
         ],
         "minutes": 5,
-        "notes": "Work individually for two minutes, then compare with a partner. Identify the assumption in the example, rather than simply labeling a result a bias."
+        "notes": "Pew reports 78% dissatisfied when the country question came first and 88% when presidential approval immediately preceded it. These are published percentages of U.S. adults, not a new estimate. The page does not supply arm sizes here, so no confidence interval is inferred. Ask students to explain the stable-answer assumption and then name a possible contextual process. The pattern alone does not identify a quantum mechanism. Carry one assumption into Discussion 1.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Country first",
+            "President first"
+          ],
+          "series": [
+            {
+              "name": "Dissatisfied",
+              "values": [
+                0.78,
+                0.88
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "% dissatisfied with the country",
+          "caption": "Pew Research Center, December 2008 U.S. poll.",
+          "min": 0,
+          "max": 1,
+          "step": 0.2,
+          "format": "0%"
+        },
+        "sources": [
+          "https://www.pewresearch.org/writing-survey-questions/"
+        ]
       },
       {
         "title": "The Same Destination, Different Experiences",
@@ -50,14 +75,28 @@
         "notes": "This is a fictional planning case with no reported results. Hold facts fixed. Ask what the manager wants to decide and which customer outcome would be useful. Define data-enabled service in the discussion as a service that uses customer information to provide a benefit."
       },
       {
-        "title": "A Fair Comparison",
+        "title": "A Fair Comparison in the Survey Tool",
         "lines": [
-          "Write the same two questions for both orders.",
-          "Keep the same facts and response options.",
-          "Specify who answers and how order is assigned."
+          "The order of A and B varies. F stays last.",
+          "Which setting preserves the final decision?"
         ],
         "minutes": 15,
-        "notes": "In pairs, draft ABF and BAF procedures. A is a convenience consideration, B is a privacy consideration, and F is the launch-support decision. Avoid changing the information while claiming to change only order. Save the wording as workshop notes for the proposal."
+        "notes": "The screenshot is a documented product example, not this course survey. Have students draft the same convenience question A and privacy question B for both ABF and BAF. The launch-support question F stays last. Hold facts, response options, and respondent population fixed. Advanced randomization can preserve positions; do not assume randomizing every question implements ABF versus BAF. Explain how order will be assigned and recorded. Save the wording for the proposal.",
+        "kind": "screenshot",
+        "image": {
+          "file": "qualtrics_options.png",
+          "crop": {
+            "left": 0.17,
+            "top": 0.25,
+            "right": 0.17,
+            "bottom": 0.28
+          },
+          "alt": "Official Qualtrics dialog shows no randomization, all-question randomization, a subset option, and advanced randomization. The advanced option is highlighted in the source."
+        },
+        "caption": "Qualtrics documentation: question randomization.",
+        "sources": [
+          "https://www.qualtrics.com/support/survey-platform/survey-module/block-options/question-randomization/"
+        ]
       },
       {
         "title": "A Fixed-Rate Benchmark",
@@ -102,14 +141,46 @@
         "notes": "Each group names one specific alternative and an observable implication. A classical process can depend on context. Avoid using classical as a synonym for an unchanging answer. Connect the discussion to the strongest-rival requirement in Project Part 1."
       },
       {
-        "title": "A Prediction Before the Result",
+        "title": "Predictions for a New Procedure",
         "lines": [
-          "Choose a new sequence or held-out sample.",
-          "Record what each model predicts.",
-          "Specify a result that would change your view."
+          "Which new observation would separate the models?"
         ],
         "minutes": 10,
-        "notes": "Held-out means kept separate during model fitting or selection. Groups should make a directional or quantitative prediction justified by their design. Do not invent a claim about which model must win."
+        "notes": "The first two values are imposed earlier results that both models reproduce. The final values are competing predictions, not observations. A new procedure is held out when its results are kept separate during fitting and model selection. Ask students to name assumptions that justify their predictions, then write one comparison for their own proposal. These anonymous models illustrate prediction; neither is designated quantum or classical.",
+        "kind": "evidence",
+        "chart": {
+          "type": "line",
+          "categories": [
+            "Earlier 1",
+            "Earlier 2",
+            "New procedure"
+          ],
+          "series": [
+            {
+              "name": "Model A",
+              "values": [
+                0.5,
+                0.6,
+                0.7
+              ]
+            },
+            {
+              "name": "Model B",
+              "values": [
+                0.5,
+                0.6,
+                0.4
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Predicted yes rate",
+          "caption": "Imposed predictions. Both models match the earlier results.",
+          "min": 0,
+          "max": 1,
+          "step": 0.2,
+          "format": "0%"
+        }
       },
       {
         "title": "The Discussion Argument",
@@ -155,24 +226,68 @@
         "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
       },
       {
-        "title": "The Decision Owner",
+        "title": "Inputs to a Recommendation",
         "lines": [
-          "Who must choose an action?",
-          "Which alternatives are feasible?",
-          "What evidence would change that choice?"
+          "A parent may play music for a child.",
+          "Should every play shape future recommendations?"
         ],
         "minutes": 10,
-        "notes": "Write one sentence naming a decision owner and a concrete action. A broad topic such as AI in retail needs a narrower decision, such as how to order information in a product-selection survey."
+        "notes": "Spotify introduced playlist exclusion in February 2023. Use the displayed nursery-rhyme example to distinguish an observed play from the listener’s preference for future recommendations. The product feature is documented; its effect on satisfaction is a hypothesis to test. Ask students to name a product owner, feasible actions, and an outcome for their own company. Avoid claiming that this interface demonstrates quantum cognition.",
+        "kind": "screenshot",
+        "image": {
+          "file": "spotify2023.jpg",
+          "crop": {
+            "left": 0.51,
+            "top": 0.43,
+            "right": 0.24,
+            "bottom": 0.43
+          },
+          "alt": "Spotify’s official nursery-rhyme playlist menu includes Exclude from your taste profile. The source highlights that control."
+        },
+        "caption": "Spotify launch example, February 2023.",
+        "sources": [
+          "https://newsroom.spotify.com/2023-02-08/exclude-from-your-taste-profile-will-make-your-personalized-recommendations-even-better/"
+        ]
       },
       {
-        "title": "Evidence About the Setting",
+        "title": "Evidence and the Proposed Test",
         "lines": [
-          "Identify two public sources.",
-          "Separate documented facts from your hypotheses.",
-          "Record the source, date, and relevant claim."
+          "Which claim in your proposal still needs evidence?"
         ],
         "minutes": 10,
-        "notes": "Use the source ledger in the collection guide. A company announcement may establish a product feature; it need not establish a causal effect. Keep unsupported assumptions visible in the proposal."
+        "notes": "The first two entries follow from Spotify’s public example. The audit entry describes a proposed study, not an observed company result. Students add two public sources for their chosen company, recording source, date, and exact supported claim. Keep a company announcement distinct from evidence of causal effectiveness.",
+        "kind": "evidence_table",
+        "table": [
+          [
+            "Public Evidence",
+            "Claim It Supports",
+            "Evidence Still Needed"
+          ],
+          [
+            "A visible exclusion control",
+            "Users can change an input",
+            "Who uses the control?"
+          ],
+          [
+            "A company launch article",
+            "The feature was announced",
+            "Does satisfaction improve?"
+          ],
+          [
+            "A proposed A/B/F audit",
+            "A test can be specified",
+            "Collect the response records"
+          ]
+        ],
+        "caption": "Worked source ledger for the Spotify example.",
+        "widths": [
+          0.3,
+          0.32,
+          0.38
+        ],
+        "sources": [
+          "https://newsroom.spotify.com/2023-02-08/exclude-from-your-taste-profile-will-make-your-personalized-recommendations-even-better/"
+        ]
       },
       {
         "title": "Two Competing Considerations",
@@ -195,14 +310,52 @@
         "notes": "A usable question might ask whether the tested model gives different launch-support rates after two specified frame orders. Separate that question from whether real customers support launch. Draft the proposal research question."
       },
       {
-        "title": "Scope and Feasibility",
+        "title": "Volume for a Complete Audit",
         "lines": [
-          "Check access, collection time, and approved budget.",
-          "Plan all six conditions on the same persona grid.",
-          "Choose a design you can document completely."
+          "What volume can you collect and document?"
         ],
         "minutes": 15,
-        "notes": "Discuss feasibility with the instructor. The six conditions are detailed in the collection guide. A small pilot checks the workflow; it does not guarantee precise estimates. Record scope feedback before collecting project responses."
+        "notes": "A record here is one completed condition for one persona and repetition. Required records equal personas × six conditions × repetitions. This is accounting, not a precision guarantee, and records need not equal API calls or token costs. Check access, time, approved spending, and the number of calls within each conversation. A pilot tests the workflow. Use the collection guide and record the scope feedback before project collection.",
+        "kind": "evidence",
+        "chart": {
+          "type": "line",
+          "categories": [
+            "20",
+            "40",
+            "60",
+            "80",
+            "100"
+          ],
+          "series": [
+            {
+              "name": "One repeat",
+              "values": [
+                120,
+                240,
+                360,
+                480,
+                600
+              ]
+            },
+            {
+              "name": "Three repeats",
+              "values": [
+                360,
+                720,
+                1080,
+                1440,
+                1800
+              ]
+            }
+          ],
+          "xTitle": "Number of personas",
+          "yTitle": "Completed condition records",
+          "caption": "Six conditions per persona. Counts exclude retries and pilot work.",
+          "min": 0,
+          "max": 2000,
+          "step": 500,
+          "format": "0"
+        }
       },
       {
         "title": "Peer Review of the Proposal",
@@ -304,14 +457,43 @@
         ]
       },
       {
-        "title": "Agreement Shares and Order Rates",
+        "title": "Agreement and the A-Yes Rate",
         "lines": [
-          "Calculate each order’s agreement share.",
-          "Compare A’s yes rate across orders.",
-          "State what is missing for an F comparison."
+          "Why can agreement stay fixed while an answer rate changes?"
         ],
         "minutes": 15,
-        "notes": "Students compute in pairs and compare with the M2 notebook. Each agreement share is 70/100; A yes rates are 40/100 and 70/100. F has not been observed in this table. These are class exercises rather than a project answer key."
+        "notes": "A-yes is (30+10)/100=.40 in AB and (45+25)/100=.70 in BA. Agreement is (30+40)/100=.70 in AB and (45+25)/100=.70 in BA, so q=.00 for the agreement-difference definition. A-yes is a marginal answer rate, not F. This table contains no F responses; it cannot establish a focal decision effect. Ask students which records their proposal needs for each statistic.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "A yes",
+            "A/B agreement"
+          ],
+          "series": [
+            {
+              "name": "AB order",
+              "values": [
+                0.4,
+                0.7
+              ]
+            },
+            {
+              "name": "BA order",
+              "values": [
+                0.7,
+                0.7
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Share of 100 interviews in each order",
+          "caption": "Calculated from the imposed answer-pair table on the previous slide.",
+          "min": 0,
+          "max": 1,
+          "step": 0.2,
+          "format": "0%"
+        }
       },
       {
         "title": "A Classical Sequential Explanation",
@@ -355,14 +537,46 @@
         ]
       },
       {
-        "title": "The Resampling Unit",
+        "title": "Resampling Complete Personas",
         "lines": [
-          "The project links six interviews to each persona.",
-          "Keep the complete block together.",
-          "Explain what independent sampling is assumed."
+          "Which six records travel together when a persona is drawn?"
         ],
         "minutes": 10,
-        "notes": "Use the collection guide to identify one block. Resampling individual answers would sever the design’s links. A persona bootstrap represents variation over the sampled blocks under a fixed collection process; it does not turn model personas into sampled people."
+        "notes": "Each of three personas has one record in each of six conditions. One bootstrap draw selects persona 02 twice, persona 03 once, and persona 01 zero times. Copy all six records each time a persona is selected. This example explains the resampling unit; three personas are not an adequate sample-size recommendation. For the course audit, retain the complete persona blocks and all repetitions in each selected block. For independently assigned human respondents, the resampling design would follow the actual human sampling structure.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Persona 01",
+            "Persona 02",
+            "Persona 03"
+          ],
+          "series": [
+            {
+              "name": "Original sample",
+              "values": [
+                6,
+                6,
+                6
+              ]
+            },
+            {
+              "name": "One resample",
+              "values": [
+                0,
+                12,
+                6
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Condition records",
+          "caption": "Toy example: draw personas 02, 02, 03 from three complete blocks.",
+          "min": 0,
+          "max": 14,
+          "step": 2,
+          "format": "0"
+        }
       },
       {
         "title": "Design Revisions",
@@ -407,14 +621,41 @@
         "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
       },
       {
-        "title": "The Decision and Question Battery",
+        "title": "A Battery for the Service Decision",
         "lines": [
-          "Read the decision statement aloud.",
-          "Check that A and B express distinct considerations.",
-          "Check that F records the decision of interest."
+          "How would you revise these questions for your company?"
         ],
         "minutes": 10,
-        "notes": "A partner should be able to explain the design without additional background. Revise vague or technical wording. Preserve the same response coding across conditions."
+        "notes": "A battery is a set of questions used together. These shortened prompts illustrate structure; students must specify the service, features, privacy practices, and neutral wording. In the constructed ABF and BAF arms, keep F last and retain actual prior answers. Follow the collection guide for all six conditions. Define any specialized terms in the survey itself.",
+        "kind": "evidence_table",
+        "table": [
+          [
+            "Question",
+            "Consideration",
+            "Response"
+          ],
+          [
+            "A",
+            "Is the convenience valuable?",
+            "Yes / No"
+          ],
+          [
+            "B",
+            "Is the privacy protection adequate?",
+            "Yes / No"
+          ],
+          [
+            "F",
+            "Would you support the launch?",
+            "Yes / No"
+          ]
+        ],
+        "caption": "Fictional planning example. Supply the same service facts in every arm.",
+        "widths": [
+          0.18,
+          0.58,
+          0.24
+        ]
       },
       {
         "title": "Six Conditions, One Persona Grid",
@@ -451,34 +692,90 @@
         ]
       },
       {
-        "title": "Facts, Coding, and Context",
+        "title": "The Final Question Has a Fixed Position",
         "lines": [
-          "Hold the factual background fixed.",
-          "Use the same yes/no definitions.",
-          "Save the complete message history and retries."
+          "Randomizing questions and selecting a subset change different things.",
+          "Which items vary, and which position stays fixed?"
         ],
         "minutes": 10,
-        "notes": "Walk through one hypothetical persona without making paid calls. Verify which messages would be present in each condition. A parser should reject unrecognized answers rather than silently treat them as no."
+        "notes": "Use this product example to inspect a design choice before collecting data. The screenshot shows a general control, not a configured ABF/BAF study. Students identify how their implementation preserves F last while varying A and B. Hold the fact sheet, coding, and intended context fixed. Pilot both orders and save the exact prompts, actual answers, and conversation history.",
+        "kind": "screenshot",
+        "image": {
+          "file": "qualtrics_advanced.png",
+          "crop": {
+            "left": 0.24,
+            "top": 0.02,
+            "right": 0.24,
+            "bottom": 0.66
+          },
+          "alt": "The upper portion of the official advanced-randomization dialog contrasts fixed display order with randomize questions. The displayed example text belongs to Qualtrics, not the course battery."
+        },
+        "caption": "Qualtrics documentation: advanced randomization.",
+        "sources": [
+          "https://www.qualtrics.com/support/survey-platform/survey-module/block-options/question-randomization/"
+        ]
       },
       {
-        "title": "The Collection Plan",
+        "title": "The Record of What Each Person Saw",
         "lines": [
-          "Specify the persona grid and run schedule.",
-          "Use a randomized order of collection runs.",
-          "Record the model version and approved budget."
+          "The assigned order and the observed order should agree.",
+          "Can your records reconstruct the question sequence?"
         ],
         "minutes": 10,
-        "notes": "The persona grid is a designed collection frame, not a probability sample of people. Document all fields, exclusions, and missingness. Budget for all conditions and any declared retry rule."
+        "notes": "Qualtrics documents an option to export viewing order. The course model-panel workflow needs the analogous evidence: condition, persona, repetition, actual prompt order, response, and conversation history. Set the collection volume, model version, settings, and stopping rule before collection. Students save a pilot record and verify it can reproduce a response path. This slide does not require students to use Qualtrics.",
+        "kind": "screenshot",
+        "image": {
+          "file": "qualtrics_export.png",
+          "crop": {
+            "left": 0.225,
+            "top": 0.35,
+            "right": 0.225,
+            "bottom": 0.43
+          },
+          "alt": "An official Qualtrics export dialog has the option Export viewing order data for randomized surveys checked and outlined."
+        },
+        "caption": "Qualtrics documentation: viewing-order export.",
+        "sources": [
+          "https://www.qualtrics.com/support/survey-platform/survey-module/block-options/question-randomization/"
+        ]
       },
       {
-        "title": "Decision Rules",
+        "title": "Precision and the Collection Plan",
         "lines": [
-          "Specify important, small, and unresolved results.",
-          "Give a managerial action for each.",
-          "Separate operational action from a mechanism claim."
+          "How does this uncertainty compare with your practical threshold?"
         ],
         "minutes": 15,
-        "notes": "Students draft their own thresholds and action branches. A flat or inconclusive result can support a sound recommendation. Grade depends on reasoning and evidence, not on obtaining a nonclassical-looking pattern."
+        "notes": "The displayed normal-approximation half-width for a difference is 1.96 × sqrt(0.25/n+0.25/n) ×100 percentage points, where n is observations per independent arm. Values are about 19.6, 13.9, 9.8, 6.9, and 4.9 points. This conservative planning illustration is not the audit’s paired-persona bootstrap interval or a sample-size prescription. Dependence, rare subgroups, and invalid answers affect precision. Students freeze their substantive thresholds and appropriate analysis before observing the project results.",
+        "kind": "evidence",
+        "chart": {
+          "type": "line",
+          "categories": [
+            "50",
+            "100",
+            "200",
+            "400",
+            "800"
+          ],
+          "series": [
+            {
+              "name": "Approximate half-width",
+              "values": [
+                19.6,
+                13.8593,
+                9.8,
+                6.9296,
+                4.9
+              ]
+            }
+          ],
+          "xTitle": "Observations per arm (each step doubles n)",
+          "yTitle": "95% interval half-width (percentage points)",
+          "caption": "Planning illustration: two independent arms, each with yes probability 0.50.",
+          "min": 0,
+          "max": 25,
+          "step": 5,
+          "format": "0.0"
+        }
       },
       {
         "title": "Peer Review Against the Rubric",
@@ -535,14 +832,28 @@
         "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
       },
       {
-        "title": "Direct and Assessed Decisions",
+        "title": "An Interface Suggests the Next Action",
         "lines": [
-          "Direct: request F immediately.",
-          "Assessed: ask A, retain the answer, then request F.",
-          "Which quantities come from the assessed records?"
+          "An extra identity check changes the payment process.",
+          "What does the reviewer see before choosing?"
         ],
         "minutes": 5,
-        "notes": "Use the video concepts to identify w, r_yes, and r_no. Give only a brief clarification before applying them to the case."
+        "notes": "Stripe’s public product page illustrates review suggestions and an option to start an authentication experiment. Adaptive 3DS refers to an additional identity check for a payment. The displayed revenue number is part of a company demonstration, not a measured result for our case. Ask students where a recommendation, risk assessment, or interim answer enters the decision process. Compare a direct decision with a decision after an explicit assessment while holding the underlying facts fixed. Manual review is described at https://docs.stripe.com/radar/transaction-reviews.",
+        "kind": "screenshot",
+        "image": {
+          "file": "stripe_strategy.png",
+          "crop": {
+            "left": 0.695,
+            "top": 0.3,
+            "right": 0.055,
+            "bottom": 0.43
+          },
+          "alt": "The focused view of the official Stripe demo displays an Adaptive 3DS recommendation with a Start experiment control. 3DS adds customer authentication. Its revenue number is demo content."
+        },
+        "caption": "Stripe public interface demonstration, captured November 2026.",
+        "sources": [
+          "https://stripe.com/radar/transaction-fraud"
+        ]
       },
       {
         "title": "Meridian’s Illustrative Console Choice",
@@ -585,24 +896,68 @@
         "notes": "The difference is .10 and the bracket is [.41,.63]. The weighted identity holds within assessed records. Carrying its rates to the direct procedure is the additional assumption. Ask groups to propose an informative comparison rather than assert that every classical explanation has failed."
       },
       {
-        "title": "The Managerial Outcome",
+        "title": "Equal Block Rates, Different Errors",
         "lines": [
-          "A block rate is one measured behavior.",
-          "Also consider fraud loss, false blocks, time, and reliance.",
-          "What evidence would justify changing the console?"
+          "Which outcomes matter beyond the block rate?"
         ],
         "minutes": 15,
-        "notes": "Groups design a production evaluation conceptually. Accuracy and welfare require outcome information; higher blocking alone is not success. Humr and Canan provide a related AI-supported decision study: https://www.mdpi.com/1099-4300/26/6/500. The classroom case is separate from that study."
+        "notes": "Both procedures block 40 of 100 attempts. A blocks 25 fraudulent and 15 legitimate payments; B blocks 10 fraudulent and 30 legitimate payments. Fraud not blocked is therefore 5 versus 20. These are imposed workshop counts with known ground truth, separate from Meridian’s decision rates. A block rate alone does not measure accuracy or welfare. Students specify a managerial outcome and the validation evidence needed for their own setting.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Procedure A",
+            "Procedure B"
+          ],
+          "series": [
+            {
+              "name": "Fraudulent",
+              "values": [
+                25,
+                10
+              ]
+            },
+            {
+              "name": "Legitimate",
+              "values": [
+                15,
+                30
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Payments blocked per 100 attempts",
+          "caption": "Imposed outcomes: 30 fraudulent and 70 legitimate attempts in each procedure.",
+          "min": 0,
+          "max": 50,
+          "step": 10,
+          "format": "0",
+          "grouping": "stacked"
+        }
       },
       {
-        "title": "Juno’s Recommendation Problem",
+        "title": "Listening and the Taste Profile",
         "lines": [
-          "A feed can lead with popularity or a stated goal.",
-          "The displayed options and facts remain fixed.",
-          "How should the team evaluate a change in purchases?"
+          "A play can serve a temporary purpose.",
+          "What outcome would show that recommendations improved?"
         ],
         "minutes": 15,
-        "notes": "Juno is fictional. Ask whether purchase rate, later regret, goal attainment, and user control could lead to different judgments of the same design. Link the argument to Carroll et al., https://proceedings.mlr.press/v162/carroll22a.html. Avoid equating engagement with welfare."
+        "notes": "Spotify’s 2025 announcement documents a track-level exclusion control. The pictured distinction gives a real setting for Juno’s recommendation problem from the videos. Ask students to separate immediate playback, future recommendations, and the outcome the listener values. A temporary use does not by itself reveal a stable preference. Propose a comparison and a measure of recommendation quality; do not infer effectiveness or a quantum mechanism from the feature’s existence. Save the comparison for Discussion 3.",
+        "kind": "screenshot",
+        "image": {
+          "file": "spotify2025.png",
+          "crop": {
+            "left": 0.535,
+            "top": 0.35,
+            "right": 0.2,
+            "bottom": 0.345
+          },
+          "alt": "Spotify’s official track menu shows Hide in this playlist separately from Exclude track from your taste profile. The latter is highlighted in the original image."
+        },
+        "caption": "Spotify track-exclusion announcement, October 2025.",
+        "sources": [
+          "https://newsroom.spotify.com/2025-10-01/exclude-tracks-taste-profile/"
+        ]
       },
       {
         "title": "What the Panel Represents",
@@ -658,34 +1013,126 @@
         "notes": "Students compare estimates with known population values in their own run. A small sample can leave a decision unresolved even when the code is correct. Do not alter seeds until a preferred finding appears."
       },
       {
-        "title": "The Collection Records",
+        "title": "A Missing Condition in the Collection",
         "lines": [
-          "Check one complete persona block.",
-          "Confirm six conditions and actual retained answers.",
-          "Reconcile interview counts with the collection log."
+          "What must be resolved before calculating the paired comparison?"
         ],
         "minutes": 15,
-        "notes": "Use validate_records and the guide. Inspect raw messages as well as the tidy record. Repeated IDs, missing conditions, and unasked questions coded as zero require resolution before analysis."
+        "notes": "This small record excerpt is a debugging exercise, not a dataset to analyze. Missing is not No. Inspect the full six-condition collection, distinguish failed calls from refusals and parser errors, and follow the frozen inclusion rule. Do not silently drop or impute a record. Preserve raw responses and count denominators explicitly. Students verify their own collection with the supplied audit code.",
+        "kind": "evidence_table",
+        "table": [
+          [
+            "Persona",
+            "Constructed ABF",
+            "Constructed BAF"
+          ],
+          [
+            "P01",
+            "F = Yes",
+            "F = No"
+          ],
+          [
+            "P02",
+            "F = No",
+            "Missing"
+          ],
+          [
+            "P03",
+            "F = Yes",
+            "F = Yes"
+          ]
+        ],
+        "caption": "Toy excerpt: two of the six conditions; one repetition per persona.",
+        "widths": [
+          0.22,
+          0.39,
+          0.39
+        ]
       },
       {
-        "title": "The Audit Calculation",
+        "title": "Estimates Across Repeated Samples",
         "lines": [
-          "Execute from a fresh notebook state.",
-          "Trace one answer-pair table to the input records.",
-          "Save estimates, intervals, and diagnostic notes."
+          "Where does your reported uncertainty come from?"
         ],
         "minutes": 20,
-        "notes": "Allow independent computation and instructor troubleshooting. The default starter uses simulation; students must explicitly switch to model_data for their actual project and supply metadata. Work with a workflow pilot if approved collection remains pending."
+        "notes": "This is a sampling simulation, not a bootstrap of collected data. In each of 5,000 repetitions, independently draw two binomial counts with n=100 and probabilities 0.60 and 0.50, then subtract the rates. NumPy default_rng seed 20261111. Five-point bins are left-closed, right-open except the last. The true difference is 10 percentage points. The audit instead resamples complete observed persona blocks to preserve dependence. Students run their notebook and verify counts, q, the focal difference, and bracket diagnostics against raw records. Simulation source and counts are provided in source/sessions.json.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "-17.5",
+            "-12.5",
+            "-7.5",
+            "-2.5",
+            "2.5",
+            "7.5",
+            "12.5",
+            "17.5",
+            "22.5",
+            "27.5",
+            "32.5",
+            "37.5"
+          ],
+          "series": [
+            {
+              "name": "Simulated samples",
+              "values": [
+                0,
+                11,
+                57,
+                258,
+                755,
+                1193,
+                1398,
+                859,
+                366,
+                92,
+                9,
+                2
+              ]
+            }
+          ],
+          "xTitle": "Difference in percentage points (5-point bin midpoints)",
+          "yTitle": "Simulated samples",
+          "caption": "5,000 simulations: 100 independent responses per arm; true rates 0.60 and 0.50.",
+          "min": 0,
+          "max": 1600,
+          "step": 400,
+          "format": "0",
+          "smallTicks": true
+        }
       },
       {
-        "title": "An Uncertain Result",
+        "title": "The Rare Subgroup Limits Precision",
         "lines": [
-          "Check coding, missingness, and subgroup size.",
-          "Examine the frozen thresholds.",
-          "Distinguish imprecision from a software error."
+          "Which conditional rate will be less precise?"
         ],
         "minutes": 15,
-        "notes": "Sparse assessed subgroups can make bracket intervals unavailable. A constant outcome can give a degenerate interval. Additional bootstrap draws do not substitute for relevant data. Preserve honest unresolved results."
+        "notes": "A conditional rate computed from ten records generally has less information than one computed from ninety, holding the response variance and dependence structure comparable. Here both subgroup counts are imposed. Empty groups can make a conditional rate or bracket unavailable. More bootstrap draws do not create additional observations. Students inspect subgroup sizes, invalid records, and the inclusion rules before interpreting an uncertain result.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "A = Yes",
+            "A = No"
+          ],
+          "series": [
+            {
+              "name": "Assessed records",
+              "values": [
+                90,
+                10
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Records in the assessed arm",
+          "caption": "Imposed counts: 100 assessed records divided by the first answer.",
+          "min": 0,
+          "max": 100,
+          "step": 20,
+          "format": "0"
+        }
       },
       {
         "title": "Peer Critique of the Evidence",
@@ -750,34 +1197,126 @@
         "notes": "Display before presentations. The 90 minutes belong to six 15-minute slots. Briefing instructions should be read before the meeting. If the cohort exceeds six, the instructor schedules additional blocks. The following slides are reference prompts and do not add time."
       },
       {
-        "title": "The Client Story",
+        "title": "A Figure for the Client Decision",
         "lines": [
-          "Decision and comparison.",
-          "Design, evidence, uncertainty, and strongest alternative.",
-          "Recommendation, owner, and review condition."
+          "What evidence belongs next to these rates?"
         ],
         "minutes": 0,
-        "notes": "Reference checklist for the student’s own 6–10 slides. Show the evidence that affects the decision and keep complete counts and code available for questions."
+        "notes": "This public preparation example uses imposed counts, not a student solution or a real company result. Students should identify the tested model and persona design, define each sequence, report the 13-point difference with an appropriate interval, and show how it affects the decision. The bars alone do not establish statistical precision or human customer behavior. In the client story, connect the decision, design, uncertainty, strongest alternative, and recommendation. This reference slide adds no time to the six 15-minute presentation slots.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Convenience first",
+            "Privacy first"
+          ],
+          "series": [
+            {
+              "name": "Support for launch",
+              "values": [
+                0.64,
+                0.51
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Support rate in the model panel",
+          "caption": "Illustrative audit: 128/200 versus 102/200 valid responses.",
+          "min": 0,
+          "max": 1,
+          "step": 0.2,
+          "format": "0%"
+        }
       },
       {
-        "title": "Questions About the Evidence",
+        "title": "A Recommendation Depends on Costs",
         "lines": [
-          "Which result would change your recommendation?",
-          "Which assumption carries your broadest claim?",
-          "What remains unresolved?"
+          "At what error cost would your recommendation change?"
         ],
         "minutes": 0,
-        "notes": "These are public preparation questions. The oral defense is AIAS 0. Students explain their own analysis without AI assistance during the defense."
+        "notes": "The horizontal variable c is the cost of one error of the type that occurs 5 times under A and 15 times under B. The fixed losses are 70 and 40 units. A and B tie at c=3 with loss 85. All costs and counts are imposed for oral-defense preparation. A manager must justify both counts and valuations. Students use their own evidence to name a review condition and identify the assumption that supports their broadest claim. The oral defense is AIAS 0.",
+        "kind": "evidence",
+        "chart": {
+          "type": "line",
+          "categories": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "series": [
+            {
+              "name": "Procedure A",
+              "values": [
+                75,
+                80,
+                85,
+                90,
+                95
+              ]
+            },
+            {
+              "name": "Procedure B",
+              "values": [
+                55,
+                70,
+                85,
+                100,
+                115
+              ]
+            }
+          ],
+          "xTitle": "Cost per error, c",
+          "yTitle": "Total loss (illustrative units)",
+          "caption": "Imposed loss: A = 70 + 5c; B = 40 + 15c.",
+          "min": 0,
+          "max": 120,
+          "step": 30,
+          "format": "0"
+        }
       },
       {
-        "title": "Peer Feedback",
+        "title": "Averages and Subgroup Patterns",
         "lines": [
-          "Identify one well-supported claim.",
-          "Identify one missing link between evidence and action.",
-          "Ask one specific question."
+          "Which comparison deserves a question from the reviewer?"
         ],
         "minutes": 0,
-        "notes": "Peer feedback supports revision and does not replace the instructor’s grading. Keep comments focused on the stated decision, design, evidence, and interpretation."
+        "notes": "Equal group weights yield a pooled rate of .60 in both orders, while subgroup changes run in opposite directions. The four subgroup counts are 80,40,40,80 yes out of 100. This descriptive example does not supply intervals or establish subgroup effects. Ask about prespecification, uncertainty, and the relevance of subgroup definitions. Peer feedback should identify a supported claim and a missing link to the action. Students revise their individual reports using their actual evidence; this slide is a public preparation prompt.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Profile X",
+            "Profile Y",
+            "Pooled"
+          ],
+          "series": [
+            {
+              "name": "ABF",
+              "values": [
+                0.8,
+                0.4,
+                0.6
+              ]
+            },
+            {
+              "name": "BAF",
+              "values": [
+                0.4,
+                0.8,
+                0.6
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "F yes rate",
+          "caption": "Imposed rates: 100 observations per profile in each order.",
+          "min": 0,
+          "max": 1,
+          "step": 0.2,
+          "format": "0%"
+        }
       },
       {
         "title": "After the Presentation",
@@ -823,34 +1362,118 @@
         "notes": "Students answer from their own audit. Use the three questions to establish comparable descriptions before discussing patterns across projects."
       },
       {
-        "title": "Findings Across Audits",
+        "title": "Three Audit Summaries",
         "lines": [
-          "Compare the procedures and measured outcomes first.",
-          "Look for shared patterns and important differences.",
-          "Retain unresolved and practically small results."
+          "Which comparison is justified across these settings?"
         ],
         "minutes": 20,
-        "notes": "Build a class synthesis using volunteered summaries. Different models, questions, persona grids, and settings limit direct comparisons. A tally of positive results is not a pooled estimate."
+        "notes": "Audits 1,2,3 have imposed estimates .5,1,10 and illustrative 95% intervals [-2,3],[-12,14],[6,14]. These are not class results, computed intervals, or a pooled estimate. First compare the model, persona grid, question wording, population, and outcome. Then consider effect size, precision, and each prespecified practical threshold. Replace the demonstration with volunteered class summaries during discussion. Do not interpret the number of positive intervals as a common effect.",
+        "kind": "intervals",
+        "intervals": {
+          "names": [
+            "Audit 1",
+            "Audit 2",
+            "Audit 3"
+          ],
+          "low": [
+            -2,
+            -12,
+            6
+          ],
+          "high": [
+            3,
+            14,
+            14
+          ],
+          "estimate": [
+            0.5,
+            1,
+            10
+          ],
+          "min": -15,
+          "max": 20,
+          "step": 5
+        },
+        "caption": "Imposed estimates and 95% intervals, in percentage points. Different settings."
       },
       {
-        "title": "Recommendations Across Settings",
+        "title": "Costs of Two Review Procedures",
         "lines": [
-          "Which findings led to a process change?",
-          "Which called for additional evidence?",
-          "Which supported retaining the current procedure?"
+          "How robust is the $100 difference to your assumptions?"
         ],
         "minutes": 15,
-        "notes": "Ask students to justify each action using the actual decision rule and costs. Strong analysis can support any of these outcomes. Distinguish a managerial judgment from a unique mechanism claim."
+        "notes": "These are imposed expected costs for a workshop comparison, not measured returns or a recommendation for Stripe. Fraud losses fall by $600, while customer friction rises by $500. Customer friction means the cost of legitimate users facing extra checks, delay, or rejection. The total saving is $100 per 1,000 decisions. Ask what uncertainty or omitted cost would change the ranking and what a human pilot would need to measure. Compare the actions supported by the actual class audits.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Current process",
+            "Proposed process"
+          ],
+          "series": [
+            {
+              "name": "Fraud loss",
+              "values": [
+                2400,
+                1800
+              ]
+            },
+            {
+              "name": "Customer friction",
+              "values": [
+                400,
+                900
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Cost per 1,000 decisions (dollars)",
+          "caption": "Imposed costs: total $2,800 versus $2,700 per 1,000 decisions.",
+          "min": 0,
+          "max": 3500,
+          "step": 1000,
+          "format": "$#,##0",
+          "grouping": "stacked"
+        }
       },
       {
-        "title": "The Strongest Alternative",
+        "title": "A New Test of the Strongest Alternative",
         "lines": [
-          "What evidence favors the competing explanation?",
-          "Which additional comparison would be informative?",
-          "How would it affect your recommendation?"
+          "What must stay fixed when you add a delay?"
         ],
         "minutes": 15,
-        "notes": "Students revisit the rival specified in Part 1 and the fair test they proposed. If the audit did not distinguish explanations, document that directly and propose a concrete next comparison."
+        "notes": "Both proposed explanations reproduce a ten-point immediate order difference. The first predicts decay after a specified delay; the second predicts persistence. These predictions are imposed conditional examples, not universal predictions of classical or quantum theory. A delay may also change memory, attention, or information. Specify its duration, hold other features fixed, and state assumptions that make the comparison informative. Students revisit the rival in their proposal and identify what evidence would change the recommendation.",
+        "kind": "evidence",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Immediate answer",
+            "Answer after a delay"
+          ],
+          "series": [
+            {
+              "name": "Short-lived carryover",
+              "values": [
+                10,
+                2
+              ]
+            },
+            {
+              "name": "Persistent change",
+              "values": [
+                10,
+                10
+              ]
+            }
+          ],
+          "xTitle": "",
+          "yTitle": "Predicted order difference (percentage points)",
+          "caption": "Imposed rival predictions; no outcomes from the proposed delay test.",
+          "min": 0,
+          "max": 12,
+          "step": 3,
+          "format": "0"
+        }
       },
       {
         "title": "The Revised Recommendation",
