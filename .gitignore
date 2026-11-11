@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+audit_outputs/
+raw_interviews/
+project_records.json
+SIMULATED_data_format_example.json
+*.log

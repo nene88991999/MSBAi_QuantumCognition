@@ -1,0 +1,887 @@
+[
+  {
+    "id": "M1S1",
+    "title": "Judgment and the Survey Decision",
+    "prework": "Watch the Module 1 videos, including the short geometric-model bridge. Read the Module 1 note and bring a public company decision for Discussion 1.",
+    "assessment": [
+      "M1A1_Discussion_1",
+      "M2A2_Project_Part_1"
+    ],
+    "output": "A draft comparison of detection and construction, a specified benchmark, and one testable prediction for your company decision.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Judgment and the Survey Decision",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M1S1"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "The Detection Assumption",
+        "lines": [
+          "What does a detection explanation assume?",
+          "What might the act of answering change?",
+          "Write one example before discussing it."
+        ],
+        "minutes": 5,
+        "notes": "Work individually for two minutes, then compare with a partner. Identify the assumption in the example, rather than simply labeling a result a bias."
+      },
+      {
+        "title": "The Same Destination, Different Experiences",
+        "lines": [
+          "Which experience comes first may affect the later choice."
+        ],
+        "minutes": 5,
+        "notes": "The two illustrated paths reach the same pavilion after encountering a market and a garden in different orders. Treat this as an analogy for sequence, not evidence about human behavior. Translate it into two survey procedures.",
+        "kind": "art"
+      },
+      {
+        "title": "A Fictional Service Launch",
+        "lines": [
+          "A company must choose how to introduce a data-enabled service.",
+          "One survey leads with convenience; another leads with privacy.",
+          "The focal outcome is support for launch."
+        ],
+        "minutes": 10,
+        "notes": "This is a fictional planning case with no reported results. Hold facts fixed. Ask what the manager wants to decide and which customer outcome would be useful. Define data-enabled service in the discussion as a service that uses customer information to provide a benefit."
+      },
+      {
+        "title": "A Fair Comparison",
+        "lines": [
+          "Write the same two questions for both orders.",
+          "Keep the same facts and response options.",
+          "Specify who answers and how order is assigned."
+        ],
+        "minutes": 15,
+        "notes": "In pairs, draft ABF and BAF procedures. A is a convenience consideration, B is a privacy consideration, and F is the launch-support decision. Avoid changing the information while claiming to change only order. Save the wording as workshop notes for the proposal."
+      },
+      {
+        "title": "A Fixed-Rate Benchmark",
+        "lines": [
+          "Two assessed action rates are 0.30 and 0.70.",
+          "Can any weighted average reach 0.80?",
+          "State the assumption that this comparison tests."
+        ],
+        "minutes": 15,
+        "notes": "Use the displayed line or the Module 3 notebook mixture helper. The values are imposed illustrations, not survey findings. A weighted average cannot exceed both fixed inputs. Applying this benchmark to another procedure requires carrying the conditional rates across procedures. Consider how a process-dependent alternative could change them.",
+        "kind": "chart",
+        "chart": {
+          "type": "line",
+          "categories": [
+            "0",
+            "0.25",
+            "0.50",
+            "0.75",
+            "1.00"
+          ],
+          "values": [
+            0.3,
+            0.4,
+            0.5,
+            0.6,
+            0.7
+          ],
+          "series": "Weighted rate",
+          "xTitle": "Weight on the 0.70 rate",
+          "yTitle": "Predicted rate",
+          "caption": "Imposed conditional rates: 0.30 and 0.70; weights range from 0 to 1."
+        }
+      },
+      {
+        "title": "A Test of the Alternative",
+        "lines": [
+          "Could attention, memory, or learning explain the difference?",
+          "What does that explanation predict?",
+          "Which new comparison would distinguish it?"
+        ],
+        "minutes": 10,
+        "notes": "Each group names one specific alternative and an observable implication. A classical process can depend on context. Avoid using classical as a synonym for an unchanging answer. Connect the discussion to the strongest-rival requirement in Project Part 1."
+      },
+      {
+        "title": "A Prediction Before the Result",
+        "lines": [
+          "Choose a new sequence or held-out sample.",
+          "Record what each model predicts.",
+          "Specify a result that would change your view."
+        ],
+        "minutes": 10,
+        "notes": "Held-out means kept separate during model fitting or selection. Groups should make a directional or quantitative prediction justified by their design. Do not invent a claim about which model must win."
+      },
+      {
+        "title": "The Discussion Argument",
+        "lines": [
+          "Name the company decision and public evidence.",
+          "Explain the response procedure and its hidden assumption.",
+          "Propose one informative comparison."
+        ],
+        "minutes": 15,
+        "notes": "Draft an outline for M1A1 using your own company. Peer discussion can improve the reasoning; submit your own post and response under the assessment instructions. Use the public evidence to ground the frames rather than treating the fictional service case as a documented company."
+      },
+      {
+        "title": "The Next Workshop Step",
+        "lines": [
+          "Retain the draft argument and question wording.",
+          "Identify one source or design issue to resolve.",
+          "Bring the decision statement to Project Studio 1."
+        ],
+        "minutes": 5,
+        "notes": "Exit note: identify the benchmark, its assumption, and your next evidence-gathering step. This is workshop progress, not a new graded submission."
+      }
+    ]
+  },
+  {
+    "id": "M1S2",
+    "title": "Company Selection and Problem Framing",
+    "prework": "Bring two public sources about a company decision, your Discussion 1 notes, and the Project Part 1 brief.",
+    "assessment": [
+      "M1A1_Discussion_1",
+      "M2A2_Project_Part_1"
+    ],
+    "output": "A feasible company decision, a research question, two candidate frames, and a first entry in the AI Attribution Log.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Company Selection and Problem Framing",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M1S2"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "The Decision Owner",
+        "lines": [
+          "Who must choose an action?",
+          "Which alternatives are feasible?",
+          "What evidence would change that choice?"
+        ],
+        "minutes": 10,
+        "notes": "Write one sentence naming a decision owner and a concrete action. A broad topic such as AI in retail needs a narrower decision, such as how to order information in a product-selection survey."
+      },
+      {
+        "title": "Evidence About the Setting",
+        "lines": [
+          "Identify two public sources.",
+          "Separate documented facts from your hypotheses.",
+          "Record the source, date, and relevant claim."
+        ],
+        "minutes": 10,
+        "notes": "Use the source ledger in the collection guide. A company announcement may establish a product feature; it need not establish a causal effect. Keep unsupported assumptions visible in the proposal."
+      },
+      {
+        "title": "Two Competing Considerations",
+        "lines": [
+          "Explain why both considerations matter here.",
+          "Write a neutral question for each.",
+          "Keep the focal decision separate."
+        ],
+        "minutes": 15,
+        "notes": "Work on A, B, and F. Ask whether each consideration follows from the institutional setting. Define unfamiliar terms in the question itself. Avoid telling a synthetic respondent how the experiment is expected to turn out."
+      },
+      {
+        "title": "A Research Question You Can Answer",
+        "lines": [
+          "Name the response procedure.",
+          "Name the focal outcome and comparison.",
+          "State the scope of the model-panel evidence."
+        ],
+        "minutes": 15,
+        "notes": "A usable question might ask whether the tested model gives different launch-support rates after two specified frame orders. Separate that question from whether real customers support launch. Draft the proposal research question."
+      },
+      {
+        "title": "Scope and Feasibility",
+        "lines": [
+          "Check access, collection time, and approved budget.",
+          "Plan all six conditions on the same persona grid.",
+          "Choose a design you can document completely."
+        ],
+        "minutes": 15,
+        "notes": "Discuss feasibility with the instructor. The six conditions are detailed in the collection guide. A small pilot checks the workflow; it does not guarantee precise estimates. Record scope feedback before collecting project responses."
+      },
+      {
+        "title": "Peer Review of the Proposal",
+        "lines": [
+          "Can a reader identify the management decision?",
+          "Do the frames follow from the public evidence?",
+          "Is the strongest alternative specific and testable?"
+        ],
+        "minutes": 15,
+        "notes": "Exchange draft outlines. Give one substantive suggestion tied to a proposal rubric criterion. Each student decides how to revise their individual work."
+      },
+      {
+        "title": "Your Judgment and AI Use",
+        "lines": [
+          "Write your reasoning before using AI assistance.",
+          "Log the tool, prompt, and resulting changes.",
+          "Explain what you accepted, revised, or rejected."
+        ],
+        "minutes": 5,
+        "notes": "Project Part 1 is AIAS 3. Follow the assessment instructions and keep the AI Attribution Log. The log should document judgment, not merely list a tool name."
+      },
+      {
+        "title": "The Proposal Draft",
+        "lines": [
+          "Save the decision, sources, and three draft questions.",
+          "Record the scope feedback.",
+          "List the remaining design choices for Module 2."
+        ],
+        "minutes": 5,
+        "notes": "This checkpoint prepares the proposal due at the end of Week 2. Consult Canvas for the exact date. It is not an additional graded deliverable."
+      }
+    ]
+  },
+  {
+    "id": "M2S1",
+    "title": "Interpreting Order Effects",
+    "prework": "Watch the Module 2 videos, including intervals and tolerances. Run the order-and-QQ notebook and bring a preliminary A/B/F battery.",
+    "assessment": [
+      "M2A1_Discussion_2",
+      "M2A2_Project_Part_1"
+    ],
+    "output": "A correct QQ interpretation, a defined focal order comparison, and draft thresholds and rival tests for the proposal.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Interpreting Order Effects",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M2S1"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "Order Differences and QQ",
+        "lines": [
+          "Which statistic compares F across orders?",
+          "Which statistic compares A/B agreement?",
+          "What records does each require?"
+        ],
+        "minutes": 5,
+        "notes": "Give students two minutes to write their answers. The focal difference uses F yes rates; q uses actual paired A/B responses within each order. Clarify only the distinctions that remain uncertain."
+      },
+      {
+        "title": "An Imposed Answer-Pair Table",
+        "lines": [
+          "Both columns contain 100 illustrative interviews."
+        ],
+        "minutes": 10,
+        "notes": "The table consistently uses A rows and B columns, including for BA. These are imposed counts and not human observations. Students should verify totals before computing rates.",
+        "kind": "table",
+        "table": [
+          [
+            "Answer pair",
+            "AB",
+            "BA"
+          ],
+          [
+            "A yes, B yes",
+            "30",
+            "45"
+          ],
+          [
+            "A yes, B no",
+            "10",
+            "25"
+          ],
+          [
+            "A no, B yes",
+            "20",
+            "5"
+          ],
+          [
+            "A no, B no",
+            "40",
+            "25"
+          ]
+        ]
+      },
+      {
+        "title": "Agreement Shares and Order Rates",
+        "lines": [
+          "Calculate each order’s agreement share.",
+          "Compare A’s yes rate across orders.",
+          "State what is missing for an F comparison."
+        ],
+        "minutes": 15,
+        "notes": "Students compute in pairs and compare with the M2 notebook. Each agreement share is 70/100; A yes rates are 40/100 and 70/100. F has not been observed in this table. These are class exercises rather than a project answer key."
+      },
+      {
+        "title": "A Classical Sequential Explanation",
+        "lines": [
+          "Inspect the transition rules in the notebook.",
+          "The rules vary with which question comes first.",
+          "Which extra prediction would test this explanation?"
+        ],
+        "minutes": 15,
+        "notes": "Run classical_order_example. In AB, A yes is .4 and B yes conditional on A is .75 or 1/3. In BA, B yes is .5 and A yes conditional on B is .9 or .5. Ordinary probabilities generate the table with q=0. Source: the course’s constructed example; Dzhafarov and Kon, https://arxiv.org/abs/1710.07847."
+      },
+      {
+        "title": "Intervals Against a Practical Range",
+        "lines": [
+          "Use a prespecified tolerance of ±5 percentage points."
+        ],
+        "minutes": 10,
+        "notes": "The intervals are illustrative inputs, not estimates from a dataset. Ask students to classify each and justify the action. A and C lie inside the practical range; B is unresolved. Revise the table if the class chooses a different managerial tolerance.",
+        "kind": "table",
+        "table": [
+          [
+            "Case",
+            "Illustrative 95% interval",
+            "Decision relative to ±5 pp"
+          ],
+          [
+            "A",
+            "−2 to +3 pp",
+            "Within the range"
+          ],
+          [
+            "B",
+            "−12 to +14 pp",
+            "Unresolved"
+          ],
+          [
+            "C",
+            "+1 to +4 pp",
+            "Within the range"
+          ]
+        ]
+      },
+      {
+        "title": "The Resampling Unit",
+        "lines": [
+          "The project links six interviews to each persona.",
+          "Keep the complete block together.",
+          "Explain what independent sampling is assumed."
+        ],
+        "minutes": 10,
+        "notes": "Use the collection guide to identify one block. Resampling individual answers would sever the design’s links. A persona bootstrap represents variation over the sampled blocks under a fixed collection process; it does not turn model personas into sampled people."
+      },
+      {
+        "title": "Design Revisions",
+        "lines": [
+          "Freeze A, B, F, coding, and collection conditions.",
+          "Choose a practical threshold and q tolerance.",
+          "Write a fair test of the strongest alternative."
+        ],
+        "minutes": 15,
+        "notes": "Students revise their own proposal. Thresholds should follow the managerial decision and feasible precision. The teaching value of .05 is not a universal threshold. Save the rationale in the proposal and log any later changes."
+      },
+      {
+        "title": "The Interpretation Paragraph",
+        "lines": [
+          "Explain why order and QQ answer different questions.",
+          "Describe what an uncertain interval leaves unresolved.",
+          "Use that reasoning in Discussion 2."
+        ],
+        "minutes": 10,
+        "notes": "Write a short outline for M2A1 and identify one remaining proposal weakness. Submit individual work under the brief. Next session is the battery-design workshop."
+      }
+    ]
+  },
+  {
+    "id": "M2S2",
+    "title": "Battery Design and Proposal Workshop",
+    "prework": "Bring the draft proposal, question battery, evidence ledger, and collection guide. Review the Part 1 rubric.",
+    "assessment": [
+      "M2A2_Project_Part_1"
+    ],
+    "output": "A revised proposal with fixed wording, six conditions, a persona plan, thresholds, and explicit actions for different findings.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Battery Design and Proposal Workshop",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M2S2"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "The Decision and Question Battery",
+        "lines": [
+          "Read the decision statement aloud.",
+          "Check that A and B express distinct considerations.",
+          "Check that F records the decision of interest."
+        ],
+        "minutes": 10,
+        "notes": "A partner should be able to explain the design without additional background. Revise vague or technical wording. Preserve the same response coding across conditions."
+      },
+      {
+        "title": "Six Conditions, One Persona Grid",
+        "lines": [],
+        "minutes": 15,
+        "notes": "The isolated conditions ask every question in a fresh conversation. Constructed conditions retain actual prior answers. Direct and assessed arms supply the separate procedural comparison. An ordinary all-at-once panel is optional and does not replace a required arm.",
+        "kind": "table",
+        "table": [
+          [
+            "Condition",
+            "Question sequence",
+            "Context retained"
+          ],
+          [
+            "Isolated AB / BA",
+            "A, B, F / B, A, F",
+            "Fresh for each question"
+          ],
+          [
+            "Constructed AB / BA",
+            "A → B → F / B → A → F",
+            "Prior questions and answers"
+          ],
+          [
+            "Direct",
+            "F only",
+            "No prior assessment"
+          ],
+          [
+            "Assessed",
+            "A → F",
+            "Prior question and answer"
+          ]
+        ]
+      },
+      {
+        "title": "Facts, Coding, and Context",
+        "lines": [
+          "Hold the factual background fixed.",
+          "Use the same yes/no definitions.",
+          "Save the complete message history and retries."
+        ],
+        "minutes": 10,
+        "notes": "Walk through one hypothetical persona without making paid calls. Verify which messages would be present in each condition. A parser should reject unrecognized answers rather than silently treat them as no."
+      },
+      {
+        "title": "The Collection Plan",
+        "lines": [
+          "Specify the persona grid and run schedule.",
+          "Use a randomized order of collection runs.",
+          "Record the model version and approved budget."
+        ],
+        "minutes": 10,
+        "notes": "The persona grid is a designed collection frame, not a probability sample of people. Document all fields, exclusions, and missingness. Budget for all conditions and any declared retry rule."
+      },
+      {
+        "title": "Decision Rules",
+        "lines": [
+          "Specify important, small, and unresolved results.",
+          "Give a managerial action for each.",
+          "Separate operational action from a mechanism claim."
+        ],
+        "minutes": 15,
+        "notes": "Students draft their own thresholds and action branches. A flat or inconclusive result can support a sound recommendation. Grade depends on reasoning and evidence, not on obtaining a nonclassical-looking pattern."
+      },
+      {
+        "title": "Peer Review Against the Rubric",
+        "lines": [
+          "Find one claim without enough evidence.",
+          "Find one design choice that could change the result.",
+          "Propose a concrete revision."
+        ],
+        "minutes": 15,
+        "notes": "Partners use the M2A2 rubric and collection checklist. Keep feedback specific. Each student owns the final proposal and discloses permitted AI assistance."
+      },
+      {
+        "title": "Revisions and Their Reasons",
+        "lines": [
+          "Resolve the highest-impact issue first.",
+          "Record what changed and why.",
+          "Preserve the original prediction for comparison later."
+        ],
+        "minutes": 10,
+        "notes": "Allow quiet revision time. A useful revision log separates planned design changes from changes made after results are observed. The log later supports Project Part 2 and the reflection."
+      },
+      {
+        "title": "Proposal Submission Check",
+        "lines": [
+          "Attach the proposal, battery, sources, and AI log.",
+          "Check the exact Canvas deadline.",
+          "Retain a fixed copy before collecting project data."
+        ],
+        "minutes": 5,
+        "notes": "Use M2A2 for the complete requirements. This workshop does not add a separate submission."
+      }
+    ]
+  },
+  {
+    "id": "M3S1",
+    "title": "Handoffs, Recommendations, and Evidence",
+    "prework": "Watch the Module 3 videos. Read the Meridian and Juno examples in the Module 3 note. Complete the short interference notebook.",
+    "assessment": [
+      "M3A1_Discussion_3",
+      "M3A2_Audit_Practice",
+      "M4A1_Project_Part_2"
+    ],
+    "output": "A draft Discussion 3 comparison, an interpretation of the direct-versus-assessed evidence, and a proposed managerial outcome for the report.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Handoffs, Recommendations, and Evidence",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M3S1"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "Direct and Assessed Decisions",
+        "lines": [
+          "Direct: request F immediately.",
+          "Assessed: ask A, retain the answer, then request F.",
+          "Which quantities come from the assessed records?"
+        ],
+        "minutes": 5,
+        "notes": "Use the video concepts to identify w, r_yes, and r_no. Give only a brief clarification before applying them to the case."
+      },
+      {
+        "title": "Meridian’s Illustrative Console Choice",
+        "lines": [
+          "Conditional block rates: 0.63 and 0.41.",
+          "Fraud-judgment share: 9/11; assessed rate: 0.59.",
+          "Direct block rate: 0.69."
+        ],
+        "minutes": 15,
+        "notes": "Meridian is fictional and these rates are illustrative. Ask students to calculate the weighted rate and identify what comparison is challenged by .69. Source: Nathan Yang, Case: The Intermediate Step; adapted to distinguish the fixed-rate benchmark from process-dependent alternatives.",
+        "kind": "chart",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "After fraud",
+            "After legitimate",
+            "Assessed",
+            "Direct"
+          ],
+          "values": [
+            0.63,
+            0.41,
+            0.59,
+            0.69
+          ],
+          "series": "Block rate",
+          "xTitle": "Procedure or conditional group",
+          "yTitle": "Block rate",
+          "caption": "Fictional Meridian example; imposed rates, not field estimates."
+        }
+      },
+      {
+        "title": "The Meaning of the Difference",
+        "lines": [
+          "Compute direct minus assessed.",
+          "State why 0.69 lies outside the fixed-rate bracket.",
+          "Name a process that could change conditional rates."
+        ],
+        "minutes": 15,
+        "notes": "The difference is .10 and the bracket is [.41,.63]. The weighted identity holds within assessed records. Carrying its rates to the direct procedure is the additional assumption. Ask groups to propose an informative comparison rather than assert that every classical explanation has failed."
+      },
+      {
+        "title": "The Managerial Outcome",
+        "lines": [
+          "A block rate is one measured behavior.",
+          "Also consider fraud loss, false blocks, time, and reliance.",
+          "What evidence would justify changing the console?"
+        ],
+        "minutes": 15,
+        "notes": "Groups design a production evaluation conceptually. Accuracy and welfare require outcome information; higher blocking alone is not success. Humr and Canan provide a related AI-supported decision study: https://www.mdpi.com/1099-4300/26/6/500. The classroom case is separate from that study."
+      },
+      {
+        "title": "Juno’s Recommendation Problem",
+        "lines": [
+          "A feed can lead with popularity or a stated goal.",
+          "The displayed options and facts remain fixed.",
+          "How should the team evaluate a change in purchases?"
+        ],
+        "minutes": 15,
+        "notes": "Juno is fictional. Ask whether purchase rate, later regret, goal attainment, and user control could lead to different judgments of the same design. Link the argument to Carroll et al., https://proceedings.mlr.press/v162/carroll22a.html. Avoid equating engagement with welfare."
+      },
+      {
+        "title": "What the Panel Represents",
+        "lines": [
+          "Tier 1 checks the calculation using a simulator.",
+          "Tier 2 studies the model under documented prompts.",
+          "Tier 3 adds evidence from relevant people."
+        ],
+        "minutes": 15,
+        "notes": "Have each group rewrite an overbroad sentence into a claim about the observed unit. A synthetic persona is not a human respondent. Bisbee et al., https://doi.org/10.1017/pan.2024.5, provide a comparison between synthetic outputs and human survey evidence."
+      },
+      {
+        "title": "The Assessment Draft",
+        "lines": [
+          "Outline the handoff or recommendation issue for M3A1.",
+          "Name the outcome your project recommendation needs.",
+          "Bring the completed M3A2 run to the studio."
+        ],
+        "minutes": 10,
+        "notes": "Give students individual writing time. The discussion brief specifies the post and peer response. The practice notebook is an ungraded checkpoint; it prepares the collection and analysis workflow."
+      }
+    ]
+  },
+  {
+    "id": "M3S2",
+    "title": "Audit Workshop and Troubleshooting",
+    "prework": "Complete M3A2. Bring its executed notebook, your fixed proposal, collection records if available, and the Project Part 2 brief.",
+    "assessment": [
+      "M3A2_Audit_Practice",
+      "M4A1_Project_Part_2"
+    ],
+    "output": "A checked collection structure, executed analysis or documented blocker, and a draft evidence table for the report.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Audit Workshop and Troubleshooting",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M3S2"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "The Practice Result",
+        "lines": [
+          "Did the calculation recover the simulator’s pattern?",
+          "How did the smaller sample change the intervals?",
+          "Which warning needs attention?"
+        ],
+        "minutes": 5,
+        "notes": "Students compare estimates with known population values in their own run. A small sample can leave a decision unresolved even when the code is correct. Do not alter seeds until a preferred finding appears."
+      },
+      {
+        "title": "The Collection Records",
+        "lines": [
+          "Check one complete persona block.",
+          "Confirm six conditions and actual retained answers.",
+          "Reconcile interview counts with the collection log."
+        ],
+        "minutes": 15,
+        "notes": "Use validate_records and the guide. Inspect raw messages as well as the tidy record. Repeated IDs, missing conditions, and unasked questions coded as zero require resolution before analysis."
+      },
+      {
+        "title": "The Audit Calculation",
+        "lines": [
+          "Execute from a fresh notebook state.",
+          "Trace one answer-pair table to the input records.",
+          "Save estimates, intervals, and diagnostic notes."
+        ],
+        "minutes": 20,
+        "notes": "Allow independent computation and instructor troubleshooting. The default starter uses simulation; students must explicitly switch to model_data for their actual project and supply metadata. Work with a workflow pilot if approved collection remains pending."
+      },
+      {
+        "title": "An Uncertain Result",
+        "lines": [
+          "Check coding, missingness, and subgroup size.",
+          "Examine the frozen thresholds.",
+          "Distinguish imprecision from a software error."
+        ],
+        "minutes": 15,
+        "notes": "Sparse assessed subgroups can make bracket intervals unavailable. A constant outcome can give a degenerate interval. Additional bootstrap draws do not substitute for relevant data. Preserve honest unresolved results."
+      },
+      {
+        "title": "Peer Critique of the Evidence",
+        "lines": [
+          "Does each estimate have a clear denominator?",
+          "Does the interval preserve the sampling structure?",
+          "Does the interpretation stay within Tier 2?"
+        ],
+        "minutes": 15,
+        "notes": "Exchange a summary table without sharing private or unnecessary raw records. Use the Part 2 rubric to identify one claim to narrow or one check to strengthen."
+      },
+      {
+        "title": "The Result Paragraph",
+        "lines": [
+          "State the tested model, procedure, and outcome.",
+          "Report magnitude and uncertainty together.",
+          "Connect the finding to a proposed action."
+        ],
+        "minutes": 10,
+        "notes": "Draft the report using actual results or explicitly mark a workflow draft if collection is incomplete. Explain the strongest alternative near the interpretation it limits."
+      },
+      {
+        "title": "Remaining Work",
+        "lines": [
+          "Save the notebook, records, and revised evidence table.",
+          "Log any departure from the proposal.",
+          "Assign your next analysis or collection step."
+        ],
+        "minutes": 10,
+        "notes": "The report is individual. Preserve the original design and explain revisions. Consult Canvas and M4A1 for the submission and presentation requirements."
+      }
+    ]
+  },
+  {
+    "id": "M4S1",
+    "title": "Audit Presentations and Oral Defense",
+    "prework": "Prepare the individual 6–10 slide deck and rehearse a ten-minute presentation. Review M4A1 and the no-AI oral-defense rule.",
+    "assessment": [
+      "M4A1_Project_Part_2"
+    ],
+    "output": "The individual presentation and oral defense, plus recorded feedback for the final report.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Audit Presentations and Oral Defense",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M4S1"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "Presentation Block",
+        "lines": [
+          "Ten-minute individual presentation.",
+          "Five minutes of questions.",
+          "Up to six presenters in a 90-minute block."
+        ],
+        "minutes": 90,
+        "notes": "Display before presentations. The 90 minutes belong to six 15-minute slots. Briefing instructions should be read before the meeting. If the cohort exceeds six, the instructor schedules additional blocks. The following slides are reference prompts and do not add time."
+      },
+      {
+        "title": "The Client Story",
+        "lines": [
+          "Decision and comparison.",
+          "Design, evidence, uncertainty, and strongest alternative.",
+          "Recommendation, owner, and review condition."
+        ],
+        "minutes": 0,
+        "notes": "Reference checklist for the student’s own 6–10 slides. Show the evidence that affects the decision and keep complete counts and code available for questions."
+      },
+      {
+        "title": "Questions About the Evidence",
+        "lines": [
+          "Which result would change your recommendation?",
+          "Which assumption carries your broadest claim?",
+          "What remains unresolved?"
+        ],
+        "minutes": 0,
+        "notes": "These are public preparation questions. The oral defense is AIAS 0. Students explain their own analysis without AI assistance during the defense."
+      },
+      {
+        "title": "Peer Feedback",
+        "lines": [
+          "Identify one well-supported claim.",
+          "Identify one missing link between evidence and action.",
+          "Ask one specific question."
+        ],
+        "minutes": 0,
+        "notes": "Peer feedback supports revision and does not replace the instructor’s grading. Keep comments focused on the stated decision, design, evidence, and interpretation."
+      },
+      {
+        "title": "After the Presentation",
+        "lines": [
+          "Record the feedback that affects your recommendation.",
+          "Revise the report and document the change.",
+          "Retain the evidence supporting your final judgment."
+        ],
+        "minutes": 0,
+        "notes": "Use the revision log in the collection guide. The final written submission remains governed by M4A1 and the Canvas deadline."
+      }
+    ]
+  },
+  {
+    "id": "M4S2",
+    "title": "Audit Synthesis and Reflection",
+    "prework": "Bring your results, presentation feedback, revision log, and reflection brief. Watch the Module 4 videos before the meeting.",
+    "assessment": [
+      "M4A1_Project_Part_2",
+      "M4A2_Reflection"
+    ],
+    "output": "A revised recommendation, a completed final-submission check, and individual notes for the 800-word reflection.",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Audit Synthesis and Reflection",
+        "lines": [
+          "Quantum Cognition for Human-AI Decision Teaming",
+          "Nathan Yang",
+          "M4S2"
+        ],
+        "minutes": 0,
+        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+      },
+      {
+        "title": "The Scope of the Evidence",
+        "lines": [
+          "What was the unit of observation?",
+          "Which procedure changed?",
+          "Which conclusion was best supported?"
+        ],
+        "minutes": 5,
+        "notes": "Students answer from their own audit. Use the three questions to establish comparable descriptions before discussing patterns across projects."
+      },
+      {
+        "title": "Findings Across Audits",
+        "lines": [
+          "Compare the procedures and measured outcomes first.",
+          "Look for shared patterns and important differences.",
+          "Retain unresolved and practically small results."
+        ],
+        "minutes": 20,
+        "notes": "Build a class synthesis using volunteered summaries. Different models, questions, persona grids, and settings limit direct comparisons. A tally of positive results is not a pooled estimate."
+      },
+      {
+        "title": "Recommendations Across Settings",
+        "lines": [
+          "Which findings led to a process change?",
+          "Which called for additional evidence?",
+          "Which supported retaining the current procedure?"
+        ],
+        "minutes": 15,
+        "notes": "Ask students to justify each action using the actual decision rule and costs. Strong analysis can support any of these outcomes. Distinguish a managerial judgment from a unique mechanism claim."
+      },
+      {
+        "title": "The Strongest Alternative",
+        "lines": [
+          "What evidence favors the competing explanation?",
+          "Which additional comparison would be informative?",
+          "How would it affect your recommendation?"
+        ],
+        "minutes": 15,
+        "notes": "Students revisit the rival specified in Part 1 and the fair test they proposed. If the audit did not distinguish explanations, document that directly and propose a concrete next comparison."
+      },
+      {
+        "title": "The Revised Recommendation",
+        "lines": [
+          "Name the action and responsible owner.",
+          "State the evidence that supports it.",
+          "Add a condition for review."
+        ],
+        "minutes": 10,
+        "notes": "Individual revision time for Project Part 2. Connect the recommendation to the strongest defensible finding. Keep broader human claims tied to the human evidence that would be needed."
+      },
+      {
+        "title": "Reflection Notes",
+        "lines": [
+          "What did you initially expect?",
+          "What evidence changed or confirmed your reasoning?",
+          "Which habit will you carry into another decision?"
+        ],
+        "minutes": 15,
+        "notes": "The reflection is AIAS 1. Students write their own reflection; AI may be used only for permitted brainstorming. Use this period for independent notes from the proposal, results, and revision log. The target is 800 words, with details in M4A2."
+      },
+      {
+        "title": "Final Submission Check",
+        "lines": [
+          "Report, executed notebook, records, deck, and logs.",
+          "Check that the figures match the reported estimates.",
+          "Submit through the Canvas assignment links."
+        ],
+        "minutes": 10,
+        "notes": "Use the complete M4A1 and M4A2 instructions. Keep source files and private records in the approved location. Exact deadlines and any instructor arrangements are in Canvas."
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+# Live Sessions
+
+Watch the module videos before each meeting. These eight 90-minute sessions use application, discussion, and workshop time to develop your assessments. The guides state preparation, activity timing, and the draft or decision to take away.
+
+| Session | Materials | Assessment Progress |
+| --- | --- | --- |
+| M1S1 · Judgment and the Survey Decision | [Guide](M1S1_Judgment_and_the_Survey_Decision.md) · [Slides](M1S1_Judgment_and_the_Survey_Decision.pptx) · [PDF](M1S1_Judgment_and_the_Survey_Decision.pdf) | A draft comparison of detection and construction, a specified benchmark, and one testable prediction for your company decision. |
+| M1S2 · Company Selection and Problem Framing | [Guide](M1S2_Company_Selection_and_Problem_Framing.md) · [Slides](M1S2_Company_Selection_and_Problem_Framing.pptx) · [PDF](M1S2_Company_Selection_and_Problem_Framing.pdf) | A feasible company decision, a research question, two candidate frames, and a first entry in the AI Attribution Log. |
+| M2S1 · Interpreting Order Effects | [Guide](M2S1_Interpreting_Order_Effects.md) · [Slides](M2S1_Interpreting_Order_Effects.pptx) · [PDF](M2S1_Interpreting_Order_Effects.pdf) | A correct QQ interpretation, a defined focal order comparison, and draft thresholds and rival tests for the proposal. |
+| M2S2 · Battery Design and Proposal Workshop | [Guide](M2S2_Battery_Design_and_Proposal_Workshop.md) · [Slides](M2S2_Battery_Design_and_Proposal_Workshop.pptx) · [PDF](M2S2_Battery_Design_and_Proposal_Workshop.pdf) | A revised proposal with fixed wording, six conditions, a persona plan, thresholds, and explicit actions for different findings. |
+| M3S1 · Handoffs, Recommendations, and Evidence | [Guide](M3S1_Handoffs_Recommendations_and_Evidence.md) · [Slides](M3S1_Handoffs_Recommendations_and_Evidence.pptx) · [PDF](M3S1_Handoffs_Recommendations_and_Evidence.pdf) | A draft Discussion 3 comparison, an interpretation of the direct-versus-assessed evidence, and a proposed managerial outcome for the report. |
+| M3S2 · Audit Workshop and Troubleshooting | [Guide](M3S2_Audit_Workshop_and_Troubleshooting.md) · [Slides](M3S2_Audit_Workshop_and_Troubleshooting.pptx) · [PDF](M3S2_Audit_Workshop_and_Troubleshooting.pdf) | A checked collection structure, executed analysis or documented blocker, and a draft evidence table for the report. |
+| M4S1 · Audit Presentations and Oral Defense | [Guide](M4S1_Audit_Presentations_and_Oral_Defense.md) · [Slides](M4S1_Audit_Presentations_and_Oral_Defense.pptx) · [PDF](M4S1_Audit_Presentations_and_Oral_Defense.pdf) | The individual presentation and oral defense, plus recorded feedback for the final report. |
+| M4S2 · Audit Synthesis and Reflection | [Guide](M4S2_Audit_Synthesis_and_Reflection.md) · [Slides](M4S2_Audit_Synthesis_and_Reflection.pptx) · [PDF](M4S2_Audit_Synthesis_and_Reflection.pdf) | A revised recommendation, a completed final-submission check, and individual notes for the 800-word reflection. |
+
+The Module 4 presentation session allows six students to present for ten minutes and answer questions for five minutes each. Larger cohorts need additional presentation blocks. The other guides allocate exactly 90 minutes. Workshop outputs are preparation for the existing assessment, rather than additional graded submissions.
+
+PowerPoint files contain editable text, tables, and data charts. PDFs and Markdown guides provide reading alternatives. The design follows Nathan Yang’s Marketing Analytics course: parchment backgrounds, dark blue text, restrained orange rules, and one concept illustration. The public session source is in [sessions.json](source/sessions.json).
