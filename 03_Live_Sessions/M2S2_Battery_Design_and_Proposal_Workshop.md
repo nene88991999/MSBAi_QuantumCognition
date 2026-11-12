@@ -1,10 +1,10 @@
 # M2S2: Battery Design and Proposal Workshop
 
-**Preparation:** Bring the draft proposal, question battery, evidence ledger, and collection guide. Review the Part 1 rubric.
+**Preparation:** Bring the team’s draft proposal, question battery, evidence ledger, and collection guide. Review the team proposal rubric.
 
-**Session Output:** A revised proposal with fixed wording, six conditions, a persona plan, thresholds, and explicit actions for different findings.
+**Session Output:** One revised team proposal with fixed wording, six conditions, a persona plan, thresholds, member responsibilities, and actions for different findings.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M2A2_Project_Part_1](../02_Assessments/M2A2_Project_Part_1.md)
 
@@ -146,12 +146,12 @@ Allow quiet revision time. A useful revision log separates planned design change
 
 ## Slide 9: Proposal Submission Check
 
-Attach the proposal, battery, sources, and AI log.
+Submit one team proposal with the required attachments.
 
-Check the exact Canvas deadline.
+Include AI Attribution and member contribution records.
 
 Retain a fixed copy before collecting project data.
 
 ### Discussion and Work
 
-Use M2A2 for the complete requirements. This workshop does not add a separate submission.
+The team proposal carries 25% of Part 1 and 12.5% of the full course. One member submits on behalf of the team and identifies all members. Confirm that each member has reviewed the design. Use the exact deadline in Canvas.

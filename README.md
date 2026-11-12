@@ -29,11 +29,13 @@ Watch the recorded videos before the live meeting. Read the corresponding module
 
 The [wiki](docs/README.md) brings together the book companion, glossary, case workshop, readings, and course resources. Four calculators explore answer probabilities, order effects and QQ, the fixed-rate bracket, and intervals against a practical tolerance.
 
-Download the repository and open `docs/index.html` in a browser. The wiki works locally without an account, server, or internet connection for its explanations and calculators. Links to course files and readings open GitHub or the source publisher. The same `docs` folder is ready for GitHub Pages when an appropriate publication setting is available. The repository remains private.
+Download the repository and open `docs/index.html` in a browser. The wiki works locally without an account, server, or internet connection for its explanations and calculators. Links to course files and readings open GitHub or the source publisher. The same `docs` folder is ready for GitHub Pages when an appropriate publication setting is available. The repository is public and course files can be read without signing in.
 
 ## Assessment and Access
 
-These materials cover Nathan Yang’s four-module part of the course. The assessment weights total 100% within this part. Canvas supplies exact dates, submission links, approved model access, and course-wide policies. All assessments are individual. Workshop collaboration supports preparation; each student submits their own analysis and follows the AI-use policy in the assessment brief.
+These materials cover Nathan Yang’s four-module part of the course, which contributes **50% of the full-course grade**. Teams submit the research proposal and audit report with its deck and supporting records. Discussions, Module 3 practice, each student’s oral defense, and the reflection remain individual. The [assessment table](02_Assessments/README.md) shows weights within Part 1 and across the full course. Canvas supplies team assignments, exact dates, submission links, model access, and course-wide policies.
+
+This is the current student package. Its Box location is **Student Materials/Modules 1-4** at the course-development root, and its Dropbox location is **MSBAi Quantum Cognition/Student_Materials**. The GitHub repository contains the same student files. The package ZIP is a downloadable copy of this release.
 
 Store graded work and interview records in the approved private submission location. The examples use fictional cases or clearly labeled simulations. An audit of model responses supports conclusions about the tested model and collection procedure; evidence from people is needed for claims about a human population.
 

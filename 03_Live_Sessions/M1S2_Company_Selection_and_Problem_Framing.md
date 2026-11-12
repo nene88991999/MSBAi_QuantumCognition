@@ -1,10 +1,10 @@
 # M1S2: Company Selection and Problem Framing
 
-**Preparation:** Bring two public sources about a company decision, your Discussion 1 notes, and the Project Part 1 brief.
+**Preparation:** Meet with your assigned team. Bring two public sources about a company decision, your individual Discussion 1 notes, and the Project Part 1 brief.
 
-**Session Output:** A feasible company decision, a research question, two candidate frames, and a first entry in the AI Attribution Log.
+**Session Output:** A shared company decision, research question, candidate frames, and initial entries in the team’s AI Attribution and contribution logs.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M1A1_Discussion_1](../02_Assessments/M1A1_Discussion_1.md), [M2A2_Project_Part_1](../02_Assessments/M2A2_Project_Part_1.md)
 
@@ -123,15 +123,15 @@ Is the strongest alternative specific and testable?
 
 ### Discussion and Work
 
-Exchange draft outlines. Give one substantive suggestion tied to a proposal rubric criterion. Each student decides how to revise their individual work.
+Exchange outlines with another team. Give one substantive suggestion tied to the proposal rubric. Each team discusses the feedback, agrees on revisions, and records who will make and check each change.
 
 ## Slide 8: Your Judgment and AI Use
 
-Write your reasoning before using AI assistance.
+Each member records an initial judgment before AI use.
 
-Log the tool, prompt, and resulting changes.
+Log who used the tool and who checked the result.
 
-Explain what you accepted, revised, or rejected.
+Agree on the team’s revision and its reason.
 
 ### Discussion and Work
 
@@ -139,11 +139,11 @@ Project Part 1 is AIAS 3. Follow the assessment instructions and keep the AI Att
 
 ## Slide 9: The Proposal Draft
 
-Save the decision, sources, and three draft questions.
+Save one team decision and three draft questions.
 
-Record the scope feedback.
+Assign tasks and a reviewer for each substantive step.
 
-List the remaining design choices for Module 2.
+Record the design choices still open for Module 2.
 
 ### Discussion and Work
 

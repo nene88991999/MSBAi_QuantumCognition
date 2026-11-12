@@ -1,10 +1,10 @@
 # M3S2: Audit Workshop and Troubleshooting
 
-**Preparation:** Complete M3A2. Bring its executed notebook, your fixed proposal, collection records if available, and the Project Part 2 brief.
+**Preparation:** Complete M3A2 individually. Bring that executed notebook and your team’s frozen proposal, collection records, and Project Part 2 brief.
 
-**Session Output:** A checked collection structure, executed analysis or documented blocker, and a draft evidence table for the report.
+**Session Output:** A checked team collection, executed analysis or documented blocker, a draft evidence table, and assigned follow-up responsibilities.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M3A2_Audit_Practice](../02_Assessments/M3A2_Audit_Practice.md), [M4A1_Project_Part_2](../02_Assessments/M4A1_Project_Part_2.md)
 
@@ -130,12 +130,12 @@ Draft the report using actual results or explicitly mark a workflow draft if col
 
 ## Slide 8: Remaining Work
 
-Save the notebook, records, and revised evidence table.
+Save the team notebook, records, and evidence table.
 
-Log any departure from the proposal.
+Assign the next task and a member to check it.
 
-Assign your next analysis or collection step.
+Each member prepares to explain the full audit.
 
 ### Discussion and Work
 
-The report is individual. Preserve the original design and explain revisions. Consult Canvas and M4A1 for the submission and presentation requirements.
+The report and deck are shared team work. Preserve the original design and document revisions and contributions. Each student’s oral defense is graded separately. Consult Canvas and M4A1 for the required submissions and schedule.

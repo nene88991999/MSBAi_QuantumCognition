@@ -48,3 +48,7 @@ The project bootstrap resamples complete persona blocks, preserving all six cond
 If a resample has an empty assessed subgroup, the affected interval is unavailable. Sparse or constant outcomes also require care. A large number of bootstrap draws cannot repair an uninformative sample. The notebook reports these conditions explicitly.
 
 The results describe the tested response procedure and persona grid. A small q is one model restriction, and an out-of-bracket direct rate tests a fixed-rate benchmark. Human representativeness requires separate evidence.
+
+## Individual Practice and Team Project
+
+Complete `M3A2_Audit_Practice.ipynb` individually. Use `M1_4_Project_Audit_Starter.ipynb` for the shared team audit and submit one executed project notebook with the team report. Record who produced and checked each analysis step. Every member should be able to explain the records, calculations, and uncertainty during their individual oral defense.

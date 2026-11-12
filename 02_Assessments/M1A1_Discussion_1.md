@@ -1,7 +1,6 @@
-# Discussion 1
-Where Does the Classical Model Break Down
+# Discussion 1 Where Does the Classical Model Break Down
 
-M1A1  |  Individual  |  10 points  |  End of Week 1
+M1A1  |  Individual  |  10 points  |  10% of Part 1  |  5% of course  |  Week 1
 
 Choose a real business decision in which asking a question could change the judgment being measured. Explain the problem in terms a manager could use to decide what to test next.
 

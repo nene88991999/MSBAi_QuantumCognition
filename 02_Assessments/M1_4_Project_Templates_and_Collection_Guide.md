@@ -2,7 +2,11 @@
 
 Companion to M2A2 and M4A1  |  Editable Working Templates
 
-Use these sections to turn a company decision into a reproducible audit. Replace the response prompts with your own work. The six-condition design below matches the supplied Project Audit Starter notebook and keeps the additional interference comparison explicit.
+Use these shared team templates to turn a company decision into a reproducible audit. Replace the response prompts with your own work. The six-condition design below matches the supplied Project Audit Starter notebook and keeps the additional interference comparison explicit.
+
+## Team and Individual Responsibilities
+
+Use the team assigned in Canvas. Submit one proposal, report, deck, executed project notebook, and set of supporting records per team. Each student completes the three discussions, Module 3 practice, oral defense, and reflection individually. The proposal and report receive shared team scores; oral-defense and reflection scores reflect each student’s work.
 
 ## Proposal Template
 
@@ -105,8 +109,19 @@ Date and task: [response]
 Tool provider and model version: [response]
 Settings and prompt or raw-file reference: [response]
 Output used and location in submission: [response]
-Your verification and sources checked: [response]
+Member who used the tool and member who checked the result: [response]
+Verification and sources checked: [response]
 What you changed or rejected and why: [response]
+
+## Contribution Record Entry
+
+Task and date: [response]
+Member responsible: [response]
+Work produced and file or commit: [response]
+Member who checked the work and result of the check: [response]
+Decisions agreed by the team: [response]
+
+Record substantive contributions as the work proceeds. All members review the final submission and prepare to explain the full audit. The contribution record supports transparency; it does not introduce a separate graded activity or an automatic peer-score adjustment.
 
 ## Revision Record Entry
 
@@ -135,6 +150,6 @@ The input file is a JSON list of interview records. Use the following fields for
 
 ## Suggested Repository Contents
 
-Keep the frozen proposal and questions, persona grid, model-data JSON, raw interview records, executed notebook, result tables, report, slides, attribution log, and revision log in clearly named folders. Add a README that identifies the evidence tier, software, input file, and steps for rerunning the analysis. Use a commit identifier to identify the submitted version.
+Keep the team’s frozen proposal and questions, persona grid, model-data JSON, raw interview records, executed notebook, result tables, report, slides, attribution log, contribution record, and revision log in clearly named folders in the approved private submission repository. Add a README that identifies the evidence tier, software, input file, and steps for rerunning the analysis. Use a commit identifier to identify the submitted version.
 
 In Colab, upload the notebook and model-data file, plus the raw-record folder in a ZIP if needed; extract the folder beside the notebook input. In a local notebook environment, keep the same relative paths. The analysis needs only Python and NumPy. It does not call an AI provider or incur usage charges. Collect model responses separately with the course-approved tool and preserve the full records specified in this guide.

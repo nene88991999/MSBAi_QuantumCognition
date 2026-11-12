@@ -2,12 +2,12 @@
   {
     "id": "M1S1",
     "title": "Judgment and the Survey Decision",
-    "prework": "Watch the Module 1 videos, including the short geometric-model bridge. Read the Module 1 note and bring a public company decision for Discussion 1.",
+    "prework": "Watch the Module 1 videos, including the short geometric-model bridge. Read the Module 1 note and bring a public company decision for your individual Discussion 1.",
     "assessment": [
       "M1A1_Discussion_1",
       "M2A2_Project_Part_1"
     ],
-    "output": "A draft comparison of detection and construction, a specified benchmark, and one testable prediction for your company decision.",
+    "output": "An individual Discussion 1 draft and a candidate decision to discuss with your project team.",
     "slides": [
       {
         "kind": "cover",
@@ -207,12 +207,12 @@
   {
     "id": "M1S2",
     "title": "Company Selection and Problem Framing",
-    "prework": "Bring two public sources about a company decision, your Discussion 1 notes, and the Project Part 1 brief.",
+    "prework": "Meet with your assigned team. Bring two public sources about a company decision, your individual Discussion 1 notes, and the Project Part 1 brief.",
     "assessment": [
       "M1A1_Discussion_1",
       "M2A2_Project_Part_1"
     ],
-    "output": "A feasible company decision, a research question, two candidate frames, and a first entry in the AI Attribution Log.",
+    "output": "A shared company decision, research question, candidate frames, and initial entries in the team’s AI Attribution and contribution logs.",
     "slides": [
       {
         "kind": "cover",
@@ -365,14 +365,14 @@
           "Is the strongest alternative specific and testable?"
         ],
         "minutes": 15,
-        "notes": "Exchange draft outlines. Give one substantive suggestion tied to a proposal rubric criterion. Each student decides how to revise their individual work."
+        "notes": "Exchange outlines with another team. Give one substantive suggestion tied to the proposal rubric. Each team discusses the feedback, agrees on revisions, and records who will make and check each change."
       },
       {
         "title": "Your Judgment and AI Use",
         "lines": [
-          "Write your reasoning before using AI assistance.",
-          "Log the tool, prompt, and resulting changes.",
-          "Explain what you accepted, revised, or rejected."
+          "Each member records an initial judgment before AI use.",
+          "Log who used the tool and who checked the result.",
+          "Agree on the team’s revision and its reason."
         ],
         "minutes": 5,
         "notes": "Project Part 1 is AIAS 3. Follow the assessment instructions and keep the AI Attribution Log. The log should document judgment, not merely list a tool name."
@@ -380,9 +380,9 @@
       {
         "title": "The Proposal Draft",
         "lines": [
-          "Save the decision, sources, and three draft questions.",
-          "Record the scope feedback.",
-          "List the remaining design choices for Module 2."
+          "Save one team decision and three draft questions.",
+          "Assign tasks and a reviewer for each substantive step.",
+          "Record the design choices still open for Module 2."
         ],
         "minutes": 5,
         "notes": "This checkpoint prepares the proposal due at the end of Week 2. Consult Canvas for the exact date. It is not an additional graded deliverable."
@@ -392,12 +392,12 @@
   {
     "id": "M2S1",
     "title": "Interpreting Order Effects",
-    "prework": "Watch the Module 2 videos, including intervals and tolerances. Run the order-and-QQ notebook and bring a preliminary A/B/F battery.",
+    "prework": "Watch the Module 2 videos, including intervals and tolerances. Run the order-and-QQ notebook and bring your team’s preliminary A/B/F battery.",
     "assessment": [
       "M2A1_Discussion_2",
       "M2A2_Project_Part_1"
     ],
-    "output": "A correct QQ interpretation, a defined focal order comparison, and draft thresholds and rival tests for the proposal.",
+    "output": "An individual Discussion 2 outline and proposed thresholds and rival tests to review with your project team.",
     "slides": [
       {
         "kind": "cover",
@@ -596,18 +596,18 @@
           "Use that reasoning in Discussion 2."
         ],
         "minutes": 10,
-        "notes": "Write a short outline for M2A1 and identify one remaining proposal weakness. Submit individual work under the brief. Next session is the battery-design workshop."
+        "notes": "Write your own M2A1 discussion outline. Then identify one proposal weakness to discuss with your team. Discussion 2 is individual; the proposal is a shared team submission."
       }
     ]
   },
   {
     "id": "M2S2",
     "title": "Battery Design and Proposal Workshop",
-    "prework": "Bring the draft proposal, question battery, evidence ledger, and collection guide. Review the Part 1 rubric.",
+    "prework": "Bring the team’s draft proposal, question battery, evidence ledger, and collection guide. Review the team proposal rubric.",
     "assessment": [
       "M2A2_Project_Part_1"
     ],
-    "output": "A revised proposal with fixed wording, six conditions, a persona plan, thresholds, and explicit actions for different findings.",
+    "output": "One revised team proposal with fixed wording, six conditions, a persona plan, thresholds, member responsibilities, and actions for different findings.",
     "slides": [
       {
         "kind": "cover",
@@ -800,25 +800,25 @@
       {
         "title": "Proposal Submission Check",
         "lines": [
-          "Attach the proposal, battery, sources, and AI log.",
-          "Check the exact Canvas deadline.",
+          "Submit one team proposal with the required attachments.",
+          "Include AI Attribution and member contribution records.",
           "Retain a fixed copy before collecting project data."
         ],
         "minutes": 5,
-        "notes": "Use M2A2 for the complete requirements. This workshop does not add a separate submission."
+        "notes": "The team proposal carries 25% of Part 1 and 12.5% of the full course. One member submits on behalf of the team and identifies all members. Confirm that each member has reviewed the design. Use the exact deadline in Canvas."
       }
     ]
   },
   {
     "id": "M3S1",
     "title": "Handoffs, Recommendations, and Evidence",
-    "prework": "Watch the Module 3 videos. Read the Meridian and Juno examples in the Module 3 note. Complete the short interference notebook.",
+    "prework": "Watch the Module 3 videos. Read the Meridian and Juno examples and complete the short interference notebook. Bring an idea for your individual Discussion 3.",
     "assessment": [
       "M3A1_Discussion_3",
       "M3A2_Audit_Practice",
       "M4A1_Project_Part_2"
     ],
-    "output": "A draft Discussion 3 comparison, an interpretation of the direct-versus-assessed evidence, and a proposed managerial outcome for the report.",
+    "output": "An individual Discussion 3 draft and a proposed managerial outcome to discuss with your audit team.",
     "slides": [
       {
         "kind": "cover",
@@ -984,12 +984,12 @@
   {
     "id": "M3S2",
     "title": "Audit Workshop and Troubleshooting",
-    "prework": "Complete M3A2. Bring its executed notebook, your fixed proposal, collection records if available, and the Project Part 2 brief.",
+    "prework": "Complete M3A2 individually. Bring that executed notebook and your team’s frozen proposal, collection records, and Project Part 2 brief.",
     "assessment": [
       "M3A2_Audit_Practice",
       "M4A1_Project_Part_2"
     ],
-    "output": "A checked collection structure, executed analysis or documented blocker, and a draft evidence table for the report.",
+    "output": "A checked team collection, executed analysis or documented blocker, a draft evidence table, and assigned follow-up responsibilities.",
     "slides": [
       {
         "kind": "cover",
@@ -1157,23 +1157,23 @@
       {
         "title": "Remaining Work",
         "lines": [
-          "Save the notebook, records, and revised evidence table.",
-          "Log any departure from the proposal.",
-          "Assign your next analysis or collection step."
+          "Save the team notebook, records, and evidence table.",
+          "Assign the next task and a member to check it.",
+          "Each member prepares to explain the full audit."
         ],
         "minutes": 10,
-        "notes": "The report is individual. Preserve the original design and explain revisions. Consult Canvas and M4A1 for the submission and presentation requirements."
+        "notes": "The report and deck are shared team work. Preserve the original design and document revisions and contributions. Each student’s oral defense is graded separately. Consult Canvas and M4A1 for the required submissions and schedule."
       }
     ]
   },
   {
     "id": "M4S1",
     "title": "Audit Presentations and Oral Defense",
-    "prework": "Prepare the individual 6–10 slide deck and rehearse a ten-minute presentation. Review M4A1 and the no-AI oral-defense rule.",
+    "prework": "Prepare the team’s 6–10 slide deck and rehearse a ten-minute team presentation. Each member reviews the full audit for their five-minute individual defense. Read M4A1 and its no-AI defense rule.",
     "assessment": [
       "M4A1_Project_Part_2"
     ],
-    "output": "The individual presentation and oral defense, plus recorded feedback for the final report.",
+    "output": "A team presentation, a separately graded oral defense for each member, and feedback for the shared final report.",
     "slides": [
       {
         "kind": "cover",
@@ -1189,12 +1189,12 @@
       {
         "title": "Presentation Block",
         "lines": [
-          "Ten-minute individual presentation.",
-          "Five minutes of questions.",
-          "Up to six presenters in a 90-minute block."
+          "Ten-minute team presentation.",
+          "Five-minute oral defense for each member.",
+          "Three four-person teams fit one 90-minute block."
         ],
         "minutes": 90,
-        "notes": "Display before presentations. The 90 minutes belong to six 15-minute slots. Briefing instructions should be read before the meeting. If the cohort exceeds six, the instructor schedules additional blocks. The following slides are reference prompts and do not add time."
+        "notes": "Allocate ten minutes per team plus five minutes per student. Three teams of four use 3×10 + 12×5 = 90 minutes. Schedule additional blocks when the actual cohort requires more time. Team size and slots come from Canvas. Each student answers independently without live AI or teammate prompting. Record the team report and deck score out of 30 and the individual defense score out of 5. The remaining slides are reference prompts and add no scheduled activity time."
       },
       {
         "title": "A Figure for the Client Decision",
@@ -1202,7 +1202,7 @@
           "What evidence belongs next to these rates?"
         ],
         "minutes": 0,
-        "notes": "This public preparation example uses imposed counts, not a student solution or a real company result. Students should identify the tested model and persona design, define each sequence, report the 13-point difference with an appropriate interval, and show how it affects the decision. The bars alone do not establish statistical precision or human customer behavior. In the client story, connect the decision, design, uncertainty, strongest alternative, and recommendation. This reference slide adds no time to the six 15-minute presentation slots.",
+        "notes": "This public preparation example uses imposed counts, not a student solution or a real company result. Students should identify the tested model and persona design, define each sequence, report the 13-point difference with an appropriate interval, and show how it affects the decision. The bars alone do not establish statistical precision or human customer behavior. In the client story, connect the decision, design, uncertainty, strongest alternative, and recommendation. This reference slide adds no time to the scheduled team presentations and individual defenses.",
         "kind": "evidence",
         "chart": {
           "type": "bar",
@@ -1282,7 +1282,7 @@
           "Which comparison deserves a question from the reviewer?"
         ],
         "minutes": 0,
-        "notes": "Equal group weights yield a pooled rate of .60 in both orders, while subgroup changes run in opposite directions. The four subgroup counts are 80,40,40,80 yes out of 100. This descriptive example does not supply intervals or establish subgroup effects. Ask about prespecification, uncertainty, and the relevance of subgroup definitions. Peer feedback should identify a supported claim and a missing link to the action. Students revise their individual reports using their actual evidence; this slide is a public preparation prompt.",
+        "notes": "Equal group weights yield a pooled rate of .60 in both orders, while subgroup changes run in opposite directions. The four subgroup counts are 80,40,40,80 yes out of 100. This descriptive example does not supply intervals or establish subgroup effects. Ask about prespecification, uncertainty, and the relevance of subgroup definitions. Peer feedback should identify a supported claim and a missing link to the action. Teams revise their shared reports using their actual evidence; this slide is a public preparation prompt.",
         "kind": "evidence",
         "chart": {
           "type": "bar",
@@ -1321,9 +1321,9 @@
       {
         "title": "After the Presentation",
         "lines": [
-          "Record the feedback that affects your recommendation.",
-          "Revise the report and document the change.",
-          "Retain the evidence supporting your final judgment."
+          "Record feedback on the team’s recommendation.",
+          "Revise the shared report and document contributions.",
+          "Each student retains notes for their own reflection."
         ],
         "minutes": 0,
         "notes": "Use the revision log in the collection guide. The final written submission remains governed by M4A1 and the Canvas deadline."
@@ -1333,12 +1333,12 @@
   {
     "id": "M4S2",
     "title": "Audit Synthesis and Reflection",
-    "prework": "Bring your results, presentation feedback, revision log, and reflection brief. Watch the Module 4 videos before the meeting.",
+    "prework": "Bring your team’s results, presentation feedback, revision log, and the individual reflection brief. Watch the Module 4 videos before the meeting.",
     "assessment": [
       "M4A1_Project_Part_2",
       "M4A2_Reflection"
     ],
-    "output": "A revised recommendation, a completed final-submission check, and individual notes for the 800-word reflection.",
+    "output": "A revised team recommendation and submission check, plus each student’s own notes for the 800-word reflection.",
     "slides": [
       {
         "kind": "cover",
@@ -1483,7 +1483,7 @@
           "Add a condition for review."
         ],
         "minutes": 10,
-        "notes": "Individual revision time for Project Part 2. Connect the recommendation to the strongest defensible finding. Keep broader human claims tied to the human evidence that would be needed."
+        "notes": "Teams revise the shared Project Part 2 recommendation. Connect it to the strongest defensible finding and record the reason for the change. Keep claims about people tied to the human evidence needed to support them."
       },
       {
         "title": "Reflection Notes",
@@ -1498,12 +1498,12 @@
       {
         "title": "Final Submission Check",
         "lines": [
-          "Report, executed notebook, records, deck, and logs.",
-          "Check that the figures match the reported estimates.",
-          "Submit through the Canvas assignment links."
+          "One team audit package with records and logs.",
+          "A separate oral-defense score for each student.",
+          "One independently written reflection per student."
         ],
         "minutes": 10,
-        "notes": "Use the complete M4A1 and M4A2 instructions. Keep source files and private records in the approved location. Exact deadlines and any instructor arrangements are in Canvas."
+        "notes": "Use the complete M4A1 and M4A2 instructions. The shared team report and deck count for 15% of the full course; each student’s oral defense counts for 2.5%, and the individual reflection for 5%. Keep source files and raw records in the approved private location. Exact deadlines are in Canvas."
       }
     ]
   }

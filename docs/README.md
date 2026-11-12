@@ -13,6 +13,4 @@ The interactive examples use imposed inputs, not empirical estimates. The calcul
 
 ## GitHub Hosting
 
-The files in this folder are compatible with GitHub Pages from the `main` branch’s `/docs` folder. The repository is private and no live Pages publication is configured by this delivery. GitHub Pages from this personal account would publish a publicly accessible website, even while the source repository remains private. Private Pages access requires an eligible organization setup. See [GitHub’s visibility guidance](https://docs.github.com/en/enterprise-cloud%40latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site). Confirm the intended audience before enabling a hosted site. The local version provides the complete interactive experience in the meantime.
-
-The Markdown versions remain readable directly on GitHub. [Course home](../README.md) · [Book companion](../04_Module_Notes/README.md).
+The repository is public. These files are ready for GitHub Pages from the `main` branch’s `/docs` folder. A hosted Pages address is not configured in this package. Download the repository and open `index.html` for the complete interactive experience.

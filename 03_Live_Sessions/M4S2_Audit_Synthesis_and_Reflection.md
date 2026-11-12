@@ -1,10 +1,10 @@
 # M4S2: Audit Synthesis and Reflection
 
-**Preparation:** Bring your results, presentation feedback, revision log, and reflection brief. Watch the Module 4 videos before the meeting.
+**Preparation:** Bring your team’s results, presentation feedback, revision log, and the individual reflection brief. Watch the Module 4 videos before the meeting.
 
-**Session Output:** A revised recommendation, a completed final-submission check, and individual notes for the 800-word reflection.
+**Session Output:** A revised team recommendation and submission check, plus each student’s own notes for the 800-word reflection.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M4A1_Project_Part_2](../02_Assessments/M4A1_Project_Part_2.md), [M4A2_Reflection](../02_Assessments/M4A2_Reflection.md)
 
@@ -104,7 +104,7 @@ Add a condition for review.
 
 ### Discussion and Work
 
-Individual revision time for Project Part 2. Connect the recommendation to the strongest defensible finding. Keep broader human claims tied to the human evidence that would be needed.
+Teams revise the shared Project Part 2 recommendation. Connect it to the strongest defensible finding and record the reason for the change. Keep claims about people tied to the human evidence needed to support them.
 
 ## Slide 7: Reflection Notes
 
@@ -120,12 +120,12 @@ The reflection is AIAS 1. Students write their own reflection; AI may be used on
 
 ## Slide 8: Final Submission Check
 
-Report, executed notebook, records, deck, and logs.
+One team audit package with records and logs.
 
-Check that the figures match the reported estimates.
+A separate oral-defense score for each student.
 
-Submit through the Canvas assignment links.
+One independently written reflection per student.
 
 ### Discussion and Work
 
-Use the complete M4A1 and M4A2 instructions. Keep source files and private records in the approved location. Exact deadlines and any instructor arrangements are in Canvas.
+Use the complete M4A1 and M4A2 instructions. The shared team report and deck count for 15% of the full course; each student’s oral defense counts for 2.5%, and the individual reflection for 5%. Keep source files and raw records in the approved private location. Exact deadlines are in Canvas.

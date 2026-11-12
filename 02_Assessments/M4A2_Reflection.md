@@ -1,8 +1,8 @@
 # Reflection on Analytical Judgment
 
-M4A2  |  Individual  |  10 points  |  End of Week 4
+M4A2  |  Individual  |  10 points  |  10% of Part 1  |  5% of course  |  Week 4
 
-Explain one consequential change in your judgment during the project and the evidence that prompted it. Use a specific before-and-after example to show how your reasoning developed.
+Explain one consequential change in your judgment during the project and the evidence that prompted it. Use a specific before-and-after example to show how your own reasoning developed within the team project. Identify your contribution and distinguish your judgment from the team’s shared conclusion.
 
 ## Write an 800 Word Memo
 
@@ -16,7 +16,7 @@ Explain one consequential change in your judgment during the project and the evi
 
 ## Submission
 
-Enter the memo in Canvas. Aim for 800 words; 720–880 words is a reasonable working range. Cite the relevant part of your own project and any external source you use. References and a brief AI disclosure may sit outside the word count. Write a connected argument rather than a diary of tasks completed.
+Enter the memo in Canvas. Aim for 800 words; 720–880 words is a reasonable working range. Cite the relevant part of the team project and any external source you use. Each student submits an independently written memo, including when team members discuss the same finding. References and a brief AI disclosure may sit outside the word count. Write a connected argument rather than a diary of tasks completed.
 
 ## Reflection Rubric
 

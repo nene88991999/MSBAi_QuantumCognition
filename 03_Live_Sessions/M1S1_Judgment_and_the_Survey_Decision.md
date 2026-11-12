@@ -1,10 +1,10 @@
 # M1S1: Judgment and the Survey Decision
 
-**Preparation:** Watch the Module 1 videos, including the short geometric-model bridge. Read the Module 1 note and bring a public company decision for Discussion 1.
+**Preparation:** Watch the Module 1 videos, including the short geometric-model bridge. Read the Module 1 note and bring a public company decision for your individual Discussion 1.
 
-**Session Output:** A draft comparison of detection and construction, a specified benchmark, and one testable prediction for your company decision.
+**Session Output:** An individual Discussion 1 draft and a candidate decision to discuss with your project team.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M1A1_Discussion_1](../02_Assessments/M1A1_Discussion_1.md), [M2A2_Project_Part_1](../02_Assessments/M2A2_Project_Part_1.md)
 

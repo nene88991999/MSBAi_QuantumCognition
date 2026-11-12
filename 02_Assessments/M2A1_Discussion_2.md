@@ -1,7 +1,6 @@
-# Discussion 2
-Slate Order or Frame Order
+# Discussion 2 Slate Order or Frame Order
 
-M2A1  |  Individual  |  10 points  |  End of Week 2
+M2A1  |  Individual  |  10 points  |  10% of Part 1  |  5% of course  |  Week 2
 
 Use a real decision setting to explain how reversing an order could change the answer. Design a comparison that preserves the full answer pattern and gives a competing explanation a fair test.
 

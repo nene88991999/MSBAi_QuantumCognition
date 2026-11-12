@@ -1,10 +1,10 @@
 # M4S1: Audit Presentations and Oral Defense
 
-**Preparation:** Prepare the individual 6–10 slide deck and rehearse a ten-minute presentation. Review M4A1 and the no-AI oral-defense rule.
+**Preparation:** Prepare the team’s 6–10 slide deck and rehearse a ten-minute team presentation. Each member reviews the full audit for their five-minute individual defense. Read M4A1 and its no-AI defense rule.
 
-**Session Output:** The individual presentation and oral defense, plus recorded feedback for the final report.
+**Session Output:** A team presentation, a separately graded oral defense for each member, and feedback for the shared final report.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M4A1_Project_Part_2](../02_Assessments/M4A1_Project_Part_2.md)
 
@@ -28,15 +28,15 @@ This meeting assumes that students have watched the module videos. Use the sessi
 
 ## Slide 2: Presentation Block
 
-Ten-minute individual presentation.
+Ten-minute team presentation.
 
-Five minutes of questions.
+Five-minute oral defense for each member.
 
-Up to six presenters in a 90-minute block.
+Three four-person teams fit one 90-minute block.
 
 ### Discussion and Work
 
-Display before presentations. The 90 minutes belong to six 15-minute slots. Briefing instructions should be read before the meeting. If the cohort exceeds six, the instructor schedules additional blocks. The following slides are reference prompts and do not add time.
+Allocate ten minutes per team plus five minutes per student. Three teams of four use 3×10 + 12×5 = 90 minutes. Schedule additional blocks when the actual cohort requires more time. Team size and slots come from Canvas. Each student answers independently without live AI or teammate prompting. Record the team report and deck score out of 30 and the individual defense score out of 5. The remaining slides are reference prompts and add no scheduled activity time.
 
 ## Slide 3: A Figure for the Client Decision
 
@@ -53,7 +53,7 @@ Illustrative audit: 128/200 versus 102/200 valid responses.
 
 ### Discussion and Work
 
-This public preparation example uses imposed counts, not a student solution or a real company result. Students should identify the tested model and persona design, define each sequence, report the 13-point difference with an appropriate interval, and show how it affects the decision. The bars alone do not establish statistical precision or human customer behavior. In the client story, connect the decision, design, uncertainty, strongest alternative, and recommendation. This reference slide adds no time to the six 15-minute presentation slots.
+This public preparation example uses imposed counts, not a student solution or a real company result. Students should identify the tested model and persona design, define each sequence, report the 13-point difference with an appropriate interval, and show how it affects the decision. The bars alone do not establish statistical precision or human customer behavior. In the client story, connect the decision, design, uncertainty, strongest alternative, and recommendation. This reference slide adds no time to the scheduled team presentations and individual defenses.
 
 ## Slide 4: A Recommendation Depends on Costs
 
@@ -91,15 +91,15 @@ Imposed rates: 100 observations per profile in each order.
 
 ### Discussion and Work
 
-Equal group weights yield a pooled rate of .60 in both orders, while subgroup changes run in opposite directions. The four subgroup counts are 80,40,40,80 yes out of 100. This descriptive example does not supply intervals or establish subgroup effects. Ask about prespecification, uncertainty, and the relevance of subgroup definitions. Peer feedback should identify a supported claim and a missing link to the action. Students revise their individual reports using their actual evidence; this slide is a public preparation prompt.
+Equal group weights yield a pooled rate of .60 in both orders, while subgroup changes run in opposite directions. The four subgroup counts are 80,40,40,80 yes out of 100. This descriptive example does not supply intervals or establish subgroup effects. Ask about prespecification, uncertainty, and the relevance of subgroup definitions. Peer feedback should identify a supported claim and a missing link to the action. Teams revise their shared reports using their actual evidence; this slide is a public preparation prompt.
 
 ## Slide 6: After the Presentation
 
-Record the feedback that affects your recommendation.
+Record feedback on the team’s recommendation.
 
-Revise the report and document the change.
+Revise the shared report and document contributions.
 
-Retain the evidence supporting your final judgment.
+Each student retains notes for their own reflection.
 
 ### Discussion and Work
 

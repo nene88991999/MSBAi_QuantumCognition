@@ -1,10 +1,10 @@
 # M3S1: Handoffs, Recommendations, and Evidence
 
-**Preparation:** Watch the Module 3 videos. Read the Meridian and Juno examples in the Module 3 note. Complete the short interference notebook.
+**Preparation:** Watch the Module 3 videos. Read the Meridian and Juno examples and complete the short interference notebook. Bring an idea for your individual Discussion 3.
 
-**Session Output:** A draft Discussion 3 comparison, an interpretation of the direct-versus-assessed evidence, and a proposed managerial outcome for the report.
+**Session Output:** An individual Discussion 3 draft and a proposed managerial outcome to discuss with your audit team.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M3A1_Discussion_3](../02_Assessments/M3A1_Discussion_3.md), [M3A2_Audit_Practice](../02_Assessments/M3A2_Audit_Practice.md), [M4A1_Project_Part_2](../02_Assessments/M4A1_Project_Part_2.md)
 

@@ -1,7 +1,6 @@
-# Discussion 3
-Cognitive Asymmetry in a Human AI Process
+# Discussion 3 Cognitive Asymmetry in a Human AI Process
 
-M3A1  |  Individual  |  10 points  |  End of Week 3
+M3A1  |  Individual  |  10 points  |  10% of Part 1  |  5% of course  |  Week 3
 
 Examine a workflow in which an AI system supplies information or asks for a judgment before a person acts. Explain how that step could change the decision and propose a test that supports a practical improvement.
 

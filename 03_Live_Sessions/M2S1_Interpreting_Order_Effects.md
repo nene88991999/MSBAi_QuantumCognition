@@ -1,10 +1,10 @@
 # M2S1: Interpreting Order Effects
 
-**Preparation:** Watch the Module 2 videos, including intervals and tolerances. Run the order-and-QQ notebook and bring a preliminary A/B/F battery.
+**Preparation:** Watch the Module 2 videos, including intervals and tolerances. Run the order-and-QQ notebook and bring your team’s preliminary A/B/F battery.
 
-**Session Output:** A correct QQ interpretation, a defined focal order comparison, and draft thresholds and rival tests for the proposal.
+**Session Output:** An individual Discussion 2 outline and proposed thresholds and rival tests to review with your project team.
 
-This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual assessments. Follow the assessment brief for submission requirements.
+This 90-minute meeting assumes the videos have been watched. Use the activities to develop your individual work and team project. Follow the assessment brief for submission requirements.
 
 **Assessment Connections:** [M2A1_Discussion_2](../02_Assessments/M2A1_Discussion_2.md), [M2A2_Project_Part_1](../02_Assessments/M2A2_Project_Part_1.md)
 
@@ -143,4 +143,4 @@ Use that reasoning in Discussion 2.
 
 ### Discussion and Work
 
-Write a short outline for M2A1 and identify one remaining proposal weakness. Submit individual work under the brief. Next session is the battery-design workshop.
+Write your own M2A1 discussion outline. Then identify one proposal weakness to discuss with your team. Discussion 2 is individual; the proposal is a shared team submission.

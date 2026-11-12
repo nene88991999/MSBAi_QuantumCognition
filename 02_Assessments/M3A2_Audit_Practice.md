@@ -6,7 +6,7 @@ Check the audit calculations on simulated responses whose generating process is 
 
 ## Start the Notebook
 
-Open M3A2_Audit_Practice.ipynb from the Notebooks folder in Colab, Jupyter, or VS Code. In Colab, upload the notebook and choose Run all. The notebook needs Python and NumPy, already available in Colab. Work on your own copy and save the outputs with it.
+Open M3A2_Audit_Practice.ipynb from 06_Python/notebooks in the current Student Materials package in Colab, Jupyter, or VS Code. In Colab, upload the notebook and choose Run all. The notebook needs Python and NumPy, already available in Colab. Work on your own copy and save the outputs with it.
 
 The first simulator draws from one fixed joint distribution of A, B, and F, so changing the question order leaves the population rates unchanged. The second uses a specified geometric model in which asking a question changes the simulated state. Both are mathematical examples. Neither contains human or language-model responses.
 
