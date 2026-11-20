@@ -1,0 +1,7 @@
+# Introduction to Agency over Time
+
+In the previous module, we asked what makes a choice attributable to the person making it. We distinguished response patterns from evidence about reasons and control. Now we will follow the decision through time. Imagine that you choose to turn notifications off. Asked again immediately, you give the same answer. After considering whether you might miss a message from a friend, you change it. Has the second question helped you reconsider, or interrupted a judgment you wanted to keep? The sequence alone leaves both possibilities open.
+
+This module examines how a judgment settles and how it can reopen. We will distinguish an unchanged overall response share from an unchanged decision by each person. We will then ask who chooses the preliminary questions, whether the user can refuse them, and which response becomes binding. These details describe procedural authority, or control over how a decision is reached.
+
+Finally, we will connect the procedure to consumer welfare and AI assistance. Welfare concerns the value of the outcomes for the person affected. A service can change the chance of renewal even when the price and offer stay fixed. We will calculate what that means under explicit values, then consider how an AI adviser can operate within permission the user understands and can revise. Throughout, we will keep the user's goals, the response evidence, and control over the procedure in view.

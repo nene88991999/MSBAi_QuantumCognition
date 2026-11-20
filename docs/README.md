@@ -2,7 +2,7 @@
 
 Open `index.html` after downloading the repository. All explanations, search, and calculators work locally. No installation or server is required. Reading and course-file links require internet access and any applicable GitHub or publisher access.
 
-The wiki contains four module chapters, a glossary, a case workshop, a book map, course-resource guides, and four interactive examples:
+The wiki contains six module chapters, a glossary, a case workshop, a book map, course-resource guides, and four interactive examples:
 
 1. Squared projection and answer probability.
 2. Sequential judgments, answer-pair tables, and the QQ restriction.
@@ -14,3 +14,7 @@ The interactive examples use imposed inputs, not empirical estimates. The calcul
 ## GitHub Hosting
 
 The repository is public. These files are ready for GitHub Pages from the `main` branch’s `/docs` folder. A hosted Pages address is not configured in this package. Download the repository and open `index.html` for the complete interactive experience.
+
+## Eight-Week Extension
+
+[Current teaching schedule](../01_Syllabus/Eight_Week_Teaching_Schedule.md) · [Sixteen live-session guides](../03_Live_Sessions/README.md) · [Free Will and Agency](../04_Module_Notes/M5_Free_Will_and_Agency.md) · [Agency over Time](../04_Module_Notes/M6_Agency_over_Time.md). These resources extend the original four-module book companion.

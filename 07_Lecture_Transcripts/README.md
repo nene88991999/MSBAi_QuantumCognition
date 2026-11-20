@@ -44,3 +44,22 @@ These narration transcripts accompany the recorded videos. Watch the videos befo
 - [M1M4L4 Building and Defending the Ten-Minute Client Story](M1M4L4_Building%20and%20Defending%20the%20Ten-Minute%20Client%20Story.md)
 - [M1M4 Conclusion](M1M4_Conclusion.md)
 - [M1M4 Introduction](M1M4_Introduction.md)
+
+## Module 5
+
+- [Introduction to Free Will and Agency](M1M5_Introduction.md)
+- [What Makes a Choice Your Own](M1M5L1.md)
+- [Designing a Concept of Agency](M1M5L1b.md)
+- [Three Axioms for Choice](M1M5L2.md)
+- [A Quantum Model of Constructive Choice](M1M5L3.md)
+- [Evidence about Agency](M1M5L4.md)
+- [Conclusion to Free Will and Agency](M1M5_Conclusion.md)
+
+## Module 6
+
+- [Introduction to Agency over Time](M1M6_Introduction.md)
+- [When a Judgment Settles and Reopens](M1M6L1.md)
+- [Who Controls the Questions](M1M6L2.md)
+- [Agency and Consumer Welfare](M1M6L3.md)
+- [Agency in AI Assisted Decisions](M1M6L4.md)
+- [Conclusion to Agency over Time](M1M6_Conclusion.md)

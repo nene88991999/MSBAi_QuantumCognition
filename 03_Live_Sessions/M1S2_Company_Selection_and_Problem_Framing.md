@@ -147,4 +147,4 @@ Record the design choices still open for Module 2.
 
 ### Discussion and Work
 
-This checkpoint prepares the proposal due at the end of Week 2. Consult Canvas for the exact date. It is not an additional graded deliverable.
+This checkpoint prepares the proposal due at the end of Week 3. Consult Canvas for the exact date. It is not an additional graded deliverable.

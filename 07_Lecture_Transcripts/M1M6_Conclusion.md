@@ -1,0 +1,7 @@
+# Conclusion to Agency over Time
+
+This module followed a decision through time. Asking the same question twice showed us immediate repetition. Returning to it after another question showed us revision. We also saw why an unchanged group percentage can conceal many people changing their answers. A useful record preserves the individual history and the conditions under which it occurred.
+
+We then asked who controls the sequence. A requested reminder and an imposed reminder can produce the same final choice while allocating authority differently. Effective permission, refusal, and revision help us assess that difference. The welfare example added a separate calculation. Holding the offer and values fixed, a change in renewal probability changed the consumer's expected loss. That conclusion depended on both the probabilities and the stated value difference.
+
+For AI assistance, these ideas lead to concrete questions. What did the user authorize? Whose goal guides the questions? Can the user change the process before an action becomes binding? What does the evidence show about outcomes, understanding, and control? A mathematical representation helps organize and test response patterns. Connecting those patterns to agency requires the surrounding evidence. As you encounter a survey, recommendation, or automated adviser, consider both the answer it records and the authority people have over the process that produces it.

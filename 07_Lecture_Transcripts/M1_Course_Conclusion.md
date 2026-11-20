@@ -1,41 +1,11 @@
-# M1_Course_Conclusion
+# Conclusion to Quantum Approaches for Decision Making
 
-We've come to the end of our four modules, and I want to thank you for staying with me. Let's step back and look at the big picture.
+We began the course by asking what an organization measures when it records a judgment. Sometimes a question reveals a stable view. Sometimes the wording or sequence helps form the answer. The difference affects how we interpret a survey, evaluate an AI recommendation, and design a decision process. Our later discussion added the person's reasons and authority: when a procedure shapes a judgment, how can the person guide the choice? These questions give us a practical way to bring the course into work beyond the classroom.
 
-Everything in the four modules comes back to one practical question: when an organization records someone's judgment, what has it really measured? Sometimes the answer reflects a stable view that the question simply reveals.
+Start with the decision. Name the people or AI system providing the responses, the available alternatives, and the procedures being compared. State what remains fixed and what changes. A direct decision and a decision after an assessment can differ because the assessment changes evaluation, supplies information, or creates another burden. The setting and the comparison determine which explanation the evidence can address. A result from a synthetic panel concerns the model and prompting procedure tested. Evidence about people requires a study with people.
 
-Other times, the wording, the order of questions, or the screen in front of the person helps form that view. Knowing which is happening changes how we read the data, and how we design the process that produces it.
+Then compare predictions. A fixed-response model gives one benchmark. A quantum model, learning, memory, and wording effects can supply alternatives. Each should face observations on which it could fail. The size of an order effect, an aggregate paired-response restriction such as the QQ equality, and a comparison between direct and assessed decisions answer different questions. Read estimates together with their uncertainty and the assumptions behind the test. If a practical recommendation requires a small effect, examine whether the relevant interval lies within the stated tolerance.
 
-So how can you bring this into your own work? This slide shows four habits, and we'll go through them one at a time.
+Our discussion of agency added another discipline. Define the capacity or property being evaluated and explain why the criterion serves the concern. An observed response difference can challenge a representation without establishing a complete philosophical account of free will. Direct probabilities consistent with a value ranking need further support before we identify that ranking with the person's own reasons. Response histories help distinguish stable totals from stable individual decisions. Permission, effective refusal, and revision show how authority is allocated over the procedure.
 
-The first is to start with the decision. Name the judgment you care about, the people or AI model giving it, and the process used to collect it.
-
-Keep in mind that the same customer can have a stable preference in one task, and form a new one during another. So any conclusion should say which setting it came from.
-
-The second habit is to compare believable explanations. A model where judgments stay fixed gives you a benchmark.
-
-Learning, memory, uneven wording, and a quantum model are possible alternatives. Before you collect data, write down a prediction that could prove your favorite explanation wrong, and then design the comparison to test it.
-
-Remember that each test has its own job. Reversing two questions tests order.
-
-Comparing a direct decision with an assessed one tests what happens when people commit to an assessment first. And judgments about combined ideas need their own assumptions and evidence.
-
-The third habit is to keep the evidence boundary visible. When results come in, be clear about which question each number answers.
-
-The order effect tells you how much the outcome changed. The QQ test checks whether each person's paired answers agree in the way the geometric model predicts.
-
-And the interference and bracket comparisons tell you whether a direct decision matches what the assessed decisions would predict. Read each estimate together with its uncertainty and your rival checks.
-
-And remember that a synthetic-panel result tells you about the AI model you tested. To make a claim about people, you need a study with people.
-
-The fourth habit is to act, monitor, and revise. Match the action to the explanation the evidence supports.
-
-If uneven wording is the problem, fix the wording. If people are learning from an earlier question, design a deliberate order for that information.
-
-If the evidence points to frames that genuinely pull in different directions, choose the order on purpose, and make someone responsible for it. Then measure what the new process does, and set a review condition that says when to stop, reverse, or revise.
-
-Finally, keep a record of how your thinking changes. Write down what you expected, point to the evidence that mattered, and explain how your view moved.
-
-A smaller effect, a different explanation, or a narrower scope can each make a recommendation stronger. These habits will serve you well beyond this course: define the decision, compare explanations, test a prediction that could fail, respect what the evidence can and can't show, and update when the evidence changes.
-
-Thank you for learning with me, and I hope you'll look at the next survey or AI recommendation you see a little differently.
+Finally, connect the recommendation to consequences and control. A change in response probability becomes a welfare calculation only when the relevant values are justified. A person may also care about choosing or refusing the process itself. An AI adviser should operate within permission the user understands and can revise, with the binding action clear. State what should change, who is responsible, and what result would lead you to reconsider. Thank you for learning with me. I hope the next question, reminder, or recommendation you encounter prompts you to examine both the judgment it records and the process that helped produce it.

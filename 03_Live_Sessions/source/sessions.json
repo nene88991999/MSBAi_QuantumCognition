@@ -385,7 +385,7 @@
           "Record the design choices still open for Module 2."
         ],
         "minutes": 5,
-        "notes": "This checkpoint prepares the proposal due at the end of Week 2. Consult Canvas for the exact date. It is not an additional graded deliverable."
+        "notes": "This checkpoint prepares the proposal due at the end of Week 3. Consult Canvas for the exact date. It is not an additional graded deliverable."
       }
     ]
   },
@@ -603,22 +603,22 @@
   {
     "id": "M2S2",
     "title": "Battery Design and Proposal Workshop",
-    "prework": "Bring the team’s draft proposal, question battery, evidence ledger, and collection guide. Review the team proposal rubric.",
+    "prework": "Watch Module 2 first. Bring the team’s working proposal, question battery, evidence ledger, and collection guide. The proposal is due at the end of Week 3; this meeting develops the draft.",
     "assessment": [
       "M2A2_Project_Part_1"
     ],
-    "output": "One revised team proposal with fixed wording, six conditions, a persona plan, thresholds, member responsibilities, and actions for different findings.",
+    "output": "A revised team proposal draft and a list of issues to resolve before the end-of-Week-3 submission.",
     "slides": [
       {
         "kind": "cover",
         "title": "Battery Design and Proposal Workshop",
         "lines": [
-          "Quantum Cognition for Human-AI Decision Teaming",
+          "Quantum Approaches for Decision Making",
           "Nathan Yang",
-          "M2S2"
+          "M2S2 · 90-minute workshop"
         ],
         "minutes": 0,
-        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
       },
       {
         "title": "A Battery for the Service Decision",
@@ -785,7 +785,7 @@
           "Propose a concrete revision."
         ],
         "minutes": 15,
-        "notes": "Partners use the M2A2 rubric and collection checklist. Keep feedback specific. Each student owns the final proposal and discloses permitted AI assistance."
+        "notes": "Partners use the proposal rubric. Identify one unclear claim, one design risk, and one actionable revision. The team owns the shared proposal; each member contributes and discloses permitted AI assistance."
       },
       {
         "title": "Revisions and Their Reasons",
@@ -798,14 +798,14 @@
         "notes": "Allow quiet revision time. A useful revision log separates planned design changes from changes made after results are observed. The log later supports Project Part 2 and the reflection."
       },
       {
-        "title": "Proposal Submission Check",
+        "title": "From Draft to Week 3 Proposal",
         "lines": [
-          "Submit one team proposal with the required attachments.",
-          "Include AI Attribution and member contribution records.",
-          "Retain a fixed copy before collecting project data."
+          "Use this week to improve the team draft.",
+          "Submit the proposal at the end of Week 3.",
+          "Resolve pilot issues and freeze the plan in Week 4."
         ],
         "minutes": 5,
-        "notes": "The team proposal carries 25% of Part 1 and 12.5% of the full course. One member submits on behalf of the team and identifies all members. Confirm that each member has reviewed the design. Use the exact deadline in Canvas."
+        "notes": "One team submission identifies every member and includes AI Attribution and contribution records. Exact dates are posted in Canvas. Full collection begins in Week 5 after the Week 4 freeze. This eight-week schedule supersedes the earlier four-week calendar; grading is governed by the confirmed assessment policy."
       }
     ]
   },
@@ -983,527 +983,1760 @@
   },
   {
     "id": "M3S2",
-    "title": "Audit Workshop and Troubleshooting",
-    "prework": "Complete M3A2 individually. Bring that executed notebook and your team’s frozen proposal, collection records, and Project Part 2 brief.",
+    "title": "Research Proposal Clinic",
+    "prework": "Watch Module 3 and complete the individual audit practice on supplied data. Bring the team proposal draft, six-condition battery, pilot plan, and contribution record.",
+    "output": "A team proposal ready for the end of Week 3, with unresolved pilot questions assigned for Week 4.",
     "assessment": [
-      "M3A2_Audit_Practice",
-      "M4A1_Project_Part_2"
+      "Team research proposal",
+      "Individual audit practice"
     ],
-    "output": "A checked team collection, executed analysis or documented blocker, a draft evidence table, and assigned follow-up responsibilities.",
     "slides": [
       {
         "kind": "cover",
-        "title": "Audit Workshop and Troubleshooting",
+        "title": "Research Proposal Clinic",
         "lines": [
-          "Quantum Cognition for Human-AI Decision Teaming",
+          "Quantum Approaches for Decision Making",
           "Nathan Yang",
-          "M3S2"
+          "M3S2 · 90-minute workshop"
         ],
         "minutes": 0,
-        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
       },
       {
-        "title": "The Practice Result",
-        "lines": [
-          "Did the calculation recover the simulator’s pattern?",
-          "How did the smaller sample change the intervals?",
-          "Which warning needs attention?"
-        ],
-        "minutes": 5,
-        "notes": "Students compare estimates with known population values in their own run. A small sample can leave a decision unresolved even when the code is correct. Do not alter seeds until a preferred finding appears."
-      },
-      {
-        "title": "A Missing Condition in the Collection",
-        "lines": [
-          "What must be resolved before calculating the paired comparison?"
-        ],
-        "minutes": 15,
-        "notes": "This small record excerpt is a debugging exercise, not a dataset to analyze. Missing is not No. Inspect the full six-condition collection, distinguish failed calls from refusals and parser errors, and follow the frozen inclusion rule. Do not silently drop or impute a record. Preserve raw responses and count denominators explicitly. Students verify their own collection with the supplied audit code.",
         "kind": "evidence_table",
+        "title": "The Proposal and the Collection Plan",
+        "minutes": 10,
         "table": [
           [
-            "Persona",
-            "Constructed ABF",
-            "Constructed BAF"
+            "Week",
+            "Decision or output"
           ],
           [
-            "P01",
-            "F = Yes",
-            "F = No"
+            "3",
+            "Submit the research proposal"
           ],
           [
-            "P02",
-            "F = No",
-            "Missing"
+            "4",
+            "Pilot and freeze the collection plan"
           ],
           [
-            "P03",
-            "F = Yes",
-            "F = Yes"
+            "5–6",
+            "Collect under the frozen plan"
           ]
         ],
-        "caption": "Toy excerpt: two of the six conditions; one repetition per persona.",
+        "lines": [
+          "What still needs a decision before submission?"
+        ],
+        "notes": "The proposal is shared team work. Audit practice remains individual and ungraded. A pilot checks implementation; it is not the main collection. Do not present tentative grading weights as confirmed.",
+        "caption": "Approved eight-week sequence",
         "widths": [
-          0.22,
-          0.39,
-          0.39
+          0.2,
+          0.8
         ]
       },
       {
-        "title": "Estimates Across Repeated Samples",
-        "lines": [
-          "Where does your reported uncertainty come from?"
+        "kind": "evidence_table",
+        "title": "Match the Claim to a Comparison",
+        "minutes": 15,
+        "table": [
+          [
+            "Claim",
+            "Comparison to specify"
+          ],
+          [
+            "Order changes a judgment",
+            "AB versus BA under matched conditions"
+          ],
+          [
+            "An assessment changes F",
+            "Direct F versus assessed A then F"
+          ],
+          [
+            "A model predicts agreement",
+            "QQ restriction with uncertainty"
+          ]
         ],
+        "lines": [
+          "Name the outcome, denominator, and rival explanation."
+        ],
+        "notes": "Teams mark the exact question and population for each proposed claim. Use the established six-condition collection guide. A QQ result concerns aggregate paired-response probabilities and does not show that every person is internally consistent.",
+        "caption": "Proposal design exercise",
+        "widths": [
+          0.45,
+          0.55
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "A Pilot Record That Can Be Replayed",
+        "minutes": 15,
+        "table": [
+          [
+            "Field",
+            "Example to inspect"
+          ],
+          [
+            "Condition and run ID",
+            "Constructed AB, persona 07, repetition 02"
+          ],
+          [
+            "Prompt and actual answer",
+            "A: yes, then B: no, then F: yes"
+          ],
+          [
+            "Model and settings",
+            "Exact identifier, settings, date, retries"
+          ]
+        ],
+        "lines": [
+          "Can another team reconstruct this response path?"
+        ],
+        "notes": "Use a small synthetic pilot or supplied demonstration. Retain actual responses in constructed conversations. Fresh-context arms use separate conversations. Preserve failed and retried calls with identifiers. Verify that a retry is not silently counted as a new respondent.",
+        "caption": "Fictional log entry; no API calls required in class",
+        "widths": [
+          0.35,
+          0.65
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Peer Review the Team Proposal",
         "minutes": 20,
-        "notes": "This is a sampling simulation, not a bootstrap of collected data. In each of 5,000 repetitions, independently draw two binomial counts with n=100 and probabilities 0.60 and 0.50, then subtract the rates. NumPy default_rng seed 20261111. Five-point bins are left-closed, right-open except the last. The true difference is 10 percentage points. The audit instead resamples complete observed persona blocks to preserve dependence. Students run their notebook and verify counts, q, the focal difference, and bracket diagnostics against raw records. Simulation source and counts are provided in source/sessions.json.",
-        "kind": "evidence",
-        "chart": {
-          "type": "bar",
-          "categories": [
-            "-17.5",
-            "-12.5",
-            "-7.5",
-            "-2.5",
-            "2.5",
-            "7.5",
-            "12.5",
-            "17.5",
-            "22.5",
-            "27.5",
-            "32.5",
-            "37.5"
-          ],
-          "series": [
-            {
-              "name": "Simulated samples",
-              "values": [
-                0,
-                11,
-                57,
-                258,
-                755,
-                1193,
-                1398,
-                859,
-                366,
-                92,
-                9,
-                2
-              ]
-            }
-          ],
-          "xTitle": "Difference in percentage points (5-point bin midpoints)",
-          "yTitle": "Simulated samples",
-          "caption": "5,000 simulations: 100 independent responses per arm; true rates 0.60 and 0.50.",
-          "min": 0,
-          "max": 1600,
-          "step": 400,
-          "format": "0",
-          "smallTicks": true
-        }
+        "lines": [
+          "Exchange the claim and design sections.",
+          "Identify one ambiguous choice and its consequence.",
+          "Write a concrete revision with a reason."
+        ],
+        "notes": "Review against the current team proposal rubric. Give each student an assigned review role. Check the company decision, sources, six conditions, model-panel scope, thresholds, analysis plan, and division of work. Avoid requesting new data just to make a result more favorable."
       },
       {
-        "title": "The Rare Subgroup Limits Precision",
-        "lines": [
-          "Which conditional rate will be less precise?"
+        "kind": "evidence_table",
+        "title": "Resolve the Highest Priority Issues",
+        "minutes": 20,
+        "table": [
+          [
+            "Issue",
+            "Owner",
+            "Evidence of resolution"
+          ],
+          [
+            "Question wording",
+            "Assign a member",
+            "Exact final wording"
+          ],
+          [
+            "Analysis rule",
+            "Assign a member",
+            "Rule and reason recorded"
+          ],
+          [
+            "Implementation risk",
+            "Assign a member",
+            "Pilot check in Week 4"
+          ]
         ],
-        "minutes": 15,
-        "notes": "A conditional rate computed from ten records generally has less information than one computed from ninety, holding the response variance and dependence structure comparable. Here both subgroup counts are imposed. Empty groups can make a conditional rate or bracket unavailable. More bootstrap draws do not create additional observations. Students inspect subgroup sizes, invalid records, and the inclusion rules before interpreting an uncertain result.",
-        "kind": "evidence",
-        "chart": {
-          "type": "bar",
-          "categories": [
-            "A = Yes",
-            "A = No"
-          ],
-          "series": [
-            {
-              "name": "Assessed records",
-              "values": [
-                90,
-                10
-              ]
-            }
-          ],
-          "xTitle": "",
-          "yTitle": "Records in the assessed arm",
-          "caption": "Imposed counts: 100 assessed records divided by the first answer.",
-          "min": 0,
-          "max": 100,
-          "step": 20,
-          "format": "0"
-        }
+        "lines": [
+          "Revise the shared proposal and contribution log."
+        ],
+        "notes": "This is a blank planning structure, not a prescribed division among particular people. Every member should understand the full design. Record what changed and why. Keep unresolved issues visible rather than silently filling them with assumed values.",
+        "caption": "Team working table",
+        "widths": [
+          0.4,
+          0.25,
+          0.35
+        ]
       },
       {
-        "title": "Peer Critique of the Evidence",
-        "lines": [
-          "Does each estimate have a clear denominator?",
-          "Does the interval preserve the sampling structure?",
-          "Does the interpretation stay within Tier 2?"
-        ],
-        "minutes": 15,
-        "notes": "Exchange a summary table without sharing private or unnecessary raw records. Use the Part 2 rubric to identify one claim to narrow or one check to strengthen."
-      },
-      {
-        "title": "The Result Paragraph",
-        "lines": [
-          "State the tested model, procedure, and outcome.",
-          "Report magnitude and uncertainty together.",
-          "Connect the finding to a proposed action."
-        ],
+        "kind": "discussion",
+        "title": "Prepare the Week 3 Submission",
         "minutes": 10,
-        "notes": "Draft the report using actual results or explicitly mark a workflow draft if collection is incomplete. Explain the strongest alternative near the interpretation it limits."
-      },
-      {
-        "title": "Remaining Work",
         "lines": [
-          "Save the team notebook, records, and evidence table.",
-          "Assign the next task and a member to check it.",
-          "Each member prepares to explain the full audit."
+          "One proposal, with all team members identified.",
+          "Attach the battery, analysis plan, and attribution records.",
+          "Carry implementation checks into the Week 4 pilot."
         ],
-        "minutes": 10,
-        "notes": "The report and deck are shared team work. Preserve the original design and document revisions and contributions. Each student’s oral defense is graded separately. Consult Canvas and M4A1 for the required submissions and schedule."
+        "notes": "The proposal is due at the end of Week 3; Canvas supplies the exact date. Main collection opens in Week 5. Finish with each member explaining one design choice and one condition that could change the interpretation."
       }
     ]
   },
   {
     "id": "M4S1",
-    "title": "Audit Presentations and Oral Defense",
-    "prework": "Prepare the team’s 6–10 slide deck and rehearse a ten-minute team presentation. Each member reviews the full audit for their five-minute individual defense. Read M4A1 and its no-AI defense rule.",
+    "title": "Pilot Evidence and Interpretation",
+    "prework": "Watch Module 4. Bring the submitted team proposal, a small pilot or supplied demonstration, and the interpretation rules. Main collection has not opened.",
+    "output": "A pilot issue log, checked interpretation rules, and a prioritized repair list for the Week 4 freeze.",
     "assessment": [
-      "M4A1_Project_Part_2"
+      "Team proposal refinement",
+      "Collection plan"
     ],
-    "output": "A team presentation, a separately graded oral defense for each member, and feedback for the shared final report.",
     "slides": [
       {
         "kind": "cover",
-        "title": "Audit Presentations and Oral Defense",
+        "title": "Pilot Evidence and Interpretation",
         "lines": [
-          "Quantum Cognition for Human-AI Decision Teaming",
+          "Quantum Approaches for Decision Making",
           "Nathan Yang",
-          "M4S1"
+          "M4S1 · 90-minute workshop"
         ],
         "minutes": 0,
-        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
       },
       {
-        "title": "Presentation Block",
-        "lines": [
-          "Ten-minute team presentation.",
-          "Five-minute oral defense for each member.",
-          "Three four-person teams fit one 90-minute block."
+        "kind": "evidence_table",
+        "title": "A Pilot Checks the Procedure",
+        "minutes": 10,
+        "table": [
+          [
+            "Question",
+            "Pilot evidence"
+          ],
+          [
+            "Was the right sequence asked?",
+            "Saved prompts and history"
+          ],
+          [
+            "Can answers be coded?",
+            "Valid and invalid cases"
+          ],
+          [
+            "Can the analysis run?",
+            "A reproducible output"
+          ]
         ],
-        "minutes": 90,
-        "notes": "Allocate ten minutes per team plus five minutes per student. Three teams of four use 3×10 + 12×5 = 90 minutes. Schedule additional blocks when the actual cohort requires more time. Team size and slots come from Canvas. Each student answers independently without live AI or teammate prompting. Record the team report and deck score out of 30 and the individual defense score out of 5. The remaining slides are reference prompts and add no scheduled activity time."
+        "lines": [
+          "Which failure would stop full collection?"
+        ],
+        "notes": "Distinguish the pilot’s implementation purpose from estimating a final substantive effect. Use supplied practice data if API access is unavailable. Collection begins in Week 5 after the freeze.",
+        "caption": "Pre-collection check",
+        "widths": [
+          0.5,
+          0.5
+        ]
       },
       {
-        "title": "A Figure for the Client Decision",
-        "lines": [
-          "What evidence belongs next to these rates?"
-        ],
-        "minutes": 0,
-        "notes": "This public preparation example uses imposed counts, not a student solution or a real company result. Students should identify the tested model and persona design, define each sequence, report the 13-point difference with an appropriate interval, and show how it affects the decision. The bars alone do not establish statistical precision or human customer behavior. In the client story, connect the decision, design, uncertainty, strongest alternative, and recommendation. This reference slide adds no time to the scheduled team presentations and individual defenses.",
         "kind": "evidence",
+        "title": "Two Pilot Problems Can Look Similar",
+        "minutes": 15,
+        "lines": [
+          "What would you inspect before interpreting a difference?"
+        ],
+        "notes": "Constructed teaching rates. Higher invalidity in B may reflect wording, formatting, or system behavior. Preserve all attempts and reasons for exclusions. Check whether failures depend on the response. Do not silently replace failures until the desired result appears.",
         "chart": {
           "type": "bar",
           "categories": [
-            "Convenience first",
-            "Privacy first"
+            "Condition A",
+            "Condition B"
           ],
           "series": [
             {
-              "name": "Support for launch",
+              "name": "Valid responses",
               "values": [
-                0.64,
-                0.51
-              ]
-            }
-          ],
-          "xTitle": "",
-          "yTitle": "Support rate in the model panel",
-          "caption": "Illustrative audit: 128/200 versus 102/200 valid responses.",
-          "min": 0,
-          "max": 1,
-          "step": 0.2,
-          "format": "0%"
-        }
-      },
-      {
-        "title": "A Recommendation Depends on Costs",
-        "lines": [
-          "At what error cost would your recommendation change?"
-        ],
-        "minutes": 0,
-        "notes": "The horizontal variable c is the cost of one error of the type that occurs 5 times under A and 15 times under B. The fixed losses are 70 and 40 units. A and B tie at c=3 with loss 85. All costs and counts are imposed for oral-defense preparation. A manager must justify both counts and valuations. Students use their own evidence to name a review condition and identify the assumption that supports their broadest claim. The oral defense is AIAS 0.",
-        "kind": "evidence",
-        "chart": {
-          "type": "line",
-          "categories": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ],
-          "series": [
-            {
-              "name": "Procedure A",
-              "values": [
-                75,
-                80,
-                85,
-                90,
-                95
+                0.95,
+                0.65
               ]
             },
             {
-              "name": "Procedure B",
+              "name": "Invalid or missing",
               "values": [
-                55,
-                70,
-                85,
-                100,
-                115
+                0.05,
+                0.35
               ]
             }
           ],
-          "xTitle": "Cost per error, c",
-          "yTitle": "Total loss (illustrative units)",
-          "caption": "Imposed loss: A = 70 + 5c; B = 40 + 15c.",
-          "min": 0,
-          "max": 120,
-          "step": 30,
-          "format": "0"
-        }
-      },
-      {
-        "title": "Averages and Subgroup Patterns",
-        "lines": [
-          "Which comparison deserves a question from the reviewer?"
-        ],
-        "minutes": 0,
-        "notes": "Equal group weights yield a pooled rate of .60 in both orders, while subgroup changes run in opposite directions. The four subgroup counts are 80,40,40,80 yes out of 100. This descriptive example does not supply intervals or establish subgroup effects. Ask about prespecification, uncertainty, and the relevance of subgroup definitions. Peer feedback should identify a supported claim and a missing link to the action. Teams revise their shared reports using their actual evidence; this slide is a public preparation prompt.",
-        "kind": "evidence",
-        "chart": {
-          "type": "bar",
-          "categories": [
-            "Profile X",
-            "Profile Y",
-            "Pooled"
-          ],
-          "series": [
-            {
-              "name": "ABF",
-              "values": [
-                0.8,
-                0.4,
-                0.6
-              ]
-            },
-            {
-              "name": "BAF",
-              "values": [
-                0.4,
-                0.8,
-                0.6
-              ]
-            }
-          ],
-          "xTitle": "",
-          "yTitle": "F yes rate",
-          "caption": "Imposed rates: 100 observations per profile in each order.",
+          "yTitle": "Share of attempted responses",
+          "caption": "Illustrative rates; the categories total 100% within each condition.",
           "min": 0,
           "max": 1,
-          "step": 0.2,
-          "format": "0%"
+          "step": 0.25,
+          "format": "0%",
+          "grouping": "stacked"
         }
       },
       {
-        "title": "After the Presentation",
-        "lines": [
-          "Record feedback on the team’s recommendation.",
-          "Revise the shared report and document contributions.",
-          "Each student retains notes for their own reflection."
+        "kind": "evidence_table",
+        "title": "A Verdict Needs a Condition",
+        "minutes": 15,
+        "table": [
+          [
+            "Evidence",
+            "Interpretation to examine"
+          ],
+          [
+            "A clear order difference",
+            "Which fixed-response claim is challenged?"
+          ],
+          [
+            "QQ interval includes zero",
+            "Which alternatives remain possible?"
+          ],
+          [
+            "Wide effect interval",
+            "What practical claim is still unresolved?"
+          ]
         ],
-        "minutes": 0,
-        "notes": "Use the revision log in the collection guide. The final written submission remains governed by M4A1 and the Canvas deadline."
+        "lines": [
+          "Add the assumption that makes each inference valid."
+        ],
+        "notes": "Teams apply their proposed thresholds. Nonrejection is not proof of absence. A small-effect conclusion requires the relevant interval to lie within the chosen practical tolerance. QQ alone does not select a unique mechanism.",
+        "caption": "Interpretation practice",
+        "widths": [
+          0.45,
+          0.55
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Troubleshoot the Pilot in Pairs",
+        "minutes": 20,
+        "lines": [
+          "Trace one record from prompt to result.",
+          "Separate a design issue from a coding issue.",
+          "Explain the proposed correction before applying it."
+        ],
+        "notes": "Use a peer team as reviewer. Check context retention, unique run IDs, response parsing, model version, and planned resampling unit. Keep changes and their rationale in the revision log. Avoid changing a substantive rule because a pilot estimate looks inconvenient."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Record What Must Be Repaired",
+        "minutes": 20,
+        "table": [
+          [
+            "Problem",
+            "Consequence",
+            "Next check"
+          ],
+          [
+            "Example: duplicate retry",
+            "Inflated denominator",
+            "Inspect run IDs"
+          ],
+          [
+            "Your issue",
+            "State its consequence",
+            "Assign a verification"
+          ]
+        ],
+        "lines": [
+          "Save a repair list with owners and evidence."
+        ],
+        "notes": "Teams fill their own rows. A repaired implementation must be rerun on a pilot. Store the reviewed proposal separately from the collection-ready protocol so changes are traceable. Do not delete prior versions from the project log.",
+        "caption": "Working example",
+        "widths": [
+          0.34,
+          0.33,
+          0.33
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Prepare for the Freeze Meeting",
+        "minutes": 10,
+        "lines": [
+          "Bring the repaired protocol and a replayable pilot.",
+          "State any unresolved risk and its owner.",
+          "Keep the final conclusions open until collection."
+        ],
+        "notes": "The next live session freezes the collection plan. No team presentation or individual oral defense is due in Week 4 under the eight-week schedule."
       }
     ]
   },
   {
     "id": "M4S2",
-    "title": "Audit Synthesis and Reflection",
-    "prework": "Bring your team’s results, presentation feedback, revision log, and the individual reflection brief. Watch the Module 4 videos before the meeting.",
+    "title": "Collection Plan Freeze",
+    "prework": "Bring the repaired pilot, exact prompts, six-condition design, collector settings, analysis plan, thresholds, and contribution log.",
+    "output": "A dated frozen collection plan, a replayable pilot, named responsibilities, and a deviation-log template.",
     "assessment": [
-      "M4A1_Project_Part_2",
-      "M4A2_Reflection"
+      "Team collection plan",
+      "Project revision log"
     ],
-    "output": "A revised team recommendation and submission check, plus each student’s own notes for the 800-word reflection.",
     "slides": [
       {
         "kind": "cover",
-        "title": "Audit Synthesis and Reflection",
+        "title": "Collection Plan Freeze",
         "lines": [
-          "Quantum Cognition for Human-AI Decision Teaming",
+          "Quantum Approaches for Decision Making",
           "Nathan Yang",
-          "M4S2"
+          "M4S2 · 90-minute workshop"
         ],
         "minutes": 0,
-        "notes": "This meeting assumes that students have watched the module videos. Use the session for application and assessment progress."
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
       },
       {
-        "title": "The Scope of the Evidence",
-        "lines": [
-          "What was the unit of observation?",
-          "Which procedure changed?",
-          "Which conclusion was best supported?"
+        "kind": "evidence_table",
+        "title": "From Proposal to Collection",
+        "minutes": 10,
+        "table": [
+          [
+            "Completed",
+            "To decide now"
+          ],
+          [
+            "Week 3 proposal",
+            "Exact implementation"
+          ],
+          [
+            "Pilot and repairs",
+            "Unresolved exception handling"
+          ],
+          [
+            "Planned interpretation",
+            "Stopping and analysis rules"
+          ]
         ],
-        "minutes": 5,
-        "notes": "Students answer from their own audit. Use the three questions to establish comparable descriptions before discussing patterns across projects."
+        "lines": [
+          "Can the team run the same plan independently?"
+        ],
+        "notes": "The freeze makes the planned procedure concrete before main outcomes are observed. Canvas provides the submission date and any instructor sign-off process. Do not invent a required new approval that is absent from the course instructions.",
+        "caption": "Week 4 checkpoint",
+        "widths": [
+          0.4,
+          0.6
+        ]
       },
       {
-        "title": "Three Audit Summaries",
-        "lines": [
-          "Which comparison is justified across these settings?"
-        ],
-        "minutes": 20,
-        "notes": "Audits 1,2,3 have imposed estimates .5,1,10 and illustrative 95% intervals [-2,3],[-12,14],[6,14]. These are not class results, computed intervals, or a pooled estimate. First compare the model, persona grid, question wording, population, and outcome. Then consider effect size, precision, and each prespecified practical threshold. Replace the demonstration with volunteered class summaries during discussion. Do not interpret the number of positive intervals as a common effect.",
-        "kind": "intervals",
-        "intervals": {
-          "names": [
-            "Audit 1",
-            "Audit 2",
-            "Audit 3"
-          ],
-          "low": [
-            -2,
-            -12,
-            6
-          ],
-          "high": [
-            3,
-            14,
-            14
-          ],
-          "estimate": [
-            0.5,
-            1,
-            10
-          ],
-          "min": -15,
-          "max": 20,
-          "step": 5
-        },
-        "caption": "Imposed estimates and 95% intervals, in percentage points. Different settings."
-      },
-      {
-        "title": "Costs of Two Review Procedures",
-        "lines": [
-          "How robust is the $100 difference to your assumptions?"
-        ],
+        "kind": "evidence_table",
+        "title": "The Frozen Record",
         "minutes": 15,
-        "notes": "These are imposed expected costs for a workshop comparison, not measured returns or a recommendation for Stripe. Fraud losses fall by $600, while customer friction rises by $500. Customer friction means the cost of legitimate users facing extra checks, delay, or rejection. The total saving is $100 per 1,000 decisions. Ask what uncertainty or omitted cost would change the ranking and what a human pilot would need to measure. Compare the actions supported by the actual class audits.",
+        "table": [
+          [
+            "Decision",
+            "Record to retain"
+          ],
+          [
+            "Prompts and conditions",
+            "Exact text and context rules"
+          ],
+          [
+            "Sampling and collection",
+            "Persona grid, repetitions, stopping rule"
+          ],
+          [
+            "Analysis and thresholds",
+            "Coding, exclusions, uncertainty, tolerances"
+          ]
+        ],
+        "lines": [
+          "Find one field that another person could interpret differently."
+        ],
+        "notes": "Use the existing collection guide. Freeze model version and settings where controllable; document version changes that the provider imposes. Retain access and cost constraints. Establish what happens when calls fail or budget limits are reached.",
+        "caption": "Team protocol checklist",
+        "widths": [
+          0.38,
+          0.62
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Test Exceptions before Collection",
+        "minutes": 15,
+        "table": [
+          [
+            "Event",
+            "Rule to specify"
+          ],
+          [
+            "Malformed answer",
+            "Parse, retry, or mark invalid"
+          ],
+          [
+            "Interrupted run",
+            "Resume without duplicate records"
+          ],
+          [
+            "Model version changes",
+            "Document and assess comparability"
+          ]
+        ],
+        "lines": [
+          "Write the rule before a real exception occurs."
+        ],
+        "notes": "Run a small demonstration of one failure case. Preserve the original attempt and any retry. An exception rule must not condition on whether the result favors the hypothesis. Avoid collecting credentials in the shared document.",
+        "caption": "Fictional failure scenarios",
+        "widths": [
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Exchange and Replay a Pilot",
+        "minutes": 20,
+        "lines": [
+          "Give another team a complete pilot record.",
+          "Ask them to reconstruct order and denominator.",
+          "Resolve disagreements in the written protocol."
+        ],
+        "notes": "A peer replay checks reproducibility rather than grading the team’s substantive conclusion. Confirm that peers can identify the intended unit of analysis and the context retained for each arm. Use supplied data if access is limited."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Responsibilities and Deviations",
+        "minutes": 20,
+        "table": [
+          [
+            "Work",
+            "Named owner",
+            "Review"
+          ],
+          [
+            "Collection and logs",
+            "Team assigns",
+            "Second member checks"
+          ],
+          [
+            "Analysis and figures",
+            "Team assigns",
+            "Second member reproduces"
+          ],
+          [
+            "Deviation record",
+            "Team assigns",
+            "Reason and effect retained"
+          ]
+        ],
+        "lines": [
+          "Set responsibilities without isolating knowledge in one member."
+        ],
+        "notes": "Each student remains responsible for understanding the audit for the individual defense. The deviation log records date, reason, affected records, and consequences. A necessary repair after the freeze remains visible and may narrow the claim.",
+        "caption": "Team working table",
+        "widths": [
+          0.42,
+          0.28,
+          0.3
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Freeze the Plan and Open Collection Next Week",
+        "minutes": 10,
+        "lines": [
+          "Save the dated collection-ready version.",
+          "Collect in Weeks 5–6 under that version.",
+          "Keep new agency examples separate from the frozen study."
+        ],
+        "notes": "Week 5 opens the collection window. Week 6 closes it. Week 7 supports analysis and peer critique; Week 8 holds presentations and individual defenses. The new philosophy material can improve interpretation without adding unplanned experimental arms."
+      }
+    ]
+  },
+  {
+    "id": "M5S1",
+    "title": "Defining and Evaluating Agency",
+    "prework": "Watch the Module 5 introduction, L1, L1b, and L2. Read the philosophy primer. Bring the frozen team collection plan and one interface decision.",
+    "output": "A defensible agency criterion, a counterexample, and a team paragraph separating the behavioral finding from its agency interpretation.",
+    "assessment": [
+      "Team audit report",
+      "Individual reflection preparation"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Defining and Evaluating Agency",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M5S1 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "What Kind of Claim is This?",
+        "minutes": 15,
+        "table": [
+          [
+            "Statement",
+            "Question to classify"
+          ],
+          [
+            "Agency is a capacity",
+            "What kind of thing exists?"
+          ],
+          [
+            "The reminder changed clicks",
+            "What occurred under the procedure?"
+          ],
+          [
+            "Users should be able to skip",
+            "What should be protected?"
+          ]
+        ],
+        "lines": [
+          "Classify the claim and name the evidence it needs."
+        ],
+        "notes": "Students work individually for three minutes and compare in pairs. Introduce ontology, empirical evidence, epistemology, and normative inquiry in plain language. Categories can overlap. Ask how the claim would change if the skip option did not work.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
+        "caption": "Fictional notification example",
+        "widths": [
+          0.55,
+          0.45
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Three Procedures One Setting",
+        "minutes": 20,
+        "table": [
+          [
+            "Procedure",
+            "Who guides the result?"
+          ],
+          [
+            "Random device selects off",
+            "A random rule"
+          ],
+          [
+            "User considers study plans",
+            "The user’s deliberation"
+          ],
+          [
+            "Service blocks direct access",
+            "The imposed interaction"
+          ]
+        ],
+        "lines": [
+          "Propose a criterion; test it against all three cases."
+        ],
+        "notes": "Use groups of three, each defending one case. A predictable deliberate response may express agency. Randomness alone supplies no purpose or control. Ask what record would distinguish requested delegation from an imposed reminder.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
+        "caption": "Conceptual engineering exercise",
+        "widths": [
+          0.55,
+          0.45
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Apply One Ranking across Direct Questions",
+        "minutes": 15,
+        "table": [
+          [
+            "Case",
+            "Focus off",
+            "Connection off"
+          ],
+          [
+            "A",
+            "70%",
+            "60%"
+          ],
+          [
+            "B",
+            "70%",
+            "40%"
+          ]
+        ],
+        "lines": [
+          "If off has the higher fixed value, which case satisfies A3?"
+        ],
+        "notes": "Teaching probabilities. Case A satisfies the binary standalone requirement with strict differences. Case B fails for the stated ranking. A change in a second answer alone is not the A3 comparison. Discuss what independent evidence would support the ranking.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
+        "caption": "Constructed probabilities; standalone questions only",
+        "widths": [
+          0.2,
+          0.4,
+          0.4
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Evaluate a Definition of Agency",
+        "minutes": 10,
+        "lines": [
+          "State the concern your criterion addresses.",
+          "Give a case your criterion handles badly.",
+          "Revise the criterion and identify a measurement."
+        ],
+        "notes": "Connect the exercise to conceptual engineering. A company may choose a convenient definition around existing controls. Require a reason for each criterion and evidence about effective operation, rather than counting visible buttons.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Separate the Team’s Claims",
+        "minutes": 20,
+        "table": [
+          [
+            "Claim",
+            "What supports it?"
+          ],
+          [
+            "Behavioral pattern",
+            "Procedure, estimate, uncertainty"
+          ],
+          [
+            "Agency interpretation",
+            "Reasons and procedural authority"
+          ],
+          [
+            "Welfare implication",
+            "Independent outcome values"
+          ]
+        ],
+        "lines": [
+          "Draft a paragraph that keeps these claims distinct."
+        ],
+        "notes": "Use the frozen team study as the starting point. A synthetic-panel audit concerns the model tested. Do not change collection arms to make an agency claim. Identify any additional human or valuation evidence as future work. Each member explains one inferential step.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
+        "caption": "Work toward the audit report",
+        "widths": [
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Save the Definition and Evidence Paragraph",
+        "minutes": 10,
+        "lines": [
+          "Record the criterion and its purpose.",
+          "Retain the counterexample and the resulting revision.",
+          "Continue collection under the frozen plan."
+        ],
+        "notes": "This is workshop progress toward the existing team report, not a new graded submission. Save the reasoning for the revision log and individual reflection. Collection is open in Week 5.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115."
+      }
+    ]
+  },
+  {
+    "id": "M5S2",
+    "title": "Direct and Sequenced Choices",
+    "prework": "Watch Module 5 L3, L4, and the conclusion. Bring the current team collection log. Read the supplied agency practice data guide.",
+    "output": "A checked collection log and an evidence table linking a response comparison to a benchmark, rival, and appropriately limited claim.",
+    "assessment": [
+      "Team collection",
+      "Team audit report"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Direct and Sequenced Choices",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M5S2 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115."
+      },
+      {
         "kind": "evidence",
+        "title": "Compare the Same Target Question",
+        "minutes": 20,
+        "lines": [
+          "What is the difference, and which denominator is used?"
+        ],
+        "notes": "Fresh teaching values distinct from the lecture construction. Difference is 25 percentage points. The second bar includes all respondents reaching B, not only those giving a particular first answer. Before interpreting, specify comparable populations, wording, information, and uncertainty.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
         "chart": {
           "type": "bar",
           "categories": [
-            "Current process",
-            "Proposed process"
+            "B alone",
+            "B after A"
           ],
           "series": [
             {
-              "name": "Fraud loss",
+              "name": "Target answer probability",
               "values": [
-                2400,
-                1800
-              ]
-            },
-            {
-              "name": "Customer friction",
-              "values": [
-                400,
-                900
+                0.8,
+                0.55
               ]
             }
           ],
-          "xTitle": "",
-          "yTitle": "Cost per 1,000 decisions (dollars)",
-          "caption": "Imposed costs: total $2,800 versus $2,700 per 1,000 decisions.",
+          "yTitle": "Probability of the target answer",
+          "caption": "Constructed practice values; no sampling uncertainty is supplied.",
           "min": 0,
-          "max": 3500,
-          "step": 1000,
-          "format": "$#,##0",
-          "grouping": "stacked"
+          "max": 1,
+          "step": 0.25,
+          "format": "0%",
+          "grouping": "clustered"
         }
       },
       {
-        "title": "A New Test of the Strongest Alternative",
-        "lines": [
-          "What must stay fixed when you add a delay?"
+        "kind": "evidence_table",
+        "title": "Two Explanations for the Same Pattern",
+        "minutes": 20,
+        "table": [
+          [
+            "Explanation",
+            "What changes after A?"
+          ],
+          [
+            "Quantum updating",
+            "The modeled evaluation state"
+          ],
+          [
+            "Classical memory process",
+            "A stored state or response rule"
+          ]
         ],
+        "lines": [
+          "Propose an observation on which predictions could differ."
+        ],
+        "notes": "Have one group describe a quantum account and another a memory account. Require a pre-specified prediction for a longer history or independent measure. A direct-versus-sequenced difference rejects a non-invasive fixed-response benchmark under the stated conditions, while state-changing classical processes remain possible.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
+        "caption": "Model-comparison exercise",
+        "widths": [
+          0.42,
+          0.58
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Inspect the Collection Record",
         "minutes": 15,
-        "notes": "Both proposed explanations reproduce a ten-point immediate order difference. The first predicts decay after a specified delay; the second predicts persistence. These predictions are imposed conditional examples, not universal predictions of classical or quantum theory. A delay may also change memory, attention, or information. Specify its duration, hold other features fixed, and state assumptions that make the comparison informative. Students revisit the rival in their proposal and identify what evidence would change the recommendation.",
+        "table": [
+          [
+            "Check",
+            "Evidence"
+          ],
+          [
+            "Coverage",
+            "Counts by persona and required arm"
+          ],
+          [
+            "Sequence",
+            "Actual prompts and retained answers"
+          ],
+          [
+            "Failures",
+            "Original attempts and retry links"
+          ]
+        ],
+        "lines": [
+          "Find one issue before more calls are made."
+        ],
+        "notes": "Teams inspect current logs, without viewing results solely to choose favorable stopping. Keep exact model metadata and context rules. If access is blocked, use the supplied practice records and document the blocker. Do not store API keys in the project repository.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
+        "caption": "Use team logs or supplied practice data",
+        "widths": [
+          0.35,
+          0.65
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Resolve a Collection Issue",
+        "minutes": 15,
+        "lines": [
+          "Identify the affected records.",
+          "Apply the frozen exception rule.",
+          "Document any necessary deviation and its consequence."
+        ],
+        "notes": "Use the agreed protocol, not a newly optimized response rule. Review duplicate IDs, malformed answers, and missing required arms. If a change affects comparability, retain separate labels and plan a sensitivity check.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Build a Defensible Evidence Table",
+        "minutes": 15,
+        "table": [
+          [
+            "Claim",
+            "Evidence",
+            "Remaining assumption"
+          ],
+          [
+            "Target response changed",
+            "Estimate and interval",
+            "Comparable procedures"
+          ],
+          [
+            "A benchmark fails",
+            "Named restriction",
+            "Preparation conditions"
+          ],
+          [
+            "Agency interpretation",
+            "Reasons and control",
+            "Additional evidence identified"
+          ]
+        ],
+        "lines": [
+          "Peer-review one row of another team’s table."
+        ],
+        "notes": "The table is a report component. A report should not claim free will from an order effect or consciousness from language-model fluency. Distinguish a model result from human evidence. Review the paragraph begun in M5S1.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115.",
+        "caption": "Work toward the audit report",
+        "widths": [
+          0.34,
+          0.33,
+          0.33
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Continue the Frozen Collection",
+        "minutes": 5,
+        "lines": [
+          "Save the repaired log and evidence table.",
+          "Assign the remaining collection checks.",
+          "Prepare to close collection in Week 6."
+        ],
+        "notes": "Retain the collection stopping rule. The next module adds histories and welfare examples using supplied data. Those exercises do not require additional project arms.\n\nSource basis: Nathan Yang, Free Will and a Choice-Theoretic Separation of Classical and Quantum Models, September 2026 revision; course philosophy primer. Background: Christian List, Decision Theory Presupposes Free Will (2024), https://philpapers.org/archive/LISDTP.pdf; Herman Cappelen, Introduction to Conceptual Engineering (2018), https://academic.oup.com/book/25598/chapter-abstract/192942115."
+      }
+    ]
+  },
+  {
+    "id": "M6S1",
+    "title": "Reconsideration and Evidence",
+    "prework": "Watch Module 6 introduction and L1. Open the supplied return-history data or practice notebook. Bring the team collection completion checklist.",
+    "output": "A calculated revision rate from supplied data and a collection closeout record with exclusions, unresolved issues, and analysis responsibilities.",
+    "assessment": [
+      "Team collection closeout",
+      "Individual practice"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Reconsideration and Evidence",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M6S1 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Read the Histories",
+        "minutes": 20,
+        "table": [
+          [
+            "History",
+            "What can be compared?"
+          ],
+          [
+            "A then A",
+            "Immediate repetition"
+          ],
+          [
+            "A then B then A",
+            "First and return answers"
+          ],
+          [
+            "B alone and A then B",
+            "Target probability across procedures"
+          ]
+        ],
+        "lines": [
+          "Which histories must belong to the same respondent?"
+        ],
+        "notes": "Use the supplied practice data. For individual revision, first and return responses must be paired within one valid history. Across-condition rates can use comparable groups with appropriate uncertainty analysis. The worksheet uses constructed data and does not validate a psychological process.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
+        "caption": "A is focus; B is connection",
+        "widths": [
+          0.4,
+          0.6
+        ]
+      },
+      {
         "kind": "evidence",
+        "title": "The Same Totals Different Histories",
+        "minutes": 15,
+        "lines": [
+          "Calculate net change and individual revision."
+        ],
+        "notes": "The supplied dataset has 100 complete histories. Initial and final off shares are 50%. Forty respondents switch, so net change is zero points and revision is 40%. This distribution is imposed for practice. No statistical or philosophical conclusion is drawn from it.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
         "chart": {
           "type": "bar",
           "categories": [
-            "Immediate answer",
-            "Answer after a delay"
+            "Off → Off",
+            "Off → On",
+            "On → Off",
+            "On → On"
           ],
           "series": [
             {
-              "name": "Short-lived carryover",
+              "name": "Respondents",
               "values": [
-                10,
+                30,
+                20,
+                20,
+                30
+              ]
+            }
+          ],
+          "yTitle": "Number of respondents",
+          "caption": "Constructed histories for 100 respondents",
+          "min": 0,
+          "max": 40,
+          "step": 10,
+          "format": "0",
+          "grouping": "clustered"
+        }
+      },
+      {
+        "kind": "evidence_table",
+        "title": "What Could Produce the Revision?",
+        "minutes": 10,
+        "table": [
+          [
+            "Explanation",
+            "Evidence to seek"
+          ],
+          [
+            "Reconsideration",
+            "Reasons and endorsement"
+          ],
+          [
+            "New information",
+            "What changed between questions?"
+          ],
+          [
+            "Reporting or memory",
+            "Timing, records, and repeated-question checks"
+          ]
+        ],
+        "lines": [
+          "Name a test that could challenge your preferred explanation."
+        ],
+        "notes": "Compare with immediate repetition and with the record of intervening events. State the assumptions before applying projective-model bounds. Neither stable totals nor a high revision rate establishes agency.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
+        "caption": "Interpretation exercise",
+        "widths": [
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Close the Team Collection",
+        "minutes": 20,
+        "lines": [
+          "Check coverage against the frozen plan.",
+          "Retain valid, invalid, and failed attempt counts.",
+          "Record the model version and final collection date."
+        ],
+        "notes": "Collection closes in Week 6. Use the protocol’s stopping rule. If an external issue prevents completion, document what is missing and its implications rather than silently adding a new design. Keep an immutable copy of the raw logs.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Prepare the Analysis Handoff",
+        "minutes": 15,
+        "table": [
+          [
+            "Item",
+            "Evidence of completion"
+          ],
+          [
+            "Raw records",
+            "Saved with identifiers and metadata"
+          ],
+          [
+            "Cleaning decisions",
+            "Rule and excluded records logged"
+          ],
+          [
+            "Analysis inputs",
+            "A reproducible table and run instructions"
+          ]
+        ],
+        "lines": [
+          "Have a second member reproduce one denominator."
+        ],
+        "notes": "Use the existing audit notebook. Check that paired-persona resampling follows the design. The new return-history exercise remains separate from the main audit unless it was already included in the frozen plan.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
+        "caption": "Team analysis preparation",
+        "widths": [
+          0.4,
+          0.6
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Save the Closeout and Practice Results",
+        "minutes": 10,
+        "lines": [
+          "Record net change and revision with denominators.",
+          "Assign unresolved collection issues.",
+          "Bring reproducible results to the Week 7 studio."
+        ],
+        "notes": "The supplied agency practice extends understanding of histories. It does not create a new graded assignment. Students can keep individual notes for the reflection while the team prepares its shared analysis.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results."
+      }
+    ]
+  },
+  {
+    "id": "M6S2",
+    "title": "Authority and Consumer Interests",
+    "prework": "Watch Module 6 L2 through the conclusion. Bring the team’s evidence table and a specific recommendation under consideration.",
+    "output": "A recommendation paragraph that identifies the affected user, procedural authority, valuation assumptions, and a testable review condition.",
+    "assessment": [
+      "Team audit recommendation",
+      "Individual reflection preparation"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Authority and Consumer Interests",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M6S2 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Follow the User’s Actual Path",
+        "minutes": 20,
+        "table": [
+          [
+            "Path A",
+            "Path B"
+          ],
+          [
+            "Reminder is requested",
+            "Reminder is required"
+          ],
+          [
+            "Skip reaches the decision",
+            "Skip returns to the reminder"
+          ],
+          [
+            "Permission can be withdrawn",
+            "No effective direct route"
+          ]
+        ],
+        "lines": [
+          "What observation would verify each claimed control?"
+        ],
+        "notes": "These are fictional interface paths, not screenshots of a real service. Students may draw the paths in their notes. Examine understanding, effort, accessibility, and the point at which the decision becomes binding. Equal final outcomes leave procedural authority unresolved.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
+        "caption": "Fictional procedure comparison"
+      },
+      {
+        "kind": "evidence",
+        "title": "A Different Welfare Calculation",
+        "minutes": 20,
+        "lines": [
+          "What is the additional expected loss, and under which values?"
+        ],
+        "notes": "Practice values: renewal probabilities are 20% and 35%; declining is independently worth $10 more than renewing. Expected losses are $2 and $3.50; additional loss is $1.50. Hold the offer, values, and procedure costs fixed. If values are unknown, a monetary claim needs further evidence.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Direct",
+            "After reminder"
+          ],
+          "series": [
+            {
+              "name": "Expected loss",
+              "values": [
+                2,
+                3.5
+              ]
+            }
+          ],
+          "yTitle": "Expected loss per decision ($)",
+          "caption": "Constructed practice example; baseline is always declining.",
+          "min": 0,
+          "max": 5,
+          "step": 1,
+          "format": "$0.0",
+          "grouping": "clustered"
+        }
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Preserve Useful Delegation",
+        "minutes": 15,
+        "table": [
+          [
+            "Permission",
+            "Control to evaluate"
+          ],
+          [
+            "Show an optional reminder",
+            "Effective skip"
+          ],
+          [
+            "Choose a review sequence",
+            "Understand and revise the scope"
+          ],
+          [
+            "Take a binding action",
+            "Confirm before acting"
+          ]
+        ],
+        "lines": [
+          "Redesign one path without assuming all reminders are harmful."
+        ],
+        "notes": "Groups specify permission, refusal, and revision. Requested, informed, revocable delegation can support the user’s purpose. A redesign is a proposal; identify what user evidence would establish that it works.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
+        "caption": "Design exercise",
+        "widths": [
+          0.45,
+          0.55
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Apply the Comparison to the Team Recommendation",
+        "minutes": 10,
+        "lines": [
+          "Name the person and goal affected.",
+          "Separate the response effect from the welfare claim.",
+          "State which authority the proposed change preserves."
+        ],
+        "notes": "A synthetic-panel result supports a claim about model behavior under the tested protocol. Identify human or valuation evidence that would be needed before a broader conclusion. Keep the original company decision central.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Write a Review Condition",
+        "minutes": 15,
+        "table": [
+          [
+            "Recommendation",
+            "Evidence that could change it"
+          ],
+          [
+            "Offer a direct route",
+            "Refusal fails or users misunderstand"
+          ],
+          [
+            "Choose a stated sequence",
+            "Effect or rival check changes"
+          ],
+          [
+            "Make a welfare claim",
+            "Values or offer no longer match"
+          ]
+        ],
+        "lines": [
+          "Specify a measure, owner, and practical threshold."
+        ],
+        "notes": "Use the team’s justified threshold rather than inventing one after seeing results. Make the review condition specific enough for a manager to act. Connect it to the report’s evidence table and the revision log.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results.",
+        "caption": "Report development",
+        "widths": [
+          0.45,
+          0.55
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Prepare for Analysis and Peer Critique",
+        "minutes": 10,
+        "lines": [
+          "Save the recommendation and its assumptions.",
+          "List missing evidence as an explicit next step.",
+          "Bring the report draft and working figures to Week 7."
+        ],
+        "notes": "Collection is closed. Week 7 is for troubleshooting, analysis, peer review, and drafting. Any further data collection requires a documented reason and must not be presented as part of the original frozen design.\n\nSource basis: Nathan Yang, Agency and the Persistence of Choice, November 2026 draft; Agency Erosion, October 2026 draft; course philosophy primer. Practice data are constructed and are not observed human or model-panel results."
+      }
+    ]
+  },
+  {
+    "id": "M7S1",
+    "title": "Audit Troubleshooting Studio",
+    "prework": "Bring the frozen plan, closed collection, executed notebook, issue log, and draft evidence table. Revisit the relevant Module 2–4 videos as needed.",
+    "output": "Reproducible analysis, resolved or documented blockers, and figures with clear denominators, intervals, and interpretation.",
+    "assessment": [
+      "Team report and deck",
+      "Revision log"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Audit Troubleshooting Studio",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M7S1 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Choose the Issue That Blocks the Claim",
+        "minutes": 10,
+        "table": [
+          [
+            "Issue",
+            "First diagnostic"
+          ],
+          [
+            "Counts disagree",
+            "Trace identifiers and exclusions"
+          ],
+          [
+            "Intervals look wrong",
+            "Check unit and resampling rule"
+          ],
+          [
+            "Conclusion outruns evidence",
+            "Match the claim to the comparison"
+          ]
+        ],
+        "lines": [
+          "Choose one issue and state its consequence."
+        ],
+        "notes": "Teams triage issues by their effect on validity, not by visual polish. The instructor circulates. If there is no blocker, audit a result another member produced.",
+        "caption": "Studio triage",
+        "widths": [
+          0.45,
+          0.55
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Reproduce One Result from Raw Records",
+        "minutes": 20,
+        "table": [
+          [
+            "Stage",
+            "Evidence to show a peer"
+          ],
+          [
+            "Raw data",
+            "Original calls and identifiers"
+          ],
+          [
+            "Analysis sample",
+            "Rules and denominator"
+          ],
+          [
+            "Result",
+            "Code, estimate, and uncertainty"
+          ]
+        ],
+        "lines": [
+          "Can a teammate obtain the same number?"
+        ],
+        "notes": "Use the approved notebook and protocol. Preserve provenance from raw records to a plotted result. Check that no retry is counted twice and that invalid cases follow the stated rule. Use a separate sensitivity analysis for necessary deviations.",
+        "caption": "Team reproducibility check",
+        "widths": [
+          0.35,
+          0.65
+        ]
+      },
+      {
+        "kind": "evidence",
+        "title": "A Small Estimate Can Remain Imprecise",
+        "minutes": 15,
+        "lines": [
+          "What additional display is needed before calling the effect small?"
+        ],
+        "notes": "The chart intentionally supplies only two equal estimates. Students must add intervals on paper: narrow from 1 to 3 points; wide from −5 to 9. With a pre-specified ±4-point tolerance, only the narrow interval lies entirely inside. The missing intervals are the issue to identify. Values are constructed.",
+        "chart": {
+          "type": "bar",
+          "categories": [
+            "Narrow interval",
+            "Wide interval"
+          ],
+          "series": [
+            {
+              "name": "Estimate",
+              "values": [
+                2,
                 2
               ]
-            },
-            {
-              "name": "Persistent change",
-              "values": [
-                10,
-                10
-              ]
             }
           ],
-          "xTitle": "",
-          "yTitle": "Predicted order difference (percentage points)",
-          "caption": "Imposed rival predictions; no outcomes from the proposed delay test.",
+          "yTitle": "Estimated difference (percentage points)",
+          "caption": "Incomplete teaching figure: intervals of 1 to 3 and −5 to 9 points.",
           "min": 0,
-          "max": 12,
-          "step": 3,
-          "format": "0"
+          "max": 10,
+          "step": 2,
+          "format": "0",
+          "grouping": "clustered"
         }
       },
       {
-        "title": "The Revised Recommendation",
+        "kind": "discussion",
+        "title": "Repair the Figure and Its Explanation",
+        "minutes": 20,
         "lines": [
-          "Name the action and responsible owner.",
-          "State the evidence that supports it.",
-          "Add a condition for review."
+          "Show the comparison, denominator, and units.",
+          "Display uncertainty beside the estimate.",
+          "State the conclusion and the condition supporting it."
         ],
-        "minutes": 10,
-        "notes": "Teams revise the shared Project Part 2 recommendation. Connect it to the strongest defensible finding and record the reason for the change. Keep claims about people tied to the human evidence needed to support them."
+        "notes": "Teams revise a figure from their audit, not the teaching chart alone. Keep labels readable and avoid using color as the only distinction. Ask another team to explain the figure without the author’s narration. Check that the caption identifies model-panel evidence."
       },
       {
-        "title": "Reflection Notes",
-        "lines": [
-          "What did you initially expect?",
-          "What evidence changed or confirmed your reasoning?",
-          "Which habit will you carry into another decision?"
-        ],
+        "kind": "evidence_table",
+        "title": "Keep the Remaining Uncertainty Visible",
         "minutes": 15,
-        "notes": "The reflection is AIAS 1. Students write their own reflection; AI may be used only for permitted brainstorming. Use this period for independent notes from the proposal, results, and revision log. The target is 800 words, with details in M4A2."
+        "table": [
+          [
+            "Unresolved item",
+            "Implication for the report"
+          ],
+          [
+            "Missing required arm",
+            "Restrict the comparison"
+          ],
+          [
+            "Model changed mid-run",
+            "Separate or qualify the results"
+          ],
+          [
+            "Valuation unsupported",
+            "Report behavior; identify needed values"
+          ]
+        ],
+        "lines": [
+          "Assign an owner and a resolution or limitation."
+        ],
+        "notes": "A documented limitation can be the correct outcome. Avoid filling a missing comparison with an unsupported assumption. Record repairs, timing, and consequences in the revision log. Protect the original prediction from hindsight rewriting.",
+        "caption": "Example issues",
+        "widths": [
+          0.42,
+          0.58
+        ]
       },
       {
-        "title": "Final Submission Check",
-        "lines": [
-          "One team audit package with records and logs.",
-          "A separate oral-defense score for each student.",
-          "One independently written reflection per student."
-        ],
+        "kind": "discussion",
+        "title": "Prepare the Peer-Review Draft",
         "minutes": 10,
-        "notes": "Use the complete M4A1 and M4A2 instructions. The shared team report and deck count for 15% of the full course; each student’s oral defense counts for 2.5%, and the individual reflection for 5%. Keep source files and raw records in the approved private location. Exact deadlines are in Canvas."
+        "lines": [
+          "Save the executed analysis and final figure data.",
+          "Draft the claim, rival explanation, and recommendation.",
+          "Bring unresolved questions to the next session."
+        ],
+        "notes": "Week 7 Session 2 uses peer critique of the report and deck. The team should bring a coherent draft, even when its conclusion is inconclusive. Assessment rewards reasoning and evidence, not support for a favored model."
+      }
+    ]
+  },
+  {
+    "id": "M7S2",
+    "title": "Report and Deck Peer Review",
+    "prework": "Bring a draft audit report, draft 6–10 slide presentation, reproducible figures, AI Attribution and contribution records, and the revision log.",
+    "output": "Peer feedback, a revised report and presentation plan, and individual preparation notes for the oral defense.",
+    "assessment": [
+      "Team report and deck",
+      "Individual oral defense",
+      "Individual reflection"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Report and Deck Peer Review",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M7S2 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Read the Draft as a Client",
+        "minutes": 10,
+        "table": [
+          [
+            "Question",
+            "Where should the answer appear?"
+          ],
+          [
+            "What decision is at stake?",
+            "Opening and recommendation"
+          ],
+          [
+            "What does the evidence support?",
+            "Results and uncertainty"
+          ],
+          [
+            "What changes next?",
+            "Action and review condition"
+          ]
+        ],
+        "lines": [
+          "Identify one missing link in the argument."
+        ],
+        "notes": "Exchange drafts with a team that has not followed the project closely. Students read silently before the authors explain. This tests whether the written argument stands on its own.",
+        "caption": "Peer-review opening",
+        "widths": [
+          0.55,
+          0.45
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Review the Claim and Its Support",
+        "minutes": 20,
+        "table": [
+          [
+            "Check",
+            "Evidence to request"
+          ],
+          [
+            "Comparison",
+            "Sample, procedure, and denominator"
+          ],
+          [
+            "Model interpretation",
+            "Restriction and credible rival"
+          ],
+          [
+            "Agency or welfare",
+            "Reasons, control, and value assumptions"
+          ]
+        ],
+        "lines": [
+          "Write a precise question beside one unsupported sentence."
+        ],
+        "notes": "Use the existing report rubric. Distinguish descriptive findings, conditional model results, and stronger interpretations. Synthetic-panel outcomes should retain their model scope. Return uncertainty and practical thresholds to the main argument.",
+        "caption": "Report review",
+        "widths": [
+          0.35,
+          0.65
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Rehearse a Ten-Minute Client Story",
+        "minutes": 20,
+        "lines": [
+          "Decision and comparison.",
+          "Evidence, uncertainty, and a credible rival.",
+          "Recommendation and the condition for revision."
+        ],
+        "notes": "Each team rehearses with a peer team. The 20-minute block allows a ten-minute presentation and ten minutes of feedback. The outline describes content; students should use connected explanations and meaningful visuals. The shared deck is normally 6–10 slides under the current brief."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Practice an Individual Defense",
+        "minutes": 15,
+        "table": [
+          [
+            "Prompt",
+            "What the speaker should explain"
+          ],
+          [
+            "Why this comparison?",
+            "The decision and identifying conditions"
+          ],
+          [
+            "What could overturn the verdict?",
+            "A rival test or new result"
+          ],
+          [
+            "What did you revise?",
+            "Evidence and reason for the change"
+          ]
+        ],
+        "lines": [
+          "Each member answers without teammate prompting."
+        ],
+        "notes": "This rehearsal is formative. The assessed oral defense in Week 8 is individual, with no live AI assistance or teammate prompting. Each student must understand the entire audit, including parts produced by others.",
+        "caption": "Individual practice",
+        "widths": [
+          0.45,
+          0.55
+        ]
+      },
+      {
+        "kind": "evidence_table",
+        "title": "Turn Feedback into a Revision",
+        "minutes": 15,
+        "table": [
+          [
+            "Feedback",
+            "Action",
+            "Reason"
+          ],
+          [
+            "Claim too broad",
+            "Narrow or add evidence",
+            "Match the observed comparison"
+          ],
+          [
+            "Figure hard to read",
+            "Revise labels and display",
+            "Clarify units and uncertainty"
+          ],
+          [
+            "Your feedback",
+            "Record the change",
+            "Explain its consequence"
+          ]
+        ],
+        "lines": [
+          "Preserve the original claim in the revision log."
+        ],
+        "notes": "Teams prioritize substantive repairs before appearance. Each student keeps private reflection notes about how evidence changed their reasoning. The reflection remains individual; it should not be jointly written.",
+        "caption": "Revision example",
+        "widths": [
+          0.33,
+          0.34,
+          0.33
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Prepare the Final Week",
+        "minutes": 10,
+        "lines": [
+          "Confirm the team presentation and each defense slot.",
+          "Submit report, deck, logs, and individual reflection in Week 8.",
+          "Use Canvas for exact dates and confirmed assessment rules."
+        ],
+        "notes": "No new grade percentages are introduced by this deck. Check file accessibility and that links work without private credentials. The reflection follows the existing brief, including its stated length, unless the instructor posts a revision."
+      }
+    ]
+  },
+  {
+    "id": "M8S1",
+    "title": "Team Presentations and Individual Defenses One",
+    "prework": "Bring the final team deck and reviewed report. Each student prepares to explain the whole audit independently. Check the separately posted presentation and defense slots.",
+    "output": "Completed scheduled team presentations and individual defenses, feedback for the final report, and individual reflection notes.",
+    "assessment": [
+      "Team report and deck",
+      "Individual oral defense",
+      "Individual reflection"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Team Presentations and Individual Defenses One",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M8S1 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "The Presentation and Defense Are Distinct",
+        "minutes": 5,
+        "table": [
+          [
+            "Component",
+            "Who responds",
+            "Time"
+          ],
+          [
+            "Client presentation",
+            "Team",
+            "10 minutes"
+          ],
+          [
+            "Oral defense",
+            "Individual",
+            "5 minutes per student"
+          ]
+        ],
+        "lines": [
+          "Follow the posted slots; every student has a defense."
+        ],
+        "notes": "Team report and deck are shared work. The oral defense is separately individual, with no live AI assistance or teammate prompting. Keep transitions brief. Timings are the existing format, not new grade weights.",
+        "caption": "Assessment format",
+        "widths": [
+          0.44,
+          0.32,
+          0.24
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Scheduled Presentation and Defense Block",
+        "minutes": 40,
+        "lines": [
+          "State the decision and the comparison.",
+          "Show the strongest evidence and a credible rival.",
+          "Explain the recommendation and its review condition."
+        ],
+        "notes": "Use this slide between presentations. Replace it with each team’s own deck during the presentation. The 40-minute block follows the posted timetable, which can combine team presentations and individual defenses. Do not use generic slides as a substitute for the student presentation."
+      },
+      {
+        "kind": "discussion",
+        "title": "Continue the Posted Slots",
+        "minutes": 40,
+        "lines": [
+          "Keep each response within its assigned time.",
+          "Individual speakers explain their own reasoning.",
+          "Observers record a question and a useful comparison."
+        ],
+        "notes": "Continue the scheduled presentation or defense slots. The instructor selects questions about assumptions, uncertainty, rival mechanisms, managerial action, agency, welfare, and documented revisions. Observers give feedback when the timetable permits. Do not reveal assessment answers in advance."
+      },
+      {
+        "kind": "discussion",
+        "title": "Record Feedback and Complete the Week",
+        "minutes": 5,
+        "lines": [
+          "Save the feedback that changes a claim or action.",
+          "Complete the team report, deck, and required logs.",
+          "Submit your own reflection using the posted deadline."
+        ],
+        "notes": "The two regular meetings provide 160 minutes of presentation and defense time, after opening and closing activities. For 22 students, defenses take 110 minutes. Seven team talks add 70 minutes; eight add 80. Reserve a 30-minute overflow block and post each student’s slot. With seven teams, 20 minutes of overflow is required; with eight, all 30 minutes is required. This reserve must be scheduled; the deck does not claim it has been booked. Exact due dates and slot assignments are in Canvas."
+      }
+    ]
+  },
+  {
+    "id": "M8S2",
+    "title": "Team Presentations and Individual Defenses Two",
+    "prework": "Bring the final team deck and reviewed report. Each student prepares to explain the whole audit independently. Check the separately posted presentation and defense slots.",
+    "output": "Completed scheduled team presentations and individual defenses, feedback for the final report, and individual reflection notes.",
+    "assessment": [
+      "Team report and deck",
+      "Individual oral defense",
+      "Individual reflection"
+    ],
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Team Presentations and Individual Defenses Two",
+        "lines": [
+          "Quantum Approaches for Decision Making",
+          "Nathan Yang",
+          "M8S2 · 90-minute workshop"
+        ],
+        "minutes": 0,
+        "notes": "Students watch the relevant videos before this session. Use the deck for application and assessment progress. Timings are facilitation estimates; pause on each working slide for the activity."
+      },
+      {
+        "kind": "evidence_table",
+        "title": "The Presentation and Defense Are Distinct",
+        "minutes": 5,
+        "table": [
+          [
+            "Component",
+            "Who responds",
+            "Time"
+          ],
+          [
+            "Client presentation",
+            "Team",
+            "10 minutes"
+          ],
+          [
+            "Oral defense",
+            "Individual",
+            "5 minutes per student"
+          ]
+        ],
+        "lines": [
+          "Follow the posted slots; every student has a defense."
+        ],
+        "notes": "Team report and deck are shared work. The oral defense is separately individual, with no live AI assistance or teammate prompting. Keep transitions brief. Timings are the existing format, not new grade weights.",
+        "caption": "Assessment format",
+        "widths": [
+          0.44,
+          0.32,
+          0.24
+        ]
+      },
+      {
+        "kind": "discussion",
+        "title": "Scheduled Presentation and Defense Block",
+        "minutes": 40,
+        "lines": [
+          "State the decision and the comparison.",
+          "Show the strongest evidence and a credible rival.",
+          "Explain the recommendation and its review condition."
+        ],
+        "notes": "Use this slide between presentations. Replace it with each team’s own deck during the presentation. The 40-minute block follows the posted timetable, which can combine team presentations and individual defenses. Do not use generic slides as a substitute for the student presentation."
+      },
+      {
+        "kind": "discussion",
+        "title": "Continue the Posted Slots",
+        "minutes": 40,
+        "lines": [
+          "Keep each response within its assigned time.",
+          "Individual speakers explain their own reasoning.",
+          "Observers record a question and a useful comparison."
+        ],
+        "notes": "Continue the scheduled presentation or defense slots. The instructor selects questions about assumptions, uncertainty, rival mechanisms, managerial action, agency, welfare, and documented revisions. Observers give feedback when the timetable permits. Do not reveal assessment answers in advance."
+      },
+      {
+        "kind": "discussion",
+        "title": "Record Feedback and Complete the Week",
+        "minutes": 5,
+        "lines": [
+          "Save the feedback that changes a claim or action.",
+          "Complete the team report, deck, and required logs.",
+          "Submit your own reflection using the posted deadline."
+        ],
+        "notes": "The two regular meetings provide 160 minutes of presentation and defense time, after opening and closing activities. For 22 students, defenses take 110 minutes. Seven team talks add 70 minutes; eight add 80. Reserve a 30-minute overflow block and post each student’s slot. With seven teams, 20 minutes of overflow is required; with eight, all 30 minutes is required. This reserve must be scheduled; the deck does not claim it has been booked. Exact due dates and slot assignments are in Canvas."
       }
     ]
   }

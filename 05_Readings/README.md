@@ -64,3 +64,9 @@ Begin with the [module notes](../04_Module_Notes/README.md), then use the introd
 The four [module notes](../04_Module_Notes/README.md) adapt relevant material from *Quantum Cognition for Management*, including the decision default, order effects, the Meridian and Juno cases, and the Python lab. Each note lists its chapter connections. Cases in these notes are fictional, with explicitly illustrative numbers. The runnable examples state their imposed inputs.
 
 The broader manuscript also covers subjective time, organizational attention, strategic interaction, and formal results. Those topics are extensions beyond this four-module course. The course companions provide a focused route through the material; the reading list above supplies the primary sources needed to compare explanations.
+
+## Philosophy and Agency
+
+Begin with the [course philosophy primer](../04_Module_Notes/M1M5_Philosophy_Primer.docx); no prior philosophy is assumed. Christian List, [Decision Theory Presupposes Free Will](https://philpapers.org/archive/LISDTP.pdf), 2024. Herman Cappelen, [Introduction to Conceptual Engineering](https://academic.oup.com/book/25598/chapter-abstract/192942115), 2018. Philosophical positions and proposed axioms are attributed views, rather than a consensus definition.
+
+The introductory sections are sufficient for the course. Cappelen’s full chapter may require library access. The primer also identifies Yang’s current free-will, temporal-agency, and welfare drafts as optional research depth.

@@ -14,3 +14,7 @@ The notes are adapted from Nathan Yang's quantum cognition manuscript. They use 
 ## Book Companion
 
 [Glossary](Glossary.md) · [Case Workshop](Case_Workshop.md) · [Connections to the Book](Book_Connections.md) · [Interactive Wiki](../docs/README.md)
+
+## Free Will and Agency
+
+[Module 5](M5_Free_Will_and_Agency.md) · [Philosophy primer](M1M5_Philosophy_Primer.docx) · [Module 6](M6_Agency_over_Time.md) · [Agency practice](../06_Python/M5_6_Agency_Practice.md). Weeks 7–8 use the live-session studios and presentation guides.

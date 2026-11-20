@@ -1,0 +1,7 @@
+# Introduction to Free Will and Agency
+
+In the first four modules, we examined how a question can help form the judgment it records. We also learned to compare explanations and connect evidence to a managerial decision. That raises a further question. If an interface helps shape your judgment, what makes the resulting choice your own? Think about an app that asks whether staying connected matters to you before you can turn off notifications. You might appreciate the reminder. You might also wish the app would let you get on with studying. The final setting alone leaves that difference unresolved.
+
+This module introduces free will and agency through decisions like this one. Agency concerns a person's capacity to act for purposes and respond to reasons. Free will asks what freedom and control make an action attributable to that person. Philosophers disagree about the requirements, so we will explain the view behind each claim. We will also introduce ontology, which asks what kinds of things exist, and conceptual engineering, which examines whether a concept serves its intended purpose.
+
+With that foundation, we will study three requirements proposed in my research on choice. We will compare models using a worked example, then ask what the evidence supports. No philosophy background is needed. Keep the notification example in mind as we go. The central question is how to connect a pattern of answers to the person's reasons and control over the decision.

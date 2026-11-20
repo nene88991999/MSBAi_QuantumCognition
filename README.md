@@ -1,42 +1,27 @@
-# Quantum Cognition for Human-AI Decision Teaming
+# Quantum Approaches for Decision Making
 
-**Nathan Yang · MSBAi · Gies College of Business · Modules 1–4**
+**Nathan Yang · MSBAi · Gies College of Business · Eight-week teaching materials**
 
-A survey, an AI recommendation, or an intermediate question can influence the judgment it records. This course examines when that matters for a managerial decision, how competing models explain it, and what evidence should guide a process change. No physics background is required.
+The course examines how questions shape judgments, how models explain those patterns, and how reasons and control affect the interpretation of a choice. No physics or philosophy background is assumed.
 
-## Begin With Your Module
+Watch the recorded videos before each live meeting. Live sessions use cases and workshops to advance assessments. The [eight-week teaching schedule](01_Syllabus/Eight_Week_Teaching_Schedule.md) moves the proposal to Week 3, freezes collection in Week 4, and places collection in Weeks 5–6, studio work in Week 7, and final presentations and defenses in Week 8.
 
-Watch the recorded videos before the live meeting. Read the corresponding module note, then bring the decision or draft requested in the session guide. Live meetings use cases, calculations, and workshops to develop your assessments. They assume familiarity with the videos.
+| Weeks | Materials |
+| --- | --- |
+| 1–4 | [Module notes](04_Module_Notes/README.md) and the original recorded foundations |
+| 5 | [Free Will and Agency](04_Module_Notes/M5_Free_Will_and_Agency.md) and the [philosophy primer](04_Module_Notes/M1M5_Philosophy_Primer.docx) |
+| 6 | [Agency over Time](04_Module_Notes/M6_Agency_over_Time.md) and [Python practice](06_Python/M5_6_Agency_Practice.md) |
+| 7–8 | [Analysis studios, presentations, and individual defenses](03_Live_Sessions/README.md) |
 
-| Module | Study | Work During the Live Meetings |
-| --- | --- | --- |
-| 1 · Why Classical Models Break Down | [Judgment and Models](04_Module_Notes/M1_Judgment_and_Models.md) | Develop Discussion 1 and a company decision for the project. |
-| 2 · Contextuality and Order Effects | [Order Effects and Uncertainty](04_Module_Notes/M2_Order_and_Uncertainty.md) | Interpret an order comparison and complete the research proposal. |
-| 3 · Human-AI Decision Teaming | [Human-AI Decision Processes](04_Module_Notes/M3_Human_AI_Processes.md) | Work through the practice audit and analyze project records. |
-| 4 · Audit Verdicts and Managerial Action | [Evidence and Action](04_Module_Notes/M4_Evidence_and_Action.md) | Present the audit, revise the recommendation, and develop the reflection. |
+## Course Resources
 
-## Course Materials
+- [Sixteen live-session decks and guides](03_Live_Sessions/README.md).
+- [Lecture transcripts](07_Lecture_Transcripts/README.md), including the updated broad introduction and course conclusion.
+- [Assessment briefs](02_Assessments/README.md) and [teaching schedule](01_Syllabus/Eight_Week_Teaching_Schedule.md).
+- [Reading guide](05_Readings/README.md), [Python notebooks](06_Python/README.md), and [interactive book companion](docs/README.md).
 
-- [Syllabus](01_Syllabus/Part1_Quantum_Cognition_Syllabus.md), also in [PDF](01_Syllabus/Part1_Quantum_Cognition_Syllabus.pdf) and [Word](01_Syllabus/Part1_Quantum_Cognition_Syllabus.docx).
-- [Assessment Instructions and Templates](02_Assessments/README.md), including three discussions, two project milestones, a reflection, and Module 3 practice.
-- [Eight Live-Session Slide Decks and Guides](03_Live_Sessions/README.md).
-- [Book Companion and Glossary](04_Module_Notes/README.md).
-- [Reading Guide](05_Readings/README.md), with introductory and optional technical readings.
-- [Five Python Notebooks and Reusable Code](06_Python/README.md).
-- [Lecture Transcripts](07_Lecture_Transcripts/README.md).
+The original Part 1 syllabus and rubrics remain available as the assessment source. Their four-week calendar and 50% course scaling are pending the course-wide update; use the eight-week schedule for this production release and the confirmed policy in Canvas for grading. The team proposal and report/deck remain shared work; discussions, practice, oral defenses, and reflections remain individual.
 
-## Interactive Wiki
+This is the current student-materials working package. Its established Box location remains **Student Materials/Modules 1-4**, now containing the extension, and its Dropbox counterpart is **MSBAi Quantum Cognition/Student_Materials**. The package ZIP is a matching downloadable copy. The repository contains student-facing files; instructor grading guides stay in the private development folders.
 
-The [wiki](docs/README.md) brings together the book companion, glossary, case workshop, readings, and course resources. Four calculators explore answer probabilities, order effects and QQ, the fixed-rate bracket, and intervals against a practical tolerance.
-
-Download the repository and open `docs/index.html` in a browser. The wiki works locally without an account, server, or internet connection for its explanations and calculators. Links to course files and readings open GitHub or the source publisher. The same `docs` folder is ready for GitHub Pages when an appropriate publication setting is available. The repository is public and course files can be read without signing in.
-
-## Assessment and Access
-
-These materials cover Nathan Yang’s four-module part of the course, which contributes **50% of the full-course grade**. Teams submit the research proposal and audit report with its deck and supporting records. Discussions, Module 3 practice, each student’s oral defense, and the reflection remain individual. The [assessment table](02_Assessments/README.md) shows weights within Part 1 and across the full course. Canvas supplies team assignments, exact dates, submission links, model access, and course-wide policies.
-
-This is the current student package. Its Box location is **Student Materials/Modules 1-4** at the course-development root, and its Dropbox location is **MSBAi Quantum Cognition/Student_Materials**. The GitHub repository contains the same student files. The package ZIP is a downloadable copy of this release.
-
-Store graded work and interview records in the approved private submission location. The examples use fictional cases or clearly labeled simulations. An audit of model responses supports conclusions about the tested model and collection procedure; evidence from people is needed for claims about a human population.
-
-Course notes and examples adapt Nathan Yang’s *Quantum Cognition for Management*. The [book connections](04_Module_Notes/Book_Connections.md) explain the scope and sources of that adaptation.
+The examples distinguish constructed values, model-panel results, and evidence about people. Store graded work, credentials, and respondent records only in the approved private locations.

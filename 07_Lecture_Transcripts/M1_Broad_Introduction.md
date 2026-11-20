@@ -1,29 +1,9 @@
-# M1_Broad_Introduction
+# Introduction to Quantum Approaches for Decision Making
 
-Welcome, and thank you for joining me. I'd like to start with three situations you've probably been in yourself.
+Welcome, and thank you for joining me. A customer answers a survey. A manager reviews a proposal. An employee considers an AI recommendation. Each situation produces a judgment that an organization may store and use as data. Often, we assume the answer was already settled and the question simply collected it. But the wording, sequence, or screen can help form the judgment. That possibility changes how we interpret the data and how we design the process. It also raises a question about the person making the decision: what makes the resulting choice their own? These questions connect the material in Quantum Approaches for Decision Making.
 
-A customer fills out a survey. A manager reviews a proposal.
+We will use quantum cognition as one approach to modeling judgments. It borrows a mathematical framework from quantum theory that allows an answer to depend on the question and on what came before it. You do not need a background in physics or philosophy. We will introduce the model with an arrow and its shadows, then work through familiar business decisions. A model is useful when its assumptions and predictions help us understand a setting. Throughout the course, we will compare quantum explanations with alternatives such as stable preferences, learning, memory, and differences in wording.
 
-An employee looks at a recommendation from an AI system and decides whether to follow it. Each of these produces a judgment, and a business often stores that judgment and treats it as data.
+The first four modules build the practical foundation. We begin with judgments that are revealed or formed during questioning. We then study order effects and how to compare procedures carefully. The third module applies those comparisons to human and AI decision making, including synthetic panels. The fourth connects findings to managerial action. The next two modules examine free will and agency. We introduce the philosophical terms as we need them, study explicit requirements for choice, and ask how reasons, reconsideration, and control over a procedure affect the interpretation of behavior.
 
-Most of the time, we assume the answer was already in the person's head, and the question simply collected it. But what if the way we asked helped shape the answer?
-
-Then changing the survey, the agenda, or the screen could change the data, and the decisions built on it. That's the question these four modules are about.
-
-To explore it, we'll use an approach called quantum cognition. Don't let the name worry you.
-
-It's a way of modeling judgments, using some math borrowed from quantum theory, that allows an answer to depend on the question and on what came before it. You don't need any physics background.
-
-We'll introduce the model with a simple picture, an arrow and its shadows, and then use everyday business examples to see what it predicts. Throughout the first four modules, we'll treat it like any other model: we'll ask what it predicts, and whether those predictions hold up better than simpler explanations.
-
-Here's how the four modules fit together. Module 1, Why Classical Models Break Down, asks a basic question: do our questions reveal views people already hold, or do they help form them?
-
-Module 2, Contextuality and Order Effects, focuses on the order of questions, and shows you how to design a careful comparison, which we'll call an audit.
-
-Module 3, Human-AI Decision Teaming, applies that audit to AI tools, including synthetic panels, where a language model answers survey questions as if it were a group of fictional people. And Module 4, Audit Verdicts and Managerial Action, turns the results into a recommendation a client can act on.
-
-As we go, I'll introduce new terms only when we need them, and we'll build each idea step by step. The goal is practical.
-
-By the end, you should be able to look at a decision process, ask whether it's measuring a judgment or helping to create one, compare believable explanations, and say what the evidence does and doesn't support. You'll also know what result would make you change your recommendation.
-
-Let's get started with Module 1.
+Across the eight-week course, the aim is to connect a decision to the evidence that can improve it. You should be able to identify the comparison a model predicts, assess credible rivals, explain uncertainty, and distinguish a response pattern from a stronger claim about people. You should also be able to ask whose goals shape the questions and whether the person affected can refuse or revise the process. We will return to those questions in surveys, subscription decisions, and AI advice. Let's begin with the difference between revealing a judgment and helping to form one.

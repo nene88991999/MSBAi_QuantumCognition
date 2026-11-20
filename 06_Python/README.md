@@ -52,3 +52,7 @@ The results describe the tested response procedure and persona grid. A small q i
 ## Individual Practice and Team Project
 
 Complete `M3A2_Audit_Practice.ipynb` individually. Use `M1_4_Project_Audit_Starter.ipynb` for the shared team audit and submit one executed project notebook with the team report. Record who produced and checked each analysis step. Every member should be able to explain the records, calculations, and uncertainty during their individual oral defense.
+
+## Agency Practice for Weeks 5 and 6
+
+[Guide, code, and constructed data](M5_6_Agency_Practice.md) · [Notebook](notebooks/M5_6_Agency_Practice.ipynb). The exercise is ungraded and does not change the frozen project collection.

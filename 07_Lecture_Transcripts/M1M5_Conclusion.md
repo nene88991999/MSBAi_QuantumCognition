@@ -1,0 +1,7 @@
+# Conclusion to Free Will and Agency
+
+We began this module with a person trying to turn off notifications. The app's preliminary question could help the person reconsider or steer the decision toward the service's interests. To examine that difference, we first clarified what we meant by agency and free will. Ontology helped us ask what kind of capacity we were discussing. Conceptual engineering helped us examine whether a proposed criterion served the concern behind the analysis.
+
+We then studied three choice requirements. A1 asks for open responses that resist a distribution of rankings held fixed through a sequence. A2 rules out a distribution of fixed answer sheets. A3 connects standalone choice probabilities to one value ranking. The quantum example satisfied all three. A classical process with memory could reproduce the displayed responses, which identified the precise scope of the comparison.
+
+The practical lesson is to connect each claim to the evidence it needs. A response difference concerns behavior. A model comparison concerns a representation of that behavior. A stronger claim about agency also needs evidence about the person's reasons and control. Those distinctions become especially useful when another party chooses the questions. In the next module, we will follow a decision through time. We will ask when a judgment remains settled, what can reopen it, and who should have authority over that process.
