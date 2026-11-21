@@ -53,6 +53,8 @@ A planning example uses 24 persona descriptions, giving 144 condition records an
 
 ## Collect and Preserve the Responses
 
+Use Lumen in VS Code with the accompanying Lumen Collection notebook. Its dry run works offline. After the teaching team confirms the model and settings, use a separate technical pilot and then the main run. The Lumen Collection Guide explains account setup, the fixed retry rule, budget checks, and export. Preserve the context rules below: isolated questions start fresh; constructed and assessed interviews retain their own earlier answers. See the [Lumen handout](M1_4_Lumen_Collection_Guide.md).
+
 ## Prompt Template
 
 Use the following neutral instruction with your own background facts and persona description: “For this fictional respondent exercise, answer as the person described. Use the supplied background facts. Answer the question with YES or NO only.” Do not name the expected effect, desired company outcome, QQ value, or simulator regime.
@@ -123,6 +125,8 @@ Decisions agreed by the team: [response]
 
 Record substantive contributions as the work proceeds. All members review the final submission and prepare to explain the full audit. The contribution record supports transparency; it does not introduce a separate graded activity or an automatic peer-score adjustment.
 
+Use issues or the contribution log to assign substantive work and a reviewer. Commit the frozen plan before collection, document reviews of code and interpretation, and record paired work even when one person commits. Commit counts do not determine understanding or grades. Keep raw records and graded work in the approved private team repository; inspect notebook outputs before committing.
+
 ## Revision Record Entry
 
 Date and stage before or after relevant results: [response]
@@ -152,4 +156,4 @@ The input file is a JSON list of interview records. Use the following fields for
 
 Keep the team’s frozen proposal and questions, persona grid, model-data JSON, raw interview records, executed notebook, result tables, report, slides, attribution log, contribution record, and revision log in clearly named folders in the approved private submission repository. Add a README that identifies the evidence tier, software, input file, and steps for rerunning the analysis. Use a commit identifier to identify the submitted version.
 
-In Colab, upload the notebook and model-data file, plus the raw-record folder in a ZIP if needed; extract the folder beside the notebook input. In a local notebook environment, keep the same relative paths. The analysis needs only Python and NumPy. It does not call an AI provider or incur usage charges. Collect model responses separately with the course-approved tool and preserve the full records specified in this guide.
+The analysis uses Python and NumPy and makes no API calls. Collect with the Lumen Collection notebook, then keep the completed main run folder together. Set DATA_FILE in the Project Audit Starter to interviews.json and complete its metadata and frozen thresholds. Dry-run and pilot records are labelled and cannot serve as main project data. Use the Lumen Collection Guide for setup and troubleshooting.

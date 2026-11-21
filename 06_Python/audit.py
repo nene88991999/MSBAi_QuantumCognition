@@ -123,10 +123,14 @@ def validate_records(records, require_raw=False, base_dir='.'):
                     raise ValueError(f'{iid}: {question} must be integer 0 or 1, not a missing value.')
             elif value is not None: raise ValueError(f'{iid}: unasked {question} must be null.')
         if require_raw:
+            if row.get('data_origin') in ['dry_run', 'pilot']:
+                raise ValueError('Dry-run and pilot records cannot serve as main project data.')
             if not row['raw_file']: raise ValueError(f'{iid}: raw_file is required for model data.')
             raw_path=(Path(base_dir)/row['raw_file']).resolve()
             if not raw_path.is_file(): raise ValueError(f'Raw record missing: {raw_path}')
             raw=json.loads(raw_path.read_text())
+            if raw.get('data_origin') in ['dry_run', 'pilot'] or raw.get('model') == 'offline-demonstration':
+                raise ValueError('Raw records identify practice data rather than a main collection.')
             for key in ['model','model_version','settings','timestamp','messages','retry_history']:
                 if key not in raw: raise ValueError(f'{raw_path.name} is missing {key}.')
             if not isinstance(raw['messages'],list) or not raw['messages']:

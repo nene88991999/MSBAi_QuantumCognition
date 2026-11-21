@@ -30,7 +30,7 @@ The freeze makes the planned procedure concrete before main outcomes are observe
 
 Find one field that another person could interpret differently.
 
-Use the existing collection guide. Freeze model version and settings where controllable; document version changes that the provider imposes. Retain access and cost constraints. Establish what happens when calls fail or budget limits are reached.
+Use the existing collection guide and the [Lumen handout](../02_Assessments/M1_4_Lumen_Collection_Guide.md). Bring the collector's offline check and, after model confirmation, a two-persona pilot. Verify that isolated histories reset and sequential histories retain actual replies. Freeze model version and settings where controllable; document version changes that the provider imposes. Retain access and cost constraints. Establish what happens when calls fail or budget limits are reached.
 
 ## 25–40 Minutes · Test Exceptions before Collection
 
@@ -52,7 +52,7 @@ Ask them to reconstruct order and denominator.
 
 Resolve disagreements in the written protocol.
 
-A peer replay checks reproducibility rather than grading the team’s substantive conclusion. Confirm that peers can identify the intended unit of analysis and the context retained for each arm. Use supplied data if access is limited.
+A peer replay checks reproducibility rather than grading the team’s substantive conclusion. Confirm that peers can identify the intended unit of analysis and the context retained for each arm. Use supplied offline data if access is limited. Check the saved attempt log, frozen configuration, and current Lumen budget before opening live collection.
 
 ## 60–80 Minutes · Responsibilities and Deviations
 

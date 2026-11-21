@@ -17,7 +17,7 @@ Watch the recorded videos before each live meeting. Live sessions use cases and 
 
 - [Sixteen live-session decks and guides](03_Live_Sessions/README.md).
 - [Lecture transcripts](07_Lecture_Transcripts/README.md), including the updated broad introduction and course conclusion.
-- [Assessment briefs](02_Assessments/README.md) and [teaching schedule](01_Syllabus/Eight_Week_Teaching_Schedule.md).
+- [Assessment briefs](02_Assessments/README.md), [Lumen collection handout](02_Assessments/M1_4_Lumen_Collection_Guide.md), and [teaching schedule](01_Syllabus/Eight_Week_Teaching_Schedule.md).
 - [Reading guide](05_Readings/README.md), [Python notebooks](06_Python/README.md), and [interactive book companion](docs/README.md).
 
 The original Part 1 syllabus and rubrics remain available as the assessment source. Their four-week calendar and 50% course scaling are pending the course-wide update; use the eight-week schedule for this production release and the confirmed policy in Canvas for grading. The team proposal and report/deck remain shared work; discussions, practice, oral defenses, and reflections remain individual.

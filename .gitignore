@@ -10,3 +10,4 @@ raw_interviews/
 project_records.json
 SIMULATED_data_format_example.json
 *.log
+collection_runs/

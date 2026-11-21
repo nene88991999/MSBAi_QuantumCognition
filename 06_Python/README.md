@@ -4,7 +4,7 @@ All examples run on an ordinary computer. No quantum hardware is needed. Every s
 
 ## Run the Notebooks
 
-Open a notebook in Colab, Jupyter, or VS Code, then run all cells from the top. Each notebook contains its helper functions, so it can run by itself. Install NumPy if your environment does not already include it. The examples were checked with Python 3.12 and NumPy 2.3.5; the dependency file allows NumPy 1.26 through 2.x.
+Open a notebook in Colab, Jupyter, or VS Code, then run all cells from the top. The analysis notebooks contain their helper functions. The Lumen collection notebook uses the helper and configuration files in this folder; download the whole folder before running it. Install NumPy if your environment does not already include it. The examples were checked with Python 3.12 and NumPy 2.3.5; the dependency file allows NumPy 1.26 through 2.x.
 
 | Order | Notebook | Purpose |
 | --- | --- | --- |
@@ -15,6 +15,12 @@ Open a notebook in Colab, Jupyter, or VS Code, then run all cells from the top. 
 | 5 | [Project Audit Starter](notebooks/M1_4_Project_Audit_Starter.ipynb) | Analyze six-condition records and produce intervals and diagnostic notes. |
 
 The first three are short learning examples adapted from the book. The last two support the practice assignment and project. Complete the student response cells in your own copy.
+
+## Collect with Lumen
+
+Open [M1_4_Lumen_Collection.ipynb](notebooks/M1_4_Lumen_Collection.ipynb) in VS Code. The [helper](lumen_collector.py) implements the six conditions, an explicit attempt log, fixed retry limits, and resumable collection. The [example configuration](lumen_example_config.json) contains fictional practice inputs. Replace it with your approved design before a main run. The [Git ignore example](lumen_team_gitignore.example) helps keep local secrets and output folders out of a public working copy.
+
+The candidate model is Nemotron 3 Super, subject to an authenticated Lumen check and teaching-team confirmation. Never switch models silently. Main exports feed the Project Audit Starter; dry-run and pilot exports are rejected as main data. A two-persona pilot checks the service, context rules, output format, and cost before collection.
 
 ## Run the Python Files
 
@@ -35,7 +41,7 @@ The `.py` versions preserve the notebook's code and explanatory text as comments
 
 ## Project Data
 
-Read the [collection guide](../02_Assessments/M1_4_Project_Templates_and_Collection_Guide.md) before collecting responses. The starter's default `MODE = 'simulation'` checks a known process. For a project, follow the notebook instructions to select `model_data`, record the approved model and settings, freeze thresholds, and supply saved interview records. Collection takes place separately with the course-approved tool and budget.
+Read the [collection guide](../02_Assessments/M1_4_Project_Templates_and_Collection_Guide.md) before collecting responses. The starter's default `MODE = 'demonstration'` checks a known process. For a project, follow the notebook instructions to select `model_data`, record the approved model and settings, freeze thresholds, and supply saved interview records. Use the [Lumen collection notebook](notebooks/M1_4_Lumen_Collection.ipynb) and [student handout](../02_Assessments/M1_4_Lumen_Collection_Guide.md) for collection. Its default is offline; explicit pilot/main modes use Lumen after model and settings confirmation.
 
 Each persona needs one complete record in each of six conditions. The fields are `interview_id`, `persona_id`, `condition`, `A`, `B`, `F`, and `raw_file`. Answers use integers 0 or 1; unasked questions use JSON `null`. Raw records retain the model version, settings, timestamp, messages, and retry history. The starter rejects missing conditions and malformed coding rather than filling them with zeros.
 

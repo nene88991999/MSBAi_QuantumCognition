@@ -24,4 +24,4 @@ Use the [Project Templates and Collection Guide](M1_4_Project_Templates_and_Coll
 
 The team presents for ten minutes. Each member then completes a five-minute oral defense without live AI assistance or teammate prompting. Review the separate team and individual rubrics in M4A1. Each student writes their own reflection under its stated AI policy.
 
-The [live-session guides](../03_Live_Sessions/README.md) identify the individual preparation and team work to bring. Keep graded submissions and raw interview records in the approved private location. No supplied notebook makes paid model calls.
+The [live-session guides](../03_Live_Sessions/README.md) identify the individual preparation and team work to bring. Keep graded submissions and raw interview records in the approved private location. All supplied notebook defaults run offline. The new [Lumen collection notebook](../06_Python/notebooks/M1_4_Lumen_Collection.ipynb) uses your Lumen account only in its explicit live modes; follow the [student handout](M1_4_Lumen_Collection_Guide.md).

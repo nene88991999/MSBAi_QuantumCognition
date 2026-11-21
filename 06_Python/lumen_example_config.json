@@ -1,0 +1,121 @@
+{
+  "model": "nemotron-3-super-120b-a12b",
+  "system_instruction": "For this fictional respondent exercise, answer as the person described. Use the supplied background facts. Answer the question with YES or NO only.",
+  "background": "This is an invented teaching example. A retailer offers an optional free shopping assistant. It suggests products using your purchase history and saves time when making a shopping list. The retailer stores the history for 12 months. You may delete it and turn the assistant off. The retailer does not sell this history to other companies.",
+  "questions": {
+    "A": "Would the shopping assistant make planning your shopping more convenient?",
+    "B": "Would you be comfortable with the retailer storing this purchase history for 12 months?",
+    "F": "Would you choose to enable this shopping assistant?"
+  },
+  "personas": [
+    {
+      "persona_id": "example_01",
+      "description": "A fictional customer who gives particular attention to convenience, is a frequent user of digital shopping services, and is considering the service for commuting. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_02",
+      "description": "A fictional customer who gives particular attention to convenience, is a frequent user of digital shopping services, and is considering the service for family shopping. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_03",
+      "description": "A fictional customer who gives particular attention to convenience, is a frequent user of digital shopping services, and is considering the service for work travel. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_04",
+      "description": "A fictional customer who gives particular attention to convenience, is a frequent user of digital shopping services, and is considering the service for weekend errands. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_05",
+      "description": "A fictional customer who gives particular attention to convenience, is a occasional user of digital shopping services, and is considering the service for commuting. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_06",
+      "description": "A fictional customer who gives particular attention to convenience, is a occasional user of digital shopping services, and is considering the service for family shopping. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_07",
+      "description": "A fictional customer who gives particular attention to convenience, is a occasional user of digital shopping services, and is considering the service for work travel. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_08",
+      "description": "A fictional customer who gives particular attention to convenience, is a occasional user of digital shopping services, and is considering the service for weekend errands. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_09",
+      "description": "A fictional customer who gives particular attention to privacy, is a frequent user of digital shopping services, and is considering the service for commuting. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_10",
+      "description": "A fictional customer who gives particular attention to privacy, is a frequent user of digital shopping services, and is considering the service for family shopping. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_11",
+      "description": "A fictional customer who gives particular attention to privacy, is a frequent user of digital shopping services, and is considering the service for work travel. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_12",
+      "description": "A fictional customer who gives particular attention to privacy, is a frequent user of digital shopping services, and is considering the service for weekend errands. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_13",
+      "description": "A fictional customer who gives particular attention to privacy, is a occasional user of digital shopping services, and is considering the service for commuting. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_14",
+      "description": "A fictional customer who gives particular attention to privacy, is a occasional user of digital shopping services, and is considering the service for family shopping. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_15",
+      "description": "A fictional customer who gives particular attention to privacy, is a occasional user of digital shopping services, and is considering the service for work travel. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_16",
+      "description": "A fictional customer who gives particular attention to privacy, is a occasional user of digital shopping services, and is considering the service for weekend errands. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_17",
+      "description": "A fictional customer who gives particular attention to cost, is a frequent user of digital shopping services, and is considering the service for commuting. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_18",
+      "description": "A fictional customer who gives particular attention to cost, is a frequent user of digital shopping services, and is considering the service for family shopping. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_19",
+      "description": "A fictional customer who gives particular attention to cost, is a frequent user of digital shopping services, and is considering the service for work travel. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_20",
+      "description": "A fictional customer who gives particular attention to cost, is a frequent user of digital shopping services, and is considering the service for weekend errands. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_21",
+      "description": "A fictional customer who gives particular attention to cost, is a occasional user of digital shopping services, and is considering the service for commuting. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_22",
+      "description": "A fictional customer who gives particular attention to cost, is a occasional user of digital shopping services, and is considering the service for family shopping. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_23",
+      "description": "A fictional customer who gives particular attention to cost, is a occasional user of digital shopping services, and is considering the service for work travel. Form an answer from the supplied facts; no answer is predetermined."
+    },
+    {
+      "persona_id": "example_24",
+      "description": "A fictional customer who gives particular attention to cost, is a occasional user of digital shopping services, and is considering the service for weekend errands. Form an answer from the supplied facts; no answer is predetermined."
+    }
+  ],
+  "settings": {
+    "temperature": 1.0,
+    "top_p": 0.95,
+    "max_tokens": 50,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "schedule_seed": 20270119,
+  "max_attempts_per_question": 3,
+  "max_total_attempts": 450,
+  "max_coins_per_run": 0.25,
+  "example_only": true
+}

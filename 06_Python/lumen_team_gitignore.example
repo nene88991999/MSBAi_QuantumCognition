@@ -1,0 +1,15 @@
+# Copy appropriate entries into .gitignore BEFORE creating or staging secrets.
+# This does not untrack or remove any file already committed.
+.env
+.env.*
+!.env.example
+*api_key*
+*credentials*
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Keep generated records out of a public course working copy.
+# Preserve required records in the approved PRIVATE team submission location.
+collection_runs/
+audit_outputs/
