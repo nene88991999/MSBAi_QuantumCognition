@@ -45,6 +45,8 @@ Read the [collection guide](../02_Assessments/M1_4_Project_Templates_and_Collect
 
 Each persona needs one complete record in each of six conditions. The fields are `interview_id`, `persona_id`, `condition`, `A`, `B`, `F`, and `raw_file`. Answers use integers 0 or 1; unasked questions use JSON `null`. Raw records retain the model version, settings, timestamp, messages, and retry history. The starter rejects missing conditions and malformed coding rather than filling them with zeros.
 
+Use the [GitHub project workflow](../02_Assessments/M1_8_GitHub_Student_Workflow.md) to review changes and preserve the submitted version. Clear outputs from shared working copies only after preserving required results. Keep the final executed analysis notebook with its outputs, and reproduce it from saved data without repeating live collection.
+
 Store interviews and graded work in the approved private submission location. No access key belongs in a notebook or repository. An excluded filename in `.gitignore` is only a convenience; review files before committing them.
 
 ## Interpret the Results

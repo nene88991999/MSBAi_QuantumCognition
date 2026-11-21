@@ -22,6 +22,8 @@ The earlier allocation assigns 55% of Part 1 to team work and 45% to individual 
 
 Use the [Project Templates and Collection Guide](M1_4_Project_Templates_and_Collection_Guide.md), also available in [Word](M1_4_Project_Templates_and_Collection_Guide.docx), for the six-condition design, AI Attribution Log, contribution record, and revision record. The [Python folder](../06_Python/README.md) contains the individual practice notebook and the team project analysis starter.
 
+The [GitHub project workflow](M1_8_GitHub_Student_Workflow.md) explains private team repositories, substantive reviews, working and submitted notebooks, and links to exact versions. Use it with the [program student guide](https://github.com/Business-Analytics-at-Gies/msbai-github-for-students) and each assignment’s Canvas instructions.
+
 The team presents for ten minutes. Each member then completes a five-minute oral defense without live AI assistance or teammate prompting. Review the separate team and individual rubrics in M4A1. Each student writes their own reflection under its stated AI policy.
 
 The [live-session guides](../03_Live_Sessions/README.md) identify the individual preparation and team work to bring. Keep graded submissions and raw interview records in the approved private location. All supplied notebook defaults run offline. The new [Lumen collection notebook](../06_Python/notebooks/M1_4_Lumen_Collection.ipynb) uses your Lumen account only in its explicit live modes; follow the [student handout](M1_4_Lumen_Collection_Guide.md).

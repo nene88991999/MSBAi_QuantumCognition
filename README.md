@@ -17,6 +17,7 @@ Watch the recorded videos before each live meeting. Live sessions use cases and 
 
 - [Sixteen live-session decks and guides](03_Live_Sessions/README.md).
 - [Lecture transcripts](07_Lecture_Transcripts/README.md), including the updated broad introduction and course conclusion.
+- [GitHub project workflow](02_Assessments/M1_8_GitHub_Student_Workflow.md) and the [program student guide](https://github.com/Business-Analytics-at-Gies/msbai-github-for-students).
 - [Assessment briefs](02_Assessments/README.md), [Lumen collection handout](02_Assessments/M1_4_Lumen_Collection_Guide.md), and [teaching schedule](01_Syllabus/Eight_Week_Teaching_Schedule.md).
 - [Reading guide](05_Readings/README.md), [Python notebooks](06_Python/README.md), and [interactive book companion](docs/README.md).
 

@@ -11,6 +11,8 @@ The wiki contains six module chapters, a glossary, a case workshop, a book map, 
 
 The interactive examples use imposed inputs, not empirical estimates. The calculations run entirely in the browser. Controls have visible labels, keyboard access, numeric outputs, and explanatory text. Tables provide the values shown by the graphical examples. The layout supports phone screens and enlarged text.
 
+The [GitHub project workflow](../02_Assessments/M1_8_GitHub_Student_Workflow.md) is also available as a searchable wiki article. It covers private team work, review, and submission of a fixed version.
+
 ## GitHub Hosting
 
 The repository is public. These files are ready for GitHub Pages from the `main` branch’s `/docs` folder. A hosted Pages address is not configured in this package. Download the repository and open `index.html` for the complete interactive experience.
