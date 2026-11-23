@@ -1,12 +1,12 @@
 # Reflection on Analytical Judgment
 
-M4A2  |  Individual  |  10 points  |  10% of Part 1  |  5% of course  |  Week 4
+M4A2  |  Individual  |  10 points  |  10% of course  |  Week 8
 
 Explain one consequential change in your judgment during the project and the evidence that prompted it. Use a specific before-and-after example to show how your own reasoning developed within the team project. Identify your contribution and distinguish your judgment from the team’s shared conclusion.
 
 ## Write an 800 Word Memo
 
-1. State your initial judgment. Identify the company decision, your prediction, and the assumption that mattered most. Point to the dated Part 1 passage or design choice that records it.
+1. State your initial judgment. Identify the company decision, your prediction, and the assumption that mattered most. Point to the dated Part 1 passage or design choice that records it. You may trace how the later agency or procedural-control discussions changed the claim you were prepared to make.
 
 2. Describe what challenged or refined that judgment. Use a result, design problem, rival explanation, or peer critique. Explain why it mattered, with one or two specific pieces of evidence.
 
@@ -35,4 +35,4 @@ Full credit: accurate, complete, and supported. About three quarters: sound reas
 
 AI Assessment Scale level 1. AI may help brainstorm possible topics before you write. Write and revise the submitted prose yourself. Briefly identify any brainstorming tool and how you used it, or state that you did not use AI.
 
-Learning objectives: M4LO3 and M4LO5. There is no required direction of change and no requirement to claim that the original prediction was wrong.
+Learning objectives: M4LO3, M4LO5, M7LO5, and M8LO5. There is no required direction of change and no requirement to claim that the original prediction was wrong.

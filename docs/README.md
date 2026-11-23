@@ -2,7 +2,7 @@
 
 Open `index.html` after downloading the repository. All explanations, search, and calculators work locally. No installation or server is required. Reading and course-file links require internet access and any applicable GitHub or publisher access.
 
-The wiki contains six module chapters, a glossary, a case workshop, a book map, course-resource guides, and four interactive examples:
+The wiki contains eight module chapters, a glossary, a case workshop, a book map, course-resource guides, and four interactive examples:
 
 1. Squared projection and answer probability.
 2. Sequential judgments, answer-pair tables, and the QQ restriction.
@@ -19,4 +19,4 @@ The repository is public. These files are ready for GitHub Pages from the `main`
 
 ## Eight-Week Extension
 
-[Current teaching schedule](../01_Syllabus/Eight_Week_Teaching_Schedule.md) · [Sixteen live-session guides](../03_Live_Sessions/README.md) · [Free Will and Agency](../04_Module_Notes/M5_Free_Will_and_Agency.md) · [Agency over Time](../04_Module_Notes/M6_Agency_over_Time.md). These resources extend the original four-module book companion.
+[Current teaching schedule](../01_Syllabus/Eight_Week_Teaching_Schedule.md) · [Sixteen live-session guides](../03_Live_Sessions/README.md) · [Free Will and Agency](../04_Module_Notes/M5_Free_Will_and_Agency.md) · [Agency over Time](../04_Module_Notes/M6_Agency_over_Time.md). The [Module 7 analysis guide](../04_Module_Notes/M7_Analysis_and_Peer_Critique.md) and [Module 8 presentation guide](../04_Module_Notes/M8_Presentations_and_Individual_Defense.md) complete the eight-module companion.

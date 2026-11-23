@@ -38,4 +38,4 @@ Run [M1_Probability_Onramp.ipynb](../06_Python/notebooks/M1_Probability_Onramp.i
 
 The main lesson is to connect a managerial decision to a specific comparison. A model earns consideration through clear assumptions and useful predictions. A familiar label or a good fit to past observations is insufficient by itself.
 
-**Book connections:** “The Decision Default,” “A Unified View,” “Case: Northwind,” and “A Python Lab for Quantum Probabilities” in Nathan Yang's manuscript. This course companion adapts the explanations to the four-module sequence. [Reading guide](../05_Readings/README.md).
+**Book connections:** “The Decision Default,” “A Unified View,” “Case: Northwind,” and “A Python Lab for Quantum Probabilities” in Nathan Yang's manuscript. This course companion adapts the explanations for the first four modules of the eight-module sequence. [Reading guide](../05_Readings/README.md).

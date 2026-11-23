@@ -1,7 +1,7 @@
 # %% [markdown]
 # # Project Audit Starter
 # 
-# **M2A2 and M4A1 · Modules 1–4**
+# **M2A2 and M4A1 · Modules 1–8**
 # 
 # Analyze the records from your two panels and the extra direct and assessed conditions. This notebook supports the six-condition matched design in the Project Templates and Collection Guide. It checks records and reports counts, the order effect, q, interference, and bracket contrasts with uncertainty.
 # 
@@ -13,7 +13,7 @@
 # ## Team Project and Individual Oral Defense
 # Work in your assigned team and submit one executed notebook with the team report and deck. Record each member’s contribution and who checked the work. Every member should understand the full audit and prepare to explain its design, calculations, uncertainty, and recommendation in an individual oral defense.
 # 
-# The team report and deck carry 30% of Part 1, equal to 15% of the full course. The individual oral defense carries 5% of Part 1, equal to 2.5% of the full course. Keep the team’s records in the approved private submission location.
+# The team report and deck carry 30% of the full eight-module course. The individual oral defense carries 5%. Both are completed in Week 8. Keep the team’s records in the approved private submission location.
 
 # %% [markdown]
 # ## Load the Analysis Functions

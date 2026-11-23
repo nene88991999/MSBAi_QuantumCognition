@@ -15,7 +15,7 @@ The examples distinguish model calculations, hypothetical cases, and empirical f
 
 ## The Broader Book
 
-The manuscript also develops time and duration, organizational attention, strategic interaction, quantum game theory, concept combinations, and other extensions. Those topics extend beyond this four-module course. Its parts are:
+The manuscript also develops time and duration, organizational attention, strategic interaction, quantum game theory, concept combinations, and other extensions. Those topics extend beyond this eight-module course. Its parts are:
 
 1. Why Classical Models Break Down
 2. Contextuality and Order Effects

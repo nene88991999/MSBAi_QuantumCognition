@@ -1,6 +1,6 @@
 # Project Part 1 Research Proposal and Audit Design
 
-M2A2  |  Team  |  25 points  |  25% of Part 1  |  12.5% of course  |  Week 2
+M2A2  |  Team  |  25 points  |  25% of course  |  Week 3
 
 Choose a real company decision and design an audit of AI-generated respondents before collecting results. Your proposal should explain why the questions could affect answers, what the competing explanations predict, and how the result would inform the company’s next step.
 
@@ -22,7 +22,7 @@ Use public evidence about a real company, including your employer if appropriate
 
 ## Submission
 
-Submit one team proposal of about 1,000–1,300 words, plus the question battery, design table, public sources, AI Attribution Log, and contribution record. Use the Project Templates and Collection Guide to prepare the attachments. One member uploads Word or PDF for the team in Canvas, listing all members and the approved private repository link for the notebook and supporting files. The attachments do not count toward the word guide.
+Submit one team proposal of about 1,000–1,300 words, plus the question battery, design table, public sources, AI Attribution Log, and contribution record. Use the Project Templates and Collection Guide to prepare the attachments. One member uploads Word or PDF for the team in Canvas, listing all members and the approved private repository link for the notebook and supporting files. The attachments do not count toward the word guide. Submit by the end of Week 3; Canvas supplies the exact date.
 
 ## Plan the Comparisons Before Collection
 
@@ -38,7 +38,7 @@ Use the same fictional persona grid in both required panels. The isolated-item b
 
 5. Write decision rules for a small precise effect, a meaningful effect with q within tolerance, q clearly outside tolerance, and wide intervals. Add the direct-versus-assessed comparison and the strongest rival to each relevant branch. State an action for a flat or unresolved result.
 
-6. Freeze a dated version of the proposal and questions before the main run. Record later changes, their reasons, and whether they occurred before or after you saw the relevant results.
+6. Save the submitted Week 3 proposal. Pilot the implementation in Week 4 and freeze a dated collection plan before the main run opens in Week 5. Close collection in Week 6. Record later changes, their reasons, and whether they occurred before or after you saw the relevant results.
 
 The Collection Guide supplies a six-condition design and a matching notebook. You may propose another defensible design, but agree on the analysis and resampling unit with the instructor before collection. Keep the task within the approved model access and spending limit.
 

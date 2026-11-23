@@ -53,7 +53,7 @@ A planning example uses 24 persona descriptions, giving 144 condition records an
 
 ## Collect and Preserve the Responses
 
-Use Lumen in VS Code with the accompanying Lumen Collection notebook. Its dry run works offline. After the teaching team confirms the model and settings, use a separate technical pilot and then the main run. The Lumen Collection Guide explains account setup, the fixed retry rule, budget checks, and export. Preserve the context rules below: isolated questions start fresh; constructed and assessed interviews retain their own earlier answers. See the [Lumen handout](M1_4_Lumen_Collection_Guide.md).
+Use Lumen in VS Code with the accompanying Lumen Collection notebook. Its dry run works offline. After the teaching team confirms the model and settings, use a separate technical pilot and then the main run. The Lumen Collection Guide explains account setup, the fixed retry rule, budget checks, and export. Preserve the context rules below: isolated questions start fresh; constructed and assessed interviews retain their own earlier answers.
 
 ## Prompt Template
 
@@ -124,6 +124,8 @@ Member who checked the work and result of the check: [response]
 Decisions agreed by the team: [response]
 
 Record substantive contributions as the work proceeds. All members review the final submission and prepare to explain the full audit. The contribution record supports transparency; it does not introduce a separate graded activity or an automatic peer-score adjustment.
+
+### GitHub Reviews
 
 Use issues or the contribution log to assign substantive work and a reviewer. Commit the frozen plan before collection, document reviews of code and interpretation, and record paired work even when one person commits. Commit counts do not determine understanding or grades. Keep raw records and graded work in the approved private team repository; inspect notebook outputs before committing.
 

@@ -40,4 +40,4 @@ The ten-minute project presentation has 6–10 slides. Introduce the decision an
 
 Practice answering three questions without AI assistance: What result would change your recommendation? Which assumption carries the broadest claim? What did you revise after examining the evidence? The oral defense is an opportunity to show ownership of the analysis. Follow the [Part 2 instructions](../02_Assessments/M4A1_Project_Part_2.md) and the [reflection instructions](../02_Assessments/M4A2_Reflection.md) for the separate submission requirements.
 
-**Book connections:** “Real Versus Decorative Quantum,” “What It Is and Is Not,” and the worked-audit appendix. The course focuses on the claims needed for a four-week managerial audit. [Reading guide](../05_Readings/README.md).
+**Book connections:** “Real Versus Decorative Quantum,” “What It Is and Is Not,” and the worked-audit appendix. The course focuses on the claims needed for the eight-week managerial audit. [Reading guide](../05_Readings/README.md).

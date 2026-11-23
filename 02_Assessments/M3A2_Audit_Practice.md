@@ -1,6 +1,6 @@
 # Audit Notebook Practice
 
-M3A2  |  Individual  |  Ungraded  |  Before Project Studio 3
+M3A2  |  Individual  |  Ungraded  |  Before M3S2 in Week 3
 
 Check the audit calculations on simulated responses whose generating process is known. This is Tier 1 validation: it checks the analysis before you use it on a language model. No API key, paid model call, or physics background is needed.
 
@@ -22,7 +22,7 @@ The first simulator draws from one fixed joint distribution of A, B, and F, so c
 
 ## Submit
 
-Submit the executed .ipynb file through Canvas and include its repository link. Fill in the notebook’s short response sections, about 250–400 words in total. Bring one calculation or design question to Project Studio 3. Allow about 60–90 minutes.
+Submit the executed .ipynb file through Canvas and include its repository link. Fill in the notebook’s short response sections, about 250–400 words in total. Bring one calculation or design question to the Week 3 proposal clinic (M3S2). Allow about 60–90 minutes.
 
 ## Hand Calculation
 

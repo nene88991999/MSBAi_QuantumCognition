@@ -1,0 +1,7 @@
+# Conclusion to Module 8
+
+We have now followed a decision from its initial question through analysis, criticism, and explanation. The final recommendation depends on how those pieces fit together. A clear presentation helps another person examine that connection. An individual explanation also reveals whether the reasoning remains clear when the questions change.
+
+Return to three responsibilities. Make the claim precise. Say whose responses were observed, which procedure produced them, and what comparison supports the finding. Keep the interpretation connected to its assumptions. A quantum model may supply useful restrictions, while a claim about human reasons, control, or welfare requires the corresponding evidence. Make the next action reviewable. Identify who should act, what should be checked, and what result would justify a change. This makes the recommendation useful even when the evidence remains incomplete.
+
+The same responsibilities apply beyond surveys and recommendation systems. Whenever a process asks people to form or express a judgment, its design may affect the response. We can study that process, compare explanations, and ask whether people retain meaningful control over it. Careful revision is part of this work. When evidence changes the conclusion, explain the change and preserve the reasoning that led to it. That record helps the next decision begin from a better understanding.

@@ -1,10 +1,10 @@
 # Project Part 2 Audit Report and Client Presentation
 
-M4A1 team report 30 points  |  M4A3 individual defense 5 points  |  Week 4
+M4A1 team report 30 points  |  M4A3 individual defense 5 points  |  Week 8
 
 Run the design you proposed, report what the model produced, and recommend the next action the evidence supports. Explain how your judgment changed from Part 1. A carefully documented small, contradictory, or inconclusive result can earn full credit.
 
-The team report and deck count for 30% of Part 1 and 15% of the full course. Each student’s oral defense counts separately for 5% of Part 1 and 2.5% of the full course. Part 1 covers Modules 1–4 and contributes 50% of the course grade.
+The shared team report and deck count for 30% of the full eight-module course. Each student’s oral defense counts separately for 5%. The research proposal is due in Week 3, the collection plan freezes in Week 4, collection runs in Weeks 5–6, and analysis and peer critique take place in Week 7.
 
 ## Required Deliverables
 
@@ -18,7 +18,7 @@ The team report and deck count for 30% of Part 1 and 15% of the full course. Eac
 
 ## Submission and Presentation
 
-One member submits the team report, deck, logs, and executed .ipynb notebook in Canvas by the end of Week 4, listing all team members. Include the repository URL and commit identifier containing the supporting data and raw records. Present at the team’s assigned time in Canvas. Use the approved private repository and give the instructor access. Each student receives a separate oral-defense score.
+One member submits the team report, deck, logs, and executed .ipynb notebook in Canvas by the end of Week 8, listing all team members. Include the repository URL and commit identifier containing the supporting data and raw records. Present at the team’s assigned time in Canvas. Use the approved private repository and give the instructor access. Each student receives a separate oral-defense score.
 
 Use the two required panels from Part 1: the isolated-item baseline and the constructed sequential panel. Add the direct and assessed conditions for interference. Run the Tier 1 practice before analyzing model outputs. If access or data collection fails, document the problem and contact the instructor for an alternative; simulated records must remain labeled Tier 1.
 
@@ -36,7 +36,7 @@ Use the two required panels from Part 1: the isolated-item baseline and the cons
 
 6. Evaluate the strongest rival using your planned observation or a clearly labeled exploratory check. A small q does not identify a quantum mechanism. A bracket violation challenges fixed response rates carried across procedures; a classical process that changes those rates can remain plausible.
 
-7. Name the evidence tier beside the conclusion. Tier 2 findings describe this model, version, prompts, settings, and persona grid. Recommend an action with an owner and review condition, and describe the human evidence needed before treating the panel as a substitute for customers or employees.
+7. Name the evidence tier beside the conclusion. Tier 2 findings describe this model, version, prompts, settings, and persona grid. Recommend an action with an owner and review condition, and describe the human evidence needed before treating the panel as a substitute for customers or employees. Apply Modules 5–6 by identifying whose reasons and control matter to the recommendation. State the human or valuation evidence needed for an agency or welfare claim. A conceptual discussion or an explicit evidence gap is sufficient; no additional collection arm is required.
 
 If a conditional group is empty or the sample is too small for a stable interval, report that limitation and narrow the conclusion. Do not invent the missing statistic or change thresholds after seeing the results.
 
@@ -54,13 +54,13 @@ Total: 30 points. Score each criterion using the anchors below; half points may 
 
 Full credit: accurate, complete, and supported. About three quarters: sound reasoning with a minor omission. About half: a substantial omission or error weakens the argument. About one quarter: a relevant attempt with little support. Zero: absent or unrelated. Apply these anchors within each criterion, rather than counting words mechanically.
 
-This 30-point rubric determines the shared team score, worth 15% of the full course.
+This 30-point rubric determines the shared team score, worth 30% of the full course. Agency and welfare reasoning is assessed within the existing interpretation and recommendation criteria; the rubric adds no points and favors no philosophical position.
 
 ## Individual Oral Defense Rubric
 
 Each member answers questions about the entire audit, including the design, calculations, uncertainty, and recommendation. Prepare beyond your assigned task. Respond without live AI assistance or answers supplied by teammates. The instructor directs comparable core questions to each student and may follow up on the team’s actual evidence. The team submission score and each student’s defense score are recorded separately.
 
-Allow ten minutes per team plus five minutes per member. For example, three teams with four members each require 90 minutes. Larger cohorts or teams need additional scheduled blocks. Canvas specifies the presentation and individual-defense slots.
+Allow ten minutes per team plus five minutes per student. Presentations and individual defenses take place across the two Week 8 meetings and any posted overflow block. Follow the individual slots in Canvas and prepare to explain the entire audit.
 
 | Criterion | Points | Evidence for Full Credit |
 | --- | --- | --- |
@@ -72,10 +72,10 @@ Total: 5 points. Score each criterion using the anchors below; half points may b
 
 Full credit: accurate, complete, and supported. About three quarters: sound reasoning with a minor omission. About half: a substantial omission or error weakens the argument. About one quarter: a relevant attempt with little support. Zero: absent or unrelated. Apply these anchors within each criterion, rather than counting words mechanically.
 
-Score each student’s own answers separately under M4A3. This five-point rubric is worth 2.5% of the full course. It is additional to the shared 30-point M4A1 team score. Both sets of instructions are kept in this Project Part 2 brief.
+Score each student’s own answers separately under M4A3. This five-point rubric is worth 5% of the full course, in addition to the shared 30-point M4A1 team score. Both sets of instructions are kept in this Project Part 2 brief.
 
 ## Use of AI
 
 AI Assessment Scale level 4. The model is the subject of the audit. Disclose AI assistance with analysis or writing and verify the final work. The oral defense is level 0: answer the questions yourself without live AI assistance.
 
-Learning objectives: M3LO3, M3LO4, M4LO1, M4LO2, M4LO3, and M4LO4.
+Learning objectives: M3LO3, M3LO4, M4LO1–M4LO4, M5LO5, M6LO3–M6LO5, M7LO1–M7LO5, and M8LO1–M8LO4.

@@ -8,6 +8,10 @@ These notes connect the recorded lectures, live-session applications, and Python
 | 2 | [Order Effects and Uncertainty](M2_Order_and_Uncertainty.md) | [Order and QQ](../06_Python/notebooks/M2_Order_and_QQ.ipynb) |
 | 3 | [Human-AI Decision Processes](M3_Human_AI_Processes.md) | [Interference and Brackets](../06_Python/notebooks/M3_Interference_and_Brackets.ipynb) |
 | 4 | [Evidence and Managerial Action](M4_Evidence_and_Action.md) | [Audit Practice and Project Starter](../06_Python/README.md) |
+| 5 | [Free Will and Agency](M5_Free_Will_and_Agency.md) | [Agency Practice](../06_Python/M5_6_Agency_Practice.md) |
+| 6 | [Agency over Time](M6_Agency_over_Time.md) | [Histories and Welfare Practice](../06_Python/M5_6_Agency_Practice.md) |
+| 7 | [Analysis and Peer Critique](M7_Analysis_and_Peer_Critique.md) | [Team Audit Starter](../06_Python/notebooks/M1_4_Project_Audit_Starter.ipynb) |
+| 8 | [Presentations and Individual Defense](M8_Presentations_and_Individual_Defense.md) | Saved analysis, figures, and revision record |
 
 The notes are adapted from Nathan Yang's quantum cognition manuscript. They use the current course definitions and collection design. The [reading guide](../05_Readings/README.md) links supporting papers and contrasting explanations. The [lecture transcripts](../07_Lecture_Transcripts/README.md) provide the narration used in the recorded sequence.
 
@@ -17,4 +21,4 @@ The notes are adapted from Nathan Yang's quantum cognition manuscript. They use 
 
 ## Free Will and Agency
 
-[Module 5](M5_Free_Will_and_Agency.md) · [Philosophy primer](M1M5_Philosophy_Primer.docx) · [Module 6](M6_Agency_over_Time.md) · [Agency practice](../06_Python/M5_6_Agency_Practice.md). Weeks 7–8 use the live-session studios and presentation guides.
+[Module 5](M5_Free_Will_and_Agency.md) · [Philosophy primer](M1M5_Philosophy_Primer.docx) · [Module 6](M6_Agency_over_Time.md) · [Agency practice](../06_Python/M5_6_Agency_Practice.md). Modules 7–8 use the notes above with the live-session studios and presentation guides.
